@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+title: User Research Guide
+description: Working document for people to collaborate on the user research guide
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+aux_links:
+  "Edit on Github":
+    - "//github.com/bcgov/user-research-guide"
+  "Email your comments":
+    - "//github.com/dlevineBC/user-research-guide-alpha"
