@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-Alpha
+Alpha v0.01
 {: .label }
 # User Research Guide
 
