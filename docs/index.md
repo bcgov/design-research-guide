@@ -8,7 +8,7 @@ Alpha
 {: .label }
 # User Research Guide
 
-This is draft guidance for the new user research guide for the B.C. government. This guide is hosted on Github as a way to work in the open and receive feedback on content.
+The B.C. User Research Guide provides documentation and instruction on conducting user research in the B.C. Government. This guide is hosted on Github as a way to work in the open and receive feedback on content.
 
 ## Get Started
 You will need to create a Github account to suggest edits in Github
