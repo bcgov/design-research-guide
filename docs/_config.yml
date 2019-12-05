@@ -5,5 +5,3 @@ search_enabled: true
 aux_links:
   "Edit on Github":
     - "//github.com/bcgov/user-research-guide"
-  "Email your comments":
-    - "//github.com/dlevineBC/user-research-guide-alpha"
