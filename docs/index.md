@@ -8,13 +8,14 @@ Alpha
 {: .label }
 # User Research Guide
 
-The B.C. User Research Guide provides documentation and instruction on conducting user research in the B.C. Government. This guide is hosted on Github as a way to work in the open and receive feedback on content.
+The BC User Research Guide provides documentation and instruction on conducting user research as a BC public servant. 
 
 ## Get Started
-You will need to create a Github account to suggest edits in Github
 
-Each page has a link to "suggest an edit". If you find inaccurate content, you need more information, or something is missing, use this link to create an "issue" in Github repository.
+Content for the guide is hosted on Github and published using Github Pages.
 
-You can also email suggestions to <uxbc@gov.bc.ca>
+If you find inaccurate content, need more information, or content is missing you can create an "issue" in the Github repository or email <uxbc@gov.bc.ca>
+
+Before suggesting new content, look at to the [https://github.com/bcgov/user-research-guide/projects/1](Projects page) to see the backlog of content being created.
 
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
