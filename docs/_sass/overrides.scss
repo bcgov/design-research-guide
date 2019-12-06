@@ -1,5 +1,9 @@
 a:not([class]){
-  text-decoration: underline !important;
+  background-image: none;
+}
+
+a:not([class]):hover{
+  text-decoration: none;
 }
 
 .page-content a {
