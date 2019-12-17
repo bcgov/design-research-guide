@@ -14,7 +14,11 @@ The BC User Research Guide provides documentation and instruction on conducting 
 
 User research is about understanding people. When we see citizens, stakeholders, staff and partners as people first we unlock vital perspectives. Knowing the viewpoints, abilities, values, motivations, goals, tasks, and limits of people lays the groundwork for designing services that work for them.
 
-## Get Started
+## Before you Start
+
+This guide assumes that you will be doing research on participants over 18 years old who are capable of making their own decisions and are residents of British Columbia. If you will be collecting information from participants that require special attention (minors, etc.) extra precaution needs to be taken beyond this guide.
+
+## How the Guide Works
 
 Content for the guide is hosted on Github and published using Github Pages.
 
