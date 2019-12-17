@@ -10,14 +10,13 @@ Coming soon
 
 # Privacy and PIA Requirements
 
+# Staffing and Time Requirements
+
+Good research requires time. Expect members of your research team to dedicate at least 50 per cent of their workday to the project. While this may not be an out-of-pocket expense, it could require temporarily shifitng staff responsibilties. Of course, hiring a full-time user research role is always an option. 
+
 # Securing a Budget
 
 We often hear from ministries that they want to do user research, but don't have room in their budget to make it happen. User research doesn't have to be expensive, but there are some key costs to consider.
-
-## Staff Time
-Good research requires a time committment. Expect members of your research team to dedicate at least 50 per cent of their workday to the project. While this may not be an out-of-pocket expense, it may require temporarily shifitng staff responsibilties. Of course, hiring a full-time user research role is always an option. 
-
-- **Staff Budget:** $0 and up
 
 ## Travel
 Getting out and talking to people is the heart of user research. The Service Design team likes to meet people where they are; home, work, school, or their favourite coffee shop. We also like to conduct interviews in different regions of the province. A parent accessing child care in Vancouver will have a very different experience compared to a parent in Dawson Creek. 
@@ -54,8 +53,5 @@ Depending on who you interview, compensation may not be required:
 
 - **Stipend Budget:** $0 and up **Read the detailed compensation guide**
 
-
-
-# Staffing and Time Requirements
 
 # Using GBA+ 
