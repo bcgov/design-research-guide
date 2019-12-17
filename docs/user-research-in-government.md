@@ -22,17 +22,17 @@ Good research requires a time committment. Expect members of your research team 
 ## Travel
 Getting out and talking to people is the heart of user research. The Service Design team likes to meet people where they are; home, work, school, or their favourite coffee shop. We also like to conduct interviews in different regions of the province. A parent accessing child care in Vancouver will have a very different experience compared to a parent in Dawson Creek. 
 
-- Preferred Travel Budget: 
+- **Preferred Travel Budget:** 
 Two team members meeting people in multiple regions of the province (hotel, airfare, car rental, taxi or public transportation, per diems). 
 **Example:** Surrey, Kelowna, Prince George, Nanaimo
 *Approximately $4,000*
 
-- Low Cost Travel Budget: 
+- **Low Cost Travel Budget:** 
 Two team members meeting people in their community and one to two neighbouring communities (mileage costs, taxi or public transportation, per diems). 
 **Example:** Victoria, Langford, Duncan
 *Approximately $300*
 
-- No Cost Travel Budget:
+- **No Cost Travel Budget:**
 Two team members meeting people in their community, hosting interviews at government locations when appropriate (taxi or public transportation). 
 **Example:** Victoria
 *Approximately $0-$50*
