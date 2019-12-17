@@ -10,6 +10,10 @@ Alpha
 
 The BC User Research Guide provides documentation and instruction on conducting user research as a BC public servant. 
 
+## It's About People
+
+User research is about understanding people. When we see citizens, stakeholders, staff and partners as people first we unlock vital perspectives. Knowing the viewpoints, abilities, values, motivations, goals, tasks, and limits of people lays the groundwork for designing services that work for them.
+
 ## Get Started
 
 Content for the guide is hosted on Github and published using Github Pages.
