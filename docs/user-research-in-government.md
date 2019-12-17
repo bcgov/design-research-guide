@@ -1,7 +1,7 @@
 ---
 layout: default
-title: User Research 101
-nav_order: 2
+title: User Research in Government
+nav_order: 3
 ---
 Coming soon
 {: .label .label-yellow }
