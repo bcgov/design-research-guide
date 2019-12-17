@@ -16,7 +16,7 @@ User research is about understanding people. When we see citizens, stakeholders,
 
 > This guide assumes that you will be doing research on participants over 18 years old who are capable of making their own decisions and are residents of British Columbia. If you will be collecting information from participants that require special attention (minors, etc.) extra precaution needs to be taken beyond this guide.
 
-## How the Guide Works
+## Provide Feedback
 
 Content for the guide is hosted on Github and published using Github Pages.
 
