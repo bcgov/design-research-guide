@@ -17,7 +17,7 @@ We often hear from ministries that they want to do user research, but don't have
 ## Staff Time
 Good research requires a time committment. Expect members of your research team to dedicate at least 50 per cent of their workday to the project. While this may not be an out-of-pocket expense, it may require temporarily shifitng staff responsibilties. Of course, hiring a full-time user research role is always an option. 
 
-- Cost: $0 and up
+- **Staff Budget:** $0 and up
 
 ## Travel
 Getting out and talking to people is the heart of user research. The Service Design team likes to meet people where they are; home, work, school, or their favourite coffee shop. We also like to conduct interviews in different regions of the province. A parent accessing child care in Vancouver will have a very different experience compared to a parent in Dawson Creek. 
@@ -37,9 +37,22 @@ Two team members meeting people in their community, hosting interviews at govern
 **Example:** Victoria
 *Approximately $0-$50*
 
+## Stipends
+Each person has their own perspective and experiences to share. The best way to acknowledge their input is to compensate them; especially when they are taking time away from work to give us their thoughts.
 
+Compensation is good practice:
 
+- Not everyone has the luxury of donating their time to your user research project. There may be child care considerations, long commute times, or other reasons where unpaid research is not a high priority.
+- People who are able to participate voluntarily generally have time or sufficient income to attend and this leads to poor sampling.
+- If you conduct free user research, most people are unlikely to take time off from work to participate. A good question to ask yourself is *"How likely are you to participate in a one-hour, unpaid interview, where you would have to take time off to travel to their office and provide feedback?"* Usually that question will illustrate why paying participants will make their effort worthwhile.
 
+Depending on who you interview, compensation may not be required:
+
+- Employees or contractors of the BC Public Service
+- Ministry stakeholders, service partners, or organizations receiving operating funding from the province
+- Participants who are part of a working group of the particular study or participants who are getting paid as part of their work to partake in the study
+
+- **Stipend Budget:** $0 and up **Read the detailed compensation guide**
 
 
 
