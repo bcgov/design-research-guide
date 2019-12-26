@@ -100,15 +100,28 @@ It’s fine if the individual is not a strong match. It saves your time and the 
 
 ### Sample Screener
 
-Your location/community: 
-Family status: 
-Age of child at autism diagnosis:
-Current age of child:
-Availability during the week of January 14: 
+- Your location/community: 
+- Family status: 
+- Age of child at autism diagnosis:
+- Current age of child:
+- Availability during the week of January 14: 
 
 # Scheduling Interviews
 
-Do not mention specifics of the research such as how many tasks the users need to complete ahead of time. The users will feel pressured to complete the tasks in a timebox, rather than focusing on the tasks itself.
+Once participants have been screened and selected, it is important to keep them informed about their participation in the interview process. When scheduling an interview, be flexible, but firm when picking a date, time and location to meet. 
+
+**For example:**
+- "We are scheduling interviews in Victoria on Monday, January 13 and Tuesday, January 14 between 8am and 6pm."
+- "We will be in your community next Friday and have availability to meet at 1:30pm or 4pm."
+- "We are happy to host you at our meeting space downtown. If you prefer, we could also meet at your home or office."
+
+Whenver possible, use a participant's preferred method of communication (phone call, email, or text) to contact them when the interview date is set. It's also good practice to give them a courtesy reminder a day in advance of the interview.
+
+**A note for researchers.** While it's tempting to schedule as many interviews as possible in one day, we know from experience this isn't good for anyone. 
+
+Interviews are tiring. Interviewing, active listening, observing, and note-taking require a high degree of focus. 
+Interviews can be emotionally taxing. Depending on your research topic, users may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important. 
+Interviews are hard to predict. 
 
 # Picking Interview Locations
 
