@@ -70,27 +70,27 @@ Asking stakeholders or community groups to send out your recruitment messaging t
 
 ### Sample Recruitment Message, Participant
 
-*Are you a parent or guardian of a child with autism spectrum disorder?
+*Are you a parent or guardian of a child with autism spectrum disorder?*
 
-*If so, we are interested in speaking to you about government autism services. The Province is improving how families learn about and use government autism services. We'd like to spend approximately 60 minutes with you to better understand your needs and your challenges when accessing autism information and utilizing funding.
+*If so, we are interested in speaking to you about government autism services. The Province is improving how families learn about and use government autism services. We'd like to spend approximately 60 minutes with you to better understand your needs and your challenges when accessing autism information and utilizing funding.*
 
-*What’s in it for you? You’ll receive a $50 gift card as a thank you for your time. We are scheduling interviews for January. If you are interested, please contact jane.doe@gov.bc.ca or call 250-555-1234 by January 4.
+*What’s in it for you? You’ll receive a $50 gift card as a thank you for your time. We are scheduling interviews for January. If you are interested, please contact jane.doe@gov.bc.ca or call 250-555-1234 by January 4.*
 
-*We will be qualifying participants. Please note, only those selected to participate in the research will be eligible for compensation.
+*We will be qualifying participants. Please note, only those selected to participate in the research will be eligible for compensation.*
 
 ### Sample Recruitment Message, Stakeholder/Service Provider
 
-*To Whom It May Concern:
+*To Whom It May Concern:*
 
-*We are working on a project with the Ministry of Child and Family Development to improve how families, providers, and organizations like yourself learn about and use government autism services. MCFD identified **Service Provider Name** as a key contact for the project because of your connections to families who may have a child diagnosed with ASD, or who are in the process of pursuing a diagnosis.
+*We are working on a project with the Ministry of Child and Family Development to improve how families, providers, and organizations like yourself learn about and use government autism services. MCFD identified **Service Provider Name** as a key contact for the project because of your connections to families who may have a child diagnosed with ASD, or who are in the process of pursuing a diagnosis.*
 
-*We’re doing research to better understand the needs and challenges that families may encounter when accessing autism information and funding.There are two ways we’re hoping you can help:
+*We’re doing research to better understand the needs and challenges that families may encounter when accessing autism information and funding.There are two ways we’re hoping you can help.*
 
-*1. Could we schedule an interview with yourself or one of your colleagues who has experience working with families navigating autism information and services, for us to learn from you about the needs and challenges you see and how you provide services?
+*1. Could we schedule an interview with yourself or one of your colleagues who has experience working with families navigating autism information and services, for us to learn from you about the needs and challenges you see and how you provide services?*
 
-*2. Could you help connect us with families who may be interested in participating in the project? A large part of our work is talking to parents and caregivers across the province about their stories, challenges and successes with autism services in B.C. Sessions will take place in the first three weeks of January. We go to where parents/caregivers are – in their homes, at work, or a place they feel comfortable – and spend about an hour getting to know them and hearing about their experiences. These longer behavioural interviews help our research focus on the entire parent journey. We typically need about an hour with each person, but can accommodate a shorter interview. All parents/caregivers interviewed received a stipend as a thank you for their time.
+*2. Could you help connect us with families who may be interested in participating in the project? A large part of our work is talking to parents and caregivers across the province about their stories, challenges and successes with autism services in B.C. Sessions will take place in the first three weeks of January. We go to where parents/caregivers are – in their homes, at work, or a place they feel comfortable – and spend about an hour getting to know them and hearing about their experiences. These longer behavioural interviews help our research focus on the entire parent journey. We typically need about an hour with each person, but can accommodate a shorter interview. All parents/caregivers interviewed received a stipend as a thank you for their time.*
 
-*If you have further questions, feel free to give us a call, and please let us know if there is a good time to meet in person.Thank you in advance for your time. Your involvement will help us better understand needs and  identify opportunities to improve autism information and service delivery in B.C.
+*If you have further questions, feel free to give us a call, and please let us know if there is a good time to meet in person.Thank you in advance for your time. Your involvement will help us better understand needs and  identify opportunities to improve autism information and service delivery in B.C.*
 
 # Screening Participants
 
