@@ -90,19 +90,25 @@ Asking stakeholders or community groups to send out your recruitment messaging t
 
 *2. Could you help connect us with families who may be interested in participating in the project? A large part of our work is talking to parents and caregivers across the province about their stories, challenges and successes with autism services in B.C. Sessions will take place in the first three weeks of January. We go to where parents/caregivers are – in their homes, at work, or a place they feel comfortable – and spend about an hour getting to know them and hearing about their experiences. These longer behavioural interviews help our research focus on the entire parent journey. We typically need about an hour with each person, but can accommodate a shorter interview. All parents/caregivers interviewed received a stipend as a thank you for their time.*
 
-*If you have further questions, feel free to give us a call, and please let us know if there is a good time to meet in person.Thank you in advance for your time. Your involvement will help us better understand needs and  identify opportunities to improve autism information and service delivery in B.C.*
+*If you have further questions, feel free to give us a call, and please let us know if there is a good time to meet in person. Thank you in advance for your time. Your involvement will help us better understand needs and  identify opportunities to improve autism information and service delivery in B.C.*
 
 # Screening Participants
 
+A screener is a list of criteria used to check whether or not your potential participant would match with the characteristics of your target audience. Screening participants also helps you meet your research requirements. 
 
-A screener is a list of criteria used to check whether or not your potential participant would match with the characteristics of your target audience. 
+It’s fine if the individual is not a strong match. It saves your time and the individual’s time. Thank them for their interest in the project and for sharing their story, and ask if they are open to you contacting them in the future for other research projects.
 
-This also gets directly into the touchpoints or
-pain points you may want to study. Questions like this ensure that you identify participants whose experience is pertinent to your work. It’s fine if the individual is not a strong match. It saves your time and the individual’s time. Thank them for their interest in the project and for sharing their story, and ask if they are open to you contacting them in the future for other research projects.
+### Sample Screener
+
+Your location/community: 
+Family status: 
+Age of child at autism diagnosis:
+Current age of child:
+Availability during the week of January 14: 
 
 # Scheduling Interviews
 
-Tips on recruiting: Do not mention specifics of the research such as how many tasks the users need to complete ahead of time. The users will feel pressured to complete the tasks in a timebox, rather than focusing on the tasks itself.
+Do not mention specifics of the research such as how many tasks the users need to complete ahead of time. The users will feel pressured to complete the tasks in a timebox, rather than focusing on the tasks itself.
 
 # Picking Interview Locations
 
