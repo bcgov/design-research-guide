@@ -119,9 +119,9 @@ Whenver possible, use a participant's preferred method of communication (phone c
 
 **A note for researchers.** While it's tempting to schedule as many interviews as possible in one day, we know from experience this isn't good for anyone. 
 
-**- Interviews are tiring.** Interviewing, active listening, observing, and note-taking require a high degree of focus. 
+- **Interviews are tiring.** Interviewing, active listening, observing, and note-taking require a high degree of focus. 
 
-**- Interviews can be emotionally taxing.** Depending on your research topic, users may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important. 
+- **Interviews can be emotionally taxing.** Depending on your research topic, users may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important. 
 
 We recommend scheduling no more than four one-hour interviews per day. Leave a buffer of at least 45 minutes between interviews.
 
