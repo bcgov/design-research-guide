@@ -141,9 +141,58 @@ A good interview location is one that is easy for the user to access and makes t
 
 # Interview Roles and Responsibilites 
 
+Conduct your research in pairs. One person will ask questions and the other person will take notes and photos. The interviewer should focus on the interviewee and the notetaker is there to support and document the interview. 
 
+### Before the interview, mentally prepare
+
+- The user is the expert in their own experience. Observe and listen to them so as to understand their experience.
+- The insights of the user are facts as they believe them to be. There are no wrong answers in the interview.
+- Approach the user ready to hear their story and their perspective. Before the interview, check your assumptions and internal biases.
+- Be mentally present and focused in the moment.
+
+### Starting the interview
+
+- Introduce yourselves. Users may want to spend some time getting to know you before they open up to you.
+- Share the purpose of the interview and confirm with the user they understand. Let them know they can ask questions if they are confused or don't understand what you are asking. 
+- Explain the consent form and ask the user to sign it. 
+- Start the recording device (if using) and begin the interview. 
+- Be silent if the user seems to be thinking or mulling something over. Allow them time to think. Get comfortable with long pauses. Always be mindful of the user’s comfort level. Pull back when necessary and go in deeper when possible.
+- Remember, smile and make eye contact.
 
 # Paying Research Participants
+
+Each person has their own perspective and experiences to share. The best way to acknowledge their input is to compensate them; especially when they are taking time away from work to give us their thoughts.
+
+Compensation is good practice:
+
+- Not everyone has the luxury of donating their time to your user research project. There may be child care considerations, long commute times, or other reasons where unpaid research is not a high priority.
+- People who are able to participate voluntarily generally have time or sufficient income to attend and this leads to poor sampling.
+- If you conduct free user research, most people are unlikely to take time off from work to participate. A good question to ask yourself is *"How likely are you to participate in a one-hour, unpaid interview, where you would have to take time off to travel to their office and provide feedback?"* Usually that question will illustrate why paying participants will make their effort worthwhile.
+
+Depending on who you interview, compensation may not be required:
+
+- Employees or contractors of the BC Public Service
+- Ministry stakeholders, service partners, or organizations receiving operating funding from the province
+- Participants who are part of a working group of the particular study or participants who are getting paid as part of their work to partake in the study
+
+## Compensation Amounts
+
+Compensation should be appropriate in type and amount. The research team is responsible for assessing the level of compensation.
+
+All compensation should be provided fairly to all users in the same study, with equal compensation for equal participation regardless of income, age, gender, race. 
+
+### Recommended compensation
+
+| Type of Research | Duration of Interview | Compensation |
+| :---        |    :----:   |          ---: |
+| Intercept    | 10-15 minutes      | $10 |
+| One-on-One Interview  | 30 minutes      | $25  |
+| One-on-One Interview  | 60 minutes      | $50  |
+| Usability Testing | 30 minutes      | $25  |
+| Usability Testing | 60 minutes      | $50  |
+
+
+
 
 # Consent Forms
 
