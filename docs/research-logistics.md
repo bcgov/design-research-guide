@@ -130,14 +130,12 @@ We recommend scheduling no more than four one-hour interviews per day. Leave a b
 A good interview location is one that is easy for the user to access and makes them feel comfortable. We like to offer multiple options and let the user pick which is best for them. 
 
 - **User's home** 
-
 - **User's place of employment**
-
 - **Government office/meeting room** 
-
 - **Local coffee shop or restaurant**
-
 - **Community organization**
+
+No matter where the interview takes place, try to create a safe, comfortable, and quiet space where your user can speak honestly about the subject.
 
 # Interview Roles and Responsibilites 
 
@@ -222,14 +220,6 @@ The purpose of a consent form is for both users and researchers of the session t
 - Store data on an encrypted government device
 - Review the consent form and fill in parts that are necessary
 
-### What needs to be stored?
-
-For record keeping and auditing purposes, you will need to safely store:
-- Signed consent form as a record for participating in the study
-- Compensation form for auditing purposes
-
-We also recommend storing the users anonymized analysis separate from their personal information. Doing this will decrease the risk of associating personal information with what came out of the session.
-
 ### Consent Form Downloads
 
 Coming soon. 
@@ -238,18 +228,30 @@ Coming soon.
 
 ### Recording
 
-With informed consent from the participant, you may choose to record the test session. You must inform the participant:
+With informed consent, you may choose to record the test session. You must inform the user:
 
-what the recording is for
-how you will protect personal information
-that their personal information, such as stories and experiences, will not be associated with them
+- What the recording is for
+- How you will protect personal information
+- That their personal information, such as stories and experiences, will not be associated with them
 
 ### Equipment
 
-The equipment for this kind of research is simple and low-tech. Don’t bring your laptop into an interview unless absolutely necessary. And do not use it to take notes. Instead, notes should
-be hand-written. If you have received consent
-to capture audio, use a recording device, such as
-a smartphone. Reserve a quiet, private room or wherever your participant feels comfortable. This may be in the participant’s home, at office, or in
-a public place of the participant’s choosing. No matter where the interview takes place, try to create a safe, comfortable, and quiet space where your participant can speak honestly about the subject.
+The equipment for this kind of research is simple and low-tech. If you have received consent to capture audio, use a recording device, such as a smartphone. 
+
+We prefer to take notes, often verbatim, on a laptop. This saves time during analysis. In circumstances where using a laptop is not appropriate, hand-written notes are okay. 
+
+When conducting usuability testing, a laptop and screen-recording software will be required. Check with the Service Design Team for suggestions on what screen-recording software to use. 
+
+If the user has consented to photography, a smartphone is perfectly fine. A large DSLR or digital camera can be intimidating.
 
 # Data Collection and Storage
+
+Recordings from user research sessions are considered records and should be handled like other ministry records. Please consult with your records manager for best practice.
+
+### What needs to be stored?
+
+For record keeping and auditing purposes, you will need to safely store:
+- Signed consent form as a record for participating in the study
+- Compensation form for auditing purposes
+
+We also recommend storing the users anonymized analysis separate from their personal information. Doing this will decrease the risk of associating personal information with what came out of the session.
