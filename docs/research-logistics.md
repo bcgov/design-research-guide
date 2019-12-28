@@ -191,10 +191,17 @@ All compensation should be provided fairly to all users in the same study, with 
 | Usability Testing | 30 minutes      | $25  |
 | Usability Testing | 60 minutes      | $50  |
 
+### Forms of compensation
 
+The easiest way to provide compensation is a gift card. We like to offer 3-5 options and let the user select which is best for them. The city or region you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. 
 
+Offering a prepaid Visa or Mastercard is also an option. This option costs more, as these cards come with an activation fee. Factor the activation fees into your budget if you go this route. 
+
+At this time, we are not able to provide e-gift cards. 
 
 # Consent Forms
+
+
 
 # Recording the Interview
 
