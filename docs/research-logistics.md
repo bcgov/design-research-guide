@@ -188,8 +188,10 @@ All compensation should be provided fairly to all users in the same study, with 
 | Intercept    | 10-15 minutes      | $10 |
 | One-on-One Interview  | 30 minutes      | $25  |
 | One-on-One Interview  | 60 minutes      | $50  |
+| One-on-One Interview with an Expert* | 60 minutes      | $100 and up  |
 | Usability Testing | 30 minutes      | $25  |
 | Usability Testing | 60 minutes      | $50  |
+* An expert could be a lawyer, doctor, or other professional who would lose billable hours out of their day by participating in an interview. Compensate them accordingly. 
 
 ### Forms of compensation
 
@@ -201,8 +203,53 @@ At this time, we are not able to provide e-gift cards.
 
 # Consent Forms
 
+The purpose of a consent form is for both users and researchers of the session to understand and agree on:
 
+- Who is collecting the data
+- The purpose of the study (Why you are collecting the data)
+- Any recordings that will happen during the session and how information will be handled
+- What type of information will be recorded
+- How the information is going to be used
+- Who to contact if there are any questions
 
-# Recording the Interview
+**A separate consent form is required for compensation.**
+
+## Consent Form Criteria
+
+- Only share information with the people working on this project
+- Anonymize your notes
+- Do not intentionally ask for personal information if it is not necessary
+- Store data on an encrypted government device
+- Review the consent form and fill in parts that are necessary
+
+### What needs to be stored?
+
+For record keeping and auditing purposes, you will need to safely store:
+- Signed consent form as a record for participating in the study
+- Compensation form for auditing purposes
+
+We also recommend storing the users anonymized analysis separate from their personal information. Doing this will decrease the risk of associating personal information with what came out of the session.
+
+### Consent Form Downloads
+
+Coming soon. 
+
+# Recording the Interview & Equipment Requirements
+
+### Recording
+
+With informed consent from the participant, you may choose to record the test session. You must inform the participant:
+
+what the recording is for
+how you will protect personal information
+that their personal information, such as stories and experiences, will not be associated with them
+
+### Equipment
+
+The equipment for this kind of research is simple and low-tech. Don’t bring your laptop into an interview unless absolutely necessary. And do not use it to take notes. Instead, notes should
+be hand-written. If you have received consent
+to capture audio, use a recording device, such as
+a smartphone. Reserve a quiet, private room or wherever your participant feels comfortable. This may be in the participant’s home, at office, or in
+a public place of the participant’s choosing. No matter where the interview takes place, try to create a safe, comfortable, and quiet space where your participant can speak honestly about the subject.
 
 # Data Collection and Storage
