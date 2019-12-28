@@ -127,7 +127,21 @@ We recommend scheduling no more than four one-hour interviews per day. Leave a b
 
 # Picking Interview Locations
 
+A good interview location is one that is easy for the user to access and makes them feel comfortable. We like to offer multiple options and let the user pick which is best for them. 
+
+- **User's home** 
+
+- **User's place of employment**
+
+- **Government office/meeting room** 
+
+- **Local coffee shop or restaurant**
+
+- **Community organization**
+
 # Interview Roles and Responsibilites 
+
+
 
 # Paying Research Participants
 
