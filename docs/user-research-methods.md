@@ -24,3 +24,15 @@ Shadowing and observation is about spending time observing a user in the context
 - Wrap up by having them clarify any outstanding questions, or conduct a more formal interview.
 
 # Usability Testing
+
+Usability testing is a a way to uncover issues with your service by testing it with real users. Users perform a series of tasks while being observed to see where they encounter problems or become confused. By testing with multiple users, recurring issues will be identified as areas of improvement. Usability testing is often used for website or application prototypes, but can be used to test other services as well. 
+
+### Steps
+
+- Identify what areas of your service you want to test. This could be new content, an online application, or a user's journey through a website. 
+- Create a list of tasks for users to complete. These can be used as prompts during the test. Remember, you don't want to tell the user what to do. 
+- Conduct the test. Have one person moderate and one person take notes. Again, you want to observe. Avoid helping or leading users while completing a task. Users will surprise you!
+- Remind users you are testing the service, not them. Any issues they encounter is a problem with the service, not their inability.
+- If possible, try to screen record the session for later analysis. This is also useful footage to have when presenting to executive sponsors or to your development team. 
+- Compile all your findings from the test to identify areas of improvement. These may be small usability issues or larger problems with the whole service. 
+- A majority of usability issues will be uncovered after 3 to 5 tests. 
