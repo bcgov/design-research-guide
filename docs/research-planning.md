@@ -16,12 +16,14 @@ The better you understand your users, the more likely you are to design and buil
 
 Who are our users? They are people who need to use the services you are working on. When designing or iterating a government service, start by learning about current and future users. If you don’t understand who the users are or what they need from your service, you can’t build the right thing.
 
-## User Needs Statements
+### User Needs Statements
 User need statements, also often called problem statements or point-of-view statements, are important in capturing what we want to achieve with our design, not how. They're used to summarize who a particular user is, the user’s need, and why the need is important to that user. It defines what you want to solve before you move on to generating potential solutions. 
 
 Traditional need statements have 3 components: 1) a user, 2) a need, and 3) a goal. These are then combined following the pattern [A user] needs [need] in order to accomplish [goal].
 
 - For example, [Alieda, a multitasking, tech-savvy mother of 2] needs [to quickly and confidently compare options without leaving her comfort zone] in order to [spend more time doing the things that really matter].
+
+### 
 
 # Bringing the Team Along
 
