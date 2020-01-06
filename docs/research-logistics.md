@@ -4,10 +4,10 @@ title: Research Logistics
 nav_order: 5
 ---
 
-Alpha
-{: .label }
+In Progress
+{: .label .label-yellow}
 
-The focus of your research determines who you recruit and how many people you recruit. Consider recruiting people of different ages, ethnicities, genders, and life circumstances to capture a wide variety of experiences and perspectives. 
+The focus of your research determines who you recruit and how many people you recruit. Consider recruiting people of different ages, ethnicities, genders, and life circumstances to capture a wide variety of experiences and perspectives.
 
 Recruitment takes time and is a key step in user research. Don't rush this process!
 
@@ -17,7 +17,7 @@ There is no one exact number you need to achieve when completing user research. 
 
 ### Are different types of users represented?
 
-Narrowing down user needs when there are multiple users is hard. However, if you try to please everyone, you end up pleasing no one. 
+Narrowing down user needs when there are multiple users is hard. However, if you try to please everyone, you end up pleasing no one.
 
 - **Tool experience:** How familiar is the user with how to use the website, application, and/or product/service?
 - **Program experience:** How familiar is the user with programs and/or services that surround the tool?
@@ -25,7 +25,7 @@ Narrowing down user needs when there are multiple users is hard. However, if you
 
 ### Have we heard from a diverse set of users?
 
-Is the mix of users you are speaking to a reflection of the diversity one might see in the overall population? This is where GBA+ can help with recruitment. 
+Is the mix of users you are speaking to a reflection of the diversity one might see in the overall population? This is where GBA+ can help with recruitment.
 
 - **Accessbility:** Users with special needs are often good at articulating the problems more than generic users might experience, but have a harder time putting their finger on it.
 - **Extreme use cases:** Extreme users tend to have the same needs as the average users, but their needs are much more amplified. This is the opposite of the common approach to defining users very broadly. For example, "everyone in BC is my user group."
@@ -36,7 +36,7 @@ Patterns in user answers typically begin to form after you've interviewed five d
 
 # Finding the Right Research Participants
 
-Depending on who your target audience is, there will be multiple ways to recruit users. Consider what is most suitable and relevant for your project. 
+Depending on who your target audience is, there will be multiple ways to recruit users. Consider what is most suitable and relevant for your project.
 
 **Recruitment Channels:**
 - Ministry stakeholders
@@ -56,9 +56,9 @@ If you ask stakeholders or service partners to help you contact users, give a cl
 
 # Writing Recruitment Messages
 
-A recruitment message is an easy way to quickly describe your research project to potential participants. Depending on where and how the message will be send out, the length and level of detail will vary. 
+A recruitment message is an easy way to quickly describe your research project to potential participants. Depending on where and how the message will be send out, the length and level of detail will vary.
 
-Asking stakeholders or community groups to send out your recruitment messaging through their established communication channels is a great way to connect with users who may not typically engage with government. Channels like email newsletters and Facebook pages often yield a large number of user responses. 
+Asking stakeholders or community groups to send out your recruitment messaging through their established communication channels is a great way to connect with users who may not typically engage with government. Channels like email newsletters and Facebook pages often yield a large number of user responses.
 
 **Essential elements to include:**
 - Brief overview of what the project wants to achieve
@@ -66,7 +66,7 @@ Asking stakeholders or community groups to send out your recruitment messaging t
 - Time commitment/estimated interview length
 - Researcher contact information
 - Date range when interviews will be scheduled
-- Compensation (if applicable) 
+- Compensation (if applicable)
 
 ### Sample Recruitment Message, Participant
 
@@ -94,21 +94,21 @@ Asking stakeholders or community groups to send out your recruitment messaging t
 
 # Screening Participants
 
-A screener is a list of criteria used to check whether or not your potential participant would match with the characteristics of your target audience. Screening participants also helps you meet your research requirements. 
+A screener is a list of criteria used to check whether or not your potential participant would match with the characteristics of your target audience. Screening participants also helps you meet your research requirements.
 
 It’s fine if the individual is not a strong match. It saves your time and the individual’s time. Thank them for their interest in the project and for sharing their story, and ask if they are open to you contacting them in the future for other research projects.
 
 ### Sample Screener
 
-- Your location/community: 
-- Family status: 
+- Your location/community:
+- Family status:
 - Age of child at autism diagnosis:
 - Current age of child:
-- Availability during the week of January 14: 
+- Availability during the week of January 14:
 
 # Scheduling Interviews
 
-Once participants have been screened and selected, it is important to keep them informed about their participation in the interview process. When scheduling an interview, be flexible, but firm when picking a date, time and location to meet. 
+Once participants have been screened and selected, it is important to keep them informed about their participation in the interview process. When scheduling an interview, be flexible, but firm when picking a date, time and location to meet.
 
 **For example:**
 - "We are scheduling interviews in Victoria on Monday, January 13 and Tuesday, January 14 between 8am and 6pm."
@@ -117,29 +117,29 @@ Once participants have been screened and selected, it is important to keep them 
 
 Whenver possible, use a participant's preferred method of communication (phone call, email, or text) to contact them when the interview date is set. It's also good practice to give them a courtesy reminder a day in advance of the interview.
 
-**A note for researchers.** While it's tempting to schedule as many interviews as possible in one day, we know from experience this isn't good for anyone. 
+**A note for researchers.** While it's tempting to schedule as many interviews as possible in one day, we know from experience this isn't good for anyone.
 
-- **Interviews are tiring.** Interviewing, active listening, observing, and note-taking require a high degree of focus. 
+- **Interviews are tiring.** Interviewing, active listening, observing, and note-taking require a high degree of focus.
 
-- **Interviews can be emotionally taxing.** Depending on your research topic, users may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important. 
+- **Interviews can be emotionally taxing.** Depending on your research topic, users may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important.
 
 We recommend scheduling no more than four one-hour interviews per day. Leave a buffer of at least 45 minutes between interviews.
 
 # Picking Interview Locations
 
-A good interview location is one that is easy for the user to access and makes them feel comfortable. We like to offer multiple options and let the user pick which is best for them. 
+A good interview location is one that is easy for the user to access and makes them feel comfortable. We like to offer multiple options and let the user pick which is best for them.
 
-- **User's home** 
+- **User's home**
 - **User's place of employment**
-- **Government office/meeting room** 
+- **Government office/meeting room**
 - **Local coffee shop or restaurant**
 - **Community organization**
 
 No matter where the interview takes place, try to create a safe, comfortable, and quiet space where your user can speak honestly about the subject.
 
-# Interview Roles and Responsibilites 
+# Interview Roles and Responsibilites
 
-Conduct your research in pairs. One person will ask questions and the other person will take notes and photos. The interviewer should focus on the interviewee and the notetaker is there to support and document the interview. 
+Conduct your research in pairs. One person will ask questions and the other person will take notes and photos. The interviewer should focus on the interviewee and the notetaker is there to support and document the interview.
 
 ### Before the interview, mentally prepare
 
@@ -151,9 +151,9 @@ Conduct your research in pairs. One person will ask questions and the other pers
 ### Starting the interview
 
 - Introduce yourselves. Users may want to spend some time getting to know you before they open up to you.
-- Share the purpose of the interview and confirm with the user they understand. Let them know they can ask questions if they are confused or don't understand what you are asking. 
-- Explain the consent form and ask the user to sign it. 
-- Start the recording device (if using) and begin the interview. 
+- Share the purpose of the interview and confirm with the user they understand. Let them know they can ask questions if they are confused or don't understand what you are asking.
+- Explain the consent form and ask the user to sign it.
+- Start the recording device (if using) and begin the interview.
 - Be silent if the user seems to be thinking or mulling something over. Allow them time to think. Get comfortable with long pauses. Always be mindful of the user’s comfort level. Pull back when necessary and go in deeper when possible.
 - Remember, smile and make eye contact.
 
@@ -177,7 +177,7 @@ Depending on who you interview, compensation may not be required:
 
 Compensation should be appropriate in type and amount. The research team is responsible for assessing the level of compensation.
 
-All compensation should be provided fairly to all users in the same study, with equal compensation for equal participation regardless of income, age, gender, race. 
+All compensation should be provided fairly to all users in the same study, with equal compensation for equal participation regardless of income, age, gender, race.
 
 ### Recommended compensation
 
@@ -189,15 +189,15 @@ All compensation should be provided fairly to all users in the same study, with 
 | One-on-One Interview with an Expert* | 60 minutes      | $100 and up  |
 | Usability Testing | 30 minutes      | $25  |
 | Usability Testing | 60 minutes      | $50  |
-* An expert could be a lawyer, doctor, or other professional who would lose billable hours out of their day by participating in an interview. Compensate them accordingly. 
+* An expert could be a lawyer, doctor, or other professional who would lose billable hours out of their day by participating in an interview. Compensate them accordingly.
 
 ### Forms of compensation
 
-The easiest way to provide compensation is a gift card. We like to offer 3-5 options and let the user select which is best for them. The city or region you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. 
+The easiest way to provide compensation is a gift card. We like to offer 3-5 options and let the user select which is best for them. The city or region you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store.
 
-Offering a prepaid Visa or Mastercard is also an option. This option costs more, as these cards come with an activation fee. Factor the activation fees into your budget if you go this route. 
+Offering a prepaid Visa or Mastercard is also an option. This option costs more, as these cards come with an activation fee. Factor the activation fees into your budget if you go this route.
 
-At this time, we are not able to provide e-gift cards. 
+At this time, we are not able to provide e-gift cards.
 
 # Consent Forms
 
@@ -222,7 +222,7 @@ The purpose of a consent form is for both users and researchers of the session t
 
 ### Consent Form Downloads
 
-Coming soon. 
+Coming soon.
 
 # Recording the Interview & Equipment Requirements
 
@@ -236,11 +236,11 @@ With informed consent, you may choose to record the test session. You must infor
 
 ### Equipment
 
-The equipment for this kind of research is simple and low-tech. If you have received consent to capture audio, use a recording device, such as a smartphone. 
+The equipment for this kind of research is simple and low-tech. If you have received consent to capture audio, use a recording device, such as a smartphone.
 
-We prefer to take notes, often verbatim, on a laptop. This saves time during analysis. In circumstances where using a laptop is not appropriate, hand-written notes are okay. 
+We prefer to take notes, often verbatim, on a laptop. This saves time during analysis. In circumstances where using a laptop is not appropriate, hand-written notes are okay.
 
-When conducting usuability testing, a laptop and screen-recording software will be required. Check with the Service Design Team for suggestions on what screen-recording software to use. 
+When conducting usuability testing, a laptop and screen-recording software will be required. Check with the Service Design Team for suggestions on what screen-recording software to use.
 
 If the user has consented to photography, a smartphone is perfectly fine. A large DSLR or digital camera can be intimidating.
 
