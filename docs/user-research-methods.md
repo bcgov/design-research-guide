@@ -7,7 +7,7 @@ nav_order: 6
 In Progress
 {: .label .label-yellow}
 
-#User Research Methods
+# User Research Methods
 
 ## One-on-One Interviews
 
