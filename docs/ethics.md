@@ -4,8 +4,8 @@ title: Ethics
 nav_order: 6
 ---
 
-Alpha
-{: .label }
+In Progress
+{: .label .label-yellow}
 # Ethics
 Every user research presents some type of risk to the participant. Types of risks may include:
 
@@ -16,5 +16,5 @@ Every user research presents some type of risk to the participant. Types of risk
 
 User researchers are responsible for participant’s confidentiality and reducing the risks of conducting research. A good question to ask yourself is "Is the level of risk greater than what the user would encounter in their everyday lives?" If the answer is a maybe or yes, please consult with the Service Design Team.
 
-# Vulnerable Populations
+## Vulnerable Populations
 ...
