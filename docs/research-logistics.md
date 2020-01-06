@@ -6,12 +6,13 @@ nav_order: 5
 
 In Progress
 {: .label .label-yellow}
+# Research Logistics
 
 The focus of your research determines who you recruit and how many people you recruit. Consider recruiting people of different ages, ethnicities, genders, and life circumstances to capture a wide variety of experiences and perspectives.
 
 Recruitment takes time and is a key step in user research. Don't rush this process!
 
-# How Many Research Participants Do I Need?
+## How Many Research Participants Do I Need?
 
 There is no one exact number you need to achieve when completing user research. Qualitative research focuses on the depth and breadth of information collected. Here's how we determine if we've recruited and interviewed enough users.
 
@@ -27,14 +28,14 @@ Narrowing down user needs when there are multiple users is hard. However, if you
 
 Is the mix of users you are speaking to a reflection of the diversity one might see in the overall population? This is where GBA+ can help with recruitment.
 
-- **Accessbility:** Users with special needs are often good at articulating the problems more than generic users might experience, but have a harder time putting their finger on it.
+- **Accessibility:** Users with special needs are often good at articulating the problems more than generic users might experience, but have a harder time putting their finger on it.
 - **Extreme use cases:** Extreme users tend to have the same needs as the average users, but their needs are much more amplified. This is the opposite of the common approach to defining users very broadly. For example, "everyone in BC is my user group."
 
 ### Are themes beginning to emerge?
 
 Patterns in user answers typically begin to form after you've interviewed five different people. Again, this is approximate and there no one exact number. We don’t need huge sample sizes to find usable insights.
 
-# Finding the Right Research Participants
+## Finding the Right Research Participants
 
 Depending on who your target audience is, there will be multiple ways to recruit users. Consider what is most suitable and relevant for your project.
 
@@ -54,7 +55,7 @@ Depending on who your target audience is, there will be multiple ways to recruit
 
 If you ask stakeholders or service partners to help you contact users, give a clear picture of the kinds of participants you are looking for. For example, if your research topic is focused on student loans, you are recruiting participants who are applying for or currently receiving BC student loans.
 
-# Writing Recruitment Messages
+## Writing Recruitment Messages
 
 A recruitment message is an easy way to quickly describe your research project to potential participants. Depending on where and how the message will be send out, the length and level of detail will vary.
 
@@ -92,7 +93,7 @@ Asking stakeholders or community groups to send out your recruitment messaging t
 
 *If you have further questions, feel free to give us a call, and please let us know if there is a good time to meet in person. Thank you in advance for your time. Your involvement will help us better understand needs and  identify opportunities to improve autism information and service delivery in B.C.*
 
-# Screening Participants
+## Screening Participants
 
 A screener is a list of criteria used to check whether or not your potential participant would match with the characteristics of your target audience. Screening participants also helps you meet your research requirements.
 
@@ -106,7 +107,7 @@ It’s fine if the individual is not a strong match. It saves your time and the 
 - Current age of child:
 - Availability during the week of January 14:
 
-# Scheduling Interviews
+## Scheduling Interviews
 
 Once participants have been screened and selected, it is important to keep them informed about their participation in the interview process. When scheduling an interview, be flexible, but firm when picking a date, time and location to meet.
 
@@ -125,7 +126,7 @@ Whenver possible, use a participant's preferred method of communication (phone c
 
 We recommend scheduling no more than four one-hour interviews per day. Leave a buffer of at least 45 minutes between interviews.
 
-# Picking Interview Locations
+## Picking Interview Locations
 
 A good interview location is one that is easy for the user to access and makes them feel comfortable. We like to offer multiple options and let the user pick which is best for them.
 
@@ -137,7 +138,7 @@ A good interview location is one that is easy for the user to access and makes t
 
 No matter where the interview takes place, try to create a safe, comfortable, and quiet space where your user can speak honestly about the subject.
 
-# Interview Roles and Responsibilites
+## Interview Roles and Responsibilities
 
 Conduct your research in pairs. One person will ask questions and the other person will take notes and photos. The interviewer should focus on the interviewee and the notetaker is there to support and document the interview.
 
@@ -157,7 +158,7 @@ Conduct your research in pairs. One person will ask questions and the other pers
 - Be silent if the user seems to be thinking or mulling something over. Allow them time to think. Get comfortable with long pauses. Always be mindful of the user’s comfort level. Pull back when necessary and go in deeper when possible.
 - Remember, smile and make eye contact.
 
-# Paying Research Participants
+## Paying Research Participants
 
 Each person has their own perspective and experiences to share. The best way to acknowledge their input is to compensate them; especially when they are taking time away from work to give us their thoughts.
 
@@ -199,7 +200,7 @@ Offering a prepaid Visa or Mastercard is also an option. This option costs more,
 
 At this time, we are not able to provide e-gift cards.
 
-# Consent Forms
+## Consent Forms
 
 The purpose of a consent form is for both users and researchers of the session to understand and agree on:
 
@@ -224,7 +225,7 @@ The purpose of a consent form is for both users and researchers of the session t
 
 Coming soon.
 
-# Recording the Interview & Equipment Requirements
+## Recording the Interview & Equipment Requirements
 
 ### Recording
 
@@ -244,7 +245,7 @@ When conducting usuability testing, a laptop and screen-recording software will 
 
 If the user has consented to photography, a smartphone is perfectly fine. A large DSLR or digital camera can be intimidating.
 
-# Data Collection and Storage
+## Data Collection and Storage
 
 Recordings from user research sessions are considered records and should be handled like other ministry records. Please consult with your records manager for best practice.
 
