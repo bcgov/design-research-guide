@@ -4,8 +4,8 @@ title: Budget & Costs
 nav_order: 3
 parent: User Research in Government
 ---
-Alpha
-{: .label }
+In Progress
+{: .label .label-yellow}
 
 # Securing a Budget
 
