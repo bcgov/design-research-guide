@@ -4,8 +4,8 @@ title: Privacy
 nav_order: 2
 parent: User Research in Government
 ---
-Alpha
-{: .label }
+In Progress
+{: .label .label-yellow}
 
 # Privacy and PIA Requirements
 
