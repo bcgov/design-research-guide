@@ -14,22 +14,22 @@ One-on-One interviews are open-ended interviews that focus on participants' beha
 ### Steps
 - Determine what topics you want to cover for your interview
 - Create an interview guide for your questions. Use this as a guide to help keep you on track and to make sure you can fit your questions into the available time.
-- Interview participants by exploring each topic using open-ended questions. Invite further explanation of interesting topics, anecdotes or other feelings.
-- Record notes during the interview of exactly what the person is saying, not what you think they are saying.
+- Interview participants by exploring each topic using open-ended questions. Invite further explanation of interesting topics, anecdotes or other feelings. 
+- Record notes during the interview of exactly what the person is saying, not what you think they are saying. 
 - Provide the participant with a gift or stipend to thank them for their time.
 
 # Intercepts
 
-Intercept interviews are short interviews with users following a service transaction. The interview aims to capture the user’s thoughts on a service while the interaction is still fresh in their mind.
+Intercept interviews are short interviews with users following a service transaction. The interview aims to capture the user’s thoughts on a service while the interaction is still fresh in their mind. 
 
 Intercept interviews are a useful way of surveying the opinions of a broad sample of users in a short time. These interviews take place in service settings like Service BC Centres. Researchers often ask all participants a set of standard open-ended questions.
 
 ### Steps
 
-- Think about sample size and ethics (consent forms, incentives, information sheets) before you begin.
+- Think about sample size and ethics (consent forms, incentives, information sheets) before you begin. 
 - Choose an appropriate location (or locations) to conduct your intercept interviews and talk to the managers who run them.
 - Develop a short and focused interview guide. Keep this concise – on average you're hoping for 5 to 20 minutes of a participant’s time, so you don’t want too many questions.
-- Proceed as you would an one-on-one interview (conduct, record, provide stipend)
+- Proceed as you would an one-on-one interview (conduct, record, provide stipend) 
 - Wrap up with clarifying any outstanding questions, and if possible, follow up with an invitation for a longer interview.
 
 # Shadowing
