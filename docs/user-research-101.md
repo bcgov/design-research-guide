@@ -3,7 +3,7 @@ layout: default
 title: User Research 101
 nav_order: 2
 ---
-In Progress
+Draft
 {: .label .label-yellow}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
