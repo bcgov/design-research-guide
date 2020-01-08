@@ -4,7 +4,7 @@ title: Research Planning
 nav_order: 4
 ---
 
-In Progress
+Draft
 {: .label .label-yellow}
 
 # Research Planning
