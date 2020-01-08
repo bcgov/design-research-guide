@@ -4,7 +4,7 @@ title: Research Logistics
 nav_order: 5
 ---
 
-In Progress
+Draft
 {: .label .label-yellow}
 # Research Logistics
 
