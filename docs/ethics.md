@@ -4,7 +4,7 @@ title: Ethics
 nav_order: 6
 ---
 
-In Progress
+Draft
 {: .label .label-yellow}
 # Ethics
 Every user research presents some type of risk to the participant. Types of risks may include:
