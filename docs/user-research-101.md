@@ -5,6 +5,7 @@ nav_order: 2
 ---
 In Progress
 {: .label .label-yellow}
+[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # What is User Research?
 
