@@ -20,8 +20,6 @@ User research is about understanding people. When we see citizens, stakeholders,
 
 Content for the guide is hosted on Github and published using Github Pages.
 
-If you find inaccurate content, need more information, or content is missing you can create an "issue" in the Github repository or email <uxbc@gov.bc.ca>
+If you find inaccurate content, need more information, or content is missing you can [create an issue](https://github.com/bcgov/user-research-guide/issues/new/choose) in the Github repository or email <uxbc@gov.bc.ca>
 
 Before suggesting new content, look at the [projects page](https://github.com/bcgov/user-research-guide/projects/1) to see the backlog of content being created.
-
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
