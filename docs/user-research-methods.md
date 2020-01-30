@@ -48,7 +48,7 @@ Shadowing and observation is about spending time observing a user in the context
 
 ## Usability Testing
 
-Usability testing is a a way to uncover issues with your service by testing it with real users. Users perform a series of tasks while being observed to see where they encounter problems or become confused. By testing with multiple users, recurring issues will be identified as areas of improvement. Usability testing is often used for website or application prototypes, but can be used to test other services as well.
+Usability testing is a way to uncover issues with your service by testing it with real users. Users perform a series of tasks while being observed to see where they encounter problems or become confused. By testing with multiple users, recurring issues will be identified as areas of improvement. Usability testing is often used for website or application prototypes, but can be used to test other services as well.
 
 ### Steps
 
