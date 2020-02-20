@@ -12,9 +12,9 @@ The BC User Research Guide provides documentation and instruction on doing user 
 
 >This guide assumes that you are doing research with participants over 19 years old who are capable of making their own decisions. If you are looking to do research with participants that do not fit with this description, please review information on complex research and see if formal approvals are required.
 
-## It's About People and their Needs
+<!--## It's About People and their Needs
 
-**People don’t wake up and think I wonder what the government of B.C. is doing today? I am going to visit their website to find out.** There is something that happened in their lives that drives them to use your service. Your service should fulfill this need and user research will help you understand what these needs are.
+**People don’t wake up and think I wonder what the government of B.C. is doing today? I am going to visit their website to find out.** There is something that happened in their lives that drives them to use your service. Your service should fulfill this need and user research will help you understand what these needs are. -->
 
 
 ## Aligning to the Principles for Digital BC
