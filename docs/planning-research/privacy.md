@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Privacy
+title: ---
 nav_order: 2
-parent: User Research in Government
+parent: Plan the Research
 ---
 Draft
 {: .label .label-yellow}
