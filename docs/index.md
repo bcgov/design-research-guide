@@ -10,22 +10,20 @@ Draft v0.1
 
 The BC User Research Guide provides documentation and instruction on doing user research as a BC public servant.
 
+>This guide assumes that you are doing research with participants over 19 years old who are capable of making their own decisions. If you are looking to do research with participants that do not fit with this description, please review information on complex research and see if formal approvals are required.
+
 ## It's About People and their Needs
 
 **People don’t wake up and think I wonder what the government of B.C. is doing today? I am going to visit their website to find out.** There is something that happened in their lives that drives them to use your service. Your service should fulfill this need and user research will help you understand what these needs are.
 
-User research is about understanding people. When we see citizens, stakeholders, staff and partners as people first we unlock vital perspectives. Knowing the viewpoints, abilities, values, motivations, goals, tasks, and limits of people lays the groundwork for designing services that work for them.
 
 ## Aligning to the Principles for Digital BC
 
 Doing user research supports the following [digital principles](https://github.com/bcgov/digital-principles):
 
 - Principle 1: Prioritize delivering impact for British Columbians
-
-- Principle 2: Design with people & embed inclusion
-
+- Principle 2: Design with people & embed inclusion=
 - Principle 4: Continuously learn & improve
-
 - Principle 10: Express cultural & historical awareness & respect
 
 ## Provide Feedback

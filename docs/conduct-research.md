@@ -1,23 +1,25 @@
 ---
 layout: default
 title: Conduct the Research
-nav_order: 6
+nav_order: 7
 ---
 
 Draft
-{: .label .label-yellow}
+{: .label .label-blue}
+[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # Conduct the Research
 
 
-## Before the session, mentally prepare
+## Before the Session, Mentally Prepare
 
 - The participant is the expert in their own experience. Observe and listen to them so as to understand their experience.
+- Check your assumptions and internal biases.
 - The insights of the participants are facts as they believe them to be. There are no wrong answers.
-- Approach the participant ready to hear their story and their perspective. Before the session, check your assumptions and internal biases.
+- Approach the participant ready to hear their story and their perspective.
 - Be mentally present and focused in the moment.
 
-## Starting the session
+## Start the Session
 
 - Introduce yourselves. Participants may want to spend some time getting to know you before they open up to you.
 - Share the purpose of the session and confirm with the participant they understand. Let them know they can ask questions if they are confused or don’t understand what you are asking
@@ -29,17 +31,17 @@ Draft
 
 
 ### Moderator Tips
-- Be silent if the participant seems to be thinking or mulling something over. Allow them time to think.  
-- Get comfortable with long pauses.  
-- Always be mindful of the participant's comfort level.  
-- Pull back when necessary and go in deeper when possible.
-- Remember, smile and make eye contact.
+- Be silent if the participant seems to be thinking or mulling something over. Allow them time to think  
+- Get comfortable with long pauses  
+- Always be mindful of the participant's comfort level  
+- Pull back when necessary and go in deeper when possible
+- Remember, smile and make eye contact
 
 
-## Recording the Session
+## Record the Session
 
 ### Audio
-With informed consent, you may choose to audio record the session. Use your government issued phone or another approved device.
+With informed consent, you may audio record the session. Use your government issued phone or another approved device.
 
 ### Laptops
 The moderator should not have a laptop in front of them for notes. This can create a barrier between yourself and the participant. Have notes printed off and make any personal notes with pen and paper.
@@ -59,7 +61,8 @@ Be respectful of your participant's time
 - End the session at the time promised
 - Stop the audio or screen recording device, if using
 - Save your notes
-- Thank the participant for their time and make sure they have your contact information if they have any questions at a later date.
+- Thank the participant for their time
+- Make sure they have your contact information if they have any questions at a later date.
 
 ## Debrief After the Session
 
@@ -77,13 +80,14 @@ You should use a file naming system that does not connect the participant to the
 
 > For example, 02_13_ChildCareWorker.doc
 
-## Store the Information 
+## Store the Information
 
 Recordings (for example, audio recordings and notes) from user research sessions are considered records and should be handled like other ministry records.  
 
 You must store the
 
-- Signed consent form as a record for participating in the study. Consent forms must be digitized before they are archived
+- Signed consent form as a record for participating in the study
+  - Consent forms must be digitized before they are archived
 - Stipend receipt for auditing purposes
 - Session transcript or notes for future analysis
 

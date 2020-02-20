@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Ethics
-nav_order: 6
+nav_order: 10
 ---
 
 Draft
-{: .label .label-yellow}
+{: .label .label-blue}
+[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+
 # Ethics & Risk
 Every user research activity presents some type of risk to the participant. Types of risks may include
 
@@ -20,13 +22,13 @@ If your research is relatively low risk, you should use this guide as a starting
 
 ## Complex Research Activities
 
-Formal approvals from your executives may be required for complex user research activities. Complex user research activities may look like:
+Formal approvals from your executives may be required for complex user research activities. Complex user research activities may look like
 
-- research with vulnerable participants where they may not be able to provide consent, or may be able to provide consent but not fully acknowledge the repercussions
-- participants with higher risks involving physical, social, psychological/emotional, and repercussions for or for not participating
-- data with special arrangements on who can access, how it is shared, security protocols, and storage
-- collecting personal information that will be identifiable to the participant
-- research done outside of Canada
+- Research with vulnerable participants where they may not be able to provide consent, or may be able to provide consent but not fully acknowledge the repercussions
+- Participants with higher risks involving physical, social, psychological/emotional, and repercussions for or for not participating
+- Data with special arrangements on who can access, how it is shared, security protocols, and storage
+- Collecting personal information that will be identifiable to the participant
+- Research done outside of Canada
 
 ## Participants that need special attention (vulnerable participants)
 

@@ -4,14 +4,15 @@ title: Consent
 nav_order: 3
 parent: Plan the Research
 ---
-
+Draft
+{: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # Consent
 
-All participants must be willing to participate and have the ability to give consent. All potential participants have the right to refuse participation and withdraw their consent without the need for an explanation. You must respect their decision.
+All participants **must be** willing to participate and have the ability to give consent. All potential participants have the right to refuse participation and withdraw their consent without the need for an explanation. You must respect their decision.
 
-This guide assumes that you are getting consent from participants over 18 years old who are capable of making their own decisions and are residents of British Columbia. If you are looking to get consent from participants that do not fit with the description previously mentioned, please review when formal approvals are needed to determine if extra assistance is required.
+This guide assumes that you are getting consent from participants over 19 years old who are capable of making their own decisions. If you are looking to get consent from participants that do not fit with this description, please review when formal approvals are needed to determine if extra assistance is required.
 
 ## Consent Forms
 Under development and review
@@ -25,9 +26,9 @@ The purpose of a consent form is for both participants and researchers of the se
 - How the information is going to be used
 - Who to contact if there are any questions
 
-**Consent must be given in writing.**
 
 ### Consent Form Requirements
+Consent must be given in writing.
 
 A consent form must state that you will
 
