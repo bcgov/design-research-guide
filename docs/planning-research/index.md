@@ -3,6 +3,7 @@ layout: default
 title: Plan the Research
 nav_order: 5
 has_children: true
+has_toc: false
 ---
 
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
@@ -17,10 +18,10 @@ Make sure you have defined your research goals and questions with your team befo
 
 Depending on your research goal and questions you'll need to choose the most appropriate research activities. Common qualitative research activities are
 
-- behavioural interviews
-- usability testing
-- intercept testing
-- shadowing & observations
+- Behavioural interviews
+- Usability testing
+- Intercept testing
+- Shadowing & observations
 
 ## Identify the Right Participants
 

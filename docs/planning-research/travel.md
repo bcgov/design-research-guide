@@ -28,7 +28,7 @@ Two team members meeting people in multiple regions of the province (for example
 - Taxi or public transportation,
 - Per diems
 
-**Total cost approximately $4,000**
+Total cost approximately $4,000
 
 ### Local Travel budget
 Two team members meeting people in their community and one to two neighbouring communities (for example, Victoria, Langford, Duncan) including
@@ -37,20 +37,20 @@ Two team members meeting people in their community and one to two neighbouring c
 - Taxi or public transportation
 - Per diems
 
-**Total cost approximately $300**
+Total cost approximately $300
 
 ### Low Cost Travel Budget
 Two team members meeting people in their community, hosting interviews at government locations when appropriate including
 
 - Taxi or public transportation.
 
-**Total cost approximately $0 to $50**
+Total cost approximately $0 to $50
 
 Work with your ministry finance department to understand any ministry specific travel policies
 
 ## Remote Research
-{: .d-inline-block }
 
-Coming soon {: .label .label-green }
+Coming soon
+{: .label .label-yellow }
 
 If travel is not an option, you can still conduct research sessions remotely using government approved online tools like Skype.
