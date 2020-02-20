@@ -4,6 +4,9 @@ title: Usability Testing
 nav_order: 3
 parent: Research Activities
 ---
+Draft
+{: .label .label-blue}
+[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 # Usability Testing
 
 ## What is it?
@@ -43,7 +46,7 @@ To test if your participant interacts with the prototype the way it was designed
 
 The objective is to test up to a point where you can identify trends and patterns and further tests will not give you much new insight moving forward.
 
-- Small sites and applications. Nielsen and Landauer (1993) report that the first five users will uncover about 70% of major usability problems and next few users will find nearly all the remaining problems. 
+- Small sites and applications. Nielsen and Landauer (1993) report that the first five users will uncover about 70% of major usability problems and next few users will find nearly all the remaining problems.
 - Information-rich sites. Five to eight users may not uncover all of the usability problems. Many successful organizations have moved in the direction of continuous testing depending on budget and project needs
 - Users with different abilities. Test with at least one user with physical or cognitive limitations or who needs assistance with digital applications. Testing with real users can uncover accessibility barriers better than a checklist and contributes to a more robust Gender Based Analysis+ process.
 

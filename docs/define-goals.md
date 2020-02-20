@@ -4,6 +4,8 @@ title: Define Goals
 nav_order: 4
 ---
 
+Draft
+{: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # Define the Research Goals

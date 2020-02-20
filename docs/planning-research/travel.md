@@ -5,6 +5,8 @@ nav_order: 2
 parent: Plan the Research
 ---
 
+Draft
+{: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # Travel for Research

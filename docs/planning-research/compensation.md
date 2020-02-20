@@ -5,6 +5,8 @@ nav_order: 3
 parent: Plan the Research
 ---
 
+Draft
+{: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # Compensation & Stipends
@@ -46,7 +48,7 @@ Offering a prepaid Visa or Mastercard is also an option. This option costs more,
 
 Work with your finance department to purchase gift cards or prepaid Visa cards.
 
-**At this time, we are not able to provide electronic gift cards.**
+> At this time, we are not able to provide electronic gift cards.
 
 ## Honorarium & Gift giving for Indigenous Peoples
 
@@ -58,6 +60,6 @@ Protocols for providing honorariums, gift giving, and elder payment when working
 
 A stipend receipt is required for compensation. You must create a record of proof that the participant received the compensation for accounting purposes.
 
+Coming soon
+{: .label .label-yellow }
 Stipend receipt template
-{: .d-inline-block }
-Coming soon{: .label .label-yellow }

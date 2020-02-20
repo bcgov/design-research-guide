@@ -5,6 +5,8 @@ nav_order: 4
 parent: Plan the Research
 ---
 
+Draft
+{: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # Privacy Impact Assessment

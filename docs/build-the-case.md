@@ -4,6 +4,8 @@ title: Build the Case
 nav_order: 3
 ---
 
+Draft
+{: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # Build the Case for User Research

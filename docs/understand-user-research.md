@@ -4,6 +4,8 @@ title: Understand User Research
 nav_order: 2
 ---
 
+Draft
+{: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # What is User Research?
@@ -25,7 +27,7 @@ User research helps us:
 
 ## When to do Research
 
-User research can be used across the lifecycle of a project, from initial discovery through to build and maintenance. Where you are in the service life cycle will determine what kind of research you do.
+User research can be used across the lifecycle of a project, from initial discovery through to build and maintenance. Where you are in the design and delivery process will determine what kind of research you do.
 
 ### Discover
 In the Discover phase, your focus is on generative research and discovering what the problems are.
@@ -58,9 +60,9 @@ You should:
 
 Both qualitative and quantitative research methods will help you understand a problem from different perspectives.
 
-Qualitative research focuses on everyday life and experiences that cannot be measured by numbers. It investigates meaning, interpretations, symbols, processes and relations to social life. **The goal of qualitative research is to understand why people behave, act and interact the way they do.** Qualitative research looks for behavioural patterns, and doesn't need huge sample sizes to find usable insights.
+Qualitative research focuses on everyday life and experiences that cannot be measured by numbers. It investigates meaning, interpretations, symbols, processes and relations to social life. The goal of qualitative research is to understand why people behave, act and interact the way they do. Qualitative research looks for behavioural patterns, and doesn't need huge sample sizes to find usable insights.
 
-Quantitative research uses numerical data from a population to determine behaviour patterns within groups of people. **The goal of quantitative research is to get measurable data that can be analyzed with statistical procedures.** Quantitative research looks for numerical trends and statistical significance.
+Quantitative research uses numerical data from a population to determine behaviour patterns within groups of people. The goal of quantitative research is to get measurable data that can be analyzed with statistical procedures. Quantitative research looks for numerical trends and statistical significance.
 
 For quantitatively-based project partners, discuss with them how insights from qualitative research can give human insight to the quantitative data they have.
 

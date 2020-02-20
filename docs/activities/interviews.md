@@ -4,6 +4,9 @@ title: Behavioural Interviews
 nav_order: 2
 parent: Research Activities
 ---
+Draft
+{: .label .label-blue}
+[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 # Behavioural Interviews
 
 ## What is it?
@@ -45,7 +48,7 @@ Here’s some pointers on how to ask good questions during user interviews
 
 - **Ask for Stories:** Your questions should act as storytelling prompts to surface richer and chronological accounts of a user’s experience. For example, “Tell me about a time when... , Walk me through a day in the life of...”
 - **Use Curious Commands:** Frame questions as an invitation to hear more about a user’s experience or interaction. For example, “Describe a time when..., I’d love to hear more about..."
-- **Follow-Up & Dive Deeper:** Ask follow-up questions for more details. For example, “Could you elaborate on that further? What did you mean by...?” 
+- **Follow-Up & Dive Deeper:** Ask follow-up questions for more details. For example, “Could you elaborate on that further? What did you mean by...?”
 - **Ask Neutral and Open-Ended Questions:** Avoid double-barrelled, leading, and yes/no questions – make sure your questions are only asking for one answer and leave room for further exploration
 
 The following are a few questions that can help guide you.

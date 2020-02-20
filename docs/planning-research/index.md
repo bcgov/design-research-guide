@@ -6,6 +6,8 @@ has_children: true
 has_toc: false
 ---
 
+Draft
+{: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
 # Plan the Research
