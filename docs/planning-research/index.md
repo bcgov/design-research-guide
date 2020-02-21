@@ -14,15 +14,15 @@ Draft
 
 ## Start with Research Goals and Questions
 
-Make sure you have defined your research goals and questions with your team before planning the research.
+Make sure you have defined your [research goal and questions](https://bcgov.github.io/user-research-guide/define-goals.html) with your team before planning the research.
 
 ## Choose Research Activities
 
 Depending on your research goal and questions you'll need to choose the most appropriate research activities. Common qualitative research activities are
 
-- Behavioural interviews
-- Usability testing
-- Intercept testing
+- [Behavioural interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html)
+- [Usability testing](https://bcgov.github.io/user-research-guide/activities/usability-testing.html)
+- [Intercept testing](https://bcgov.github.io/user-research-guide/activities/intercept.html)
 - Shadowing & observations
 
 ## Identify the Right Participants
@@ -45,7 +45,7 @@ You will probably need to identify multiple target groups.
 
 ## Gender Based Analysis+ in Research
 
-Gender Based Analysis+ (GBA+) is an analytical process used to assess how diverse groups of women, men and non-binary people, along with other intersecting factors may experience policies, programs and services differently. Across all target groups, you should use a GBA+ to inform your recruitment so you can understand the research question from the viewpoints of a diversity of people. Always try to recruit a representative spread of
+[Gender Based Analysis+](https://cfc-swc.gc.ca/gba-acs/index-en.html) (GBA+) is an analytical process used to assess how diverse groups of women, men and non-binary people, along with other intersecting factors may experience policies, programs and services differently. Across all target groups, you should use a GBA+ to inform your recruitment so you can understand the research question from the viewpoints of a diversity of people. Always try to recruit a representative spread of
 
 - Age
 - Gender
@@ -58,15 +58,15 @@ When you’ve defined your target groups, decide which groups you will include i
 
 ## Number of Participants
 
-There is no exact number of participants you need when completing user research. However, you would typically have between 4 and 8 participants for a round of interviews or usability tests with each target group. After 5 sessions you should see patterns in answers and themes emerging. You don't need a huge sample size in qualitative research to get value insights.
+There is no exact number of participants you need when completing user research. However, you would typically have between 4 and 8 participants for a round of [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) with each [target group](https://bcgov.github.io/user-research-guide/planning-research/#specify-target-groups). After 5 sessions you should see patterns in answers and themes emerging. You don't need a huge sample size in [qualitative research](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative) to get value insights.
 
 ## Create a Budget
 
 User research doesn’t have to be expensive, but there are some costs to consider like
 
-- Travel
+- [Travel](https://bcgov.github.io/user-research-guide/planning-research/travel.html)
   - Type of transportation (for example, airfare)
   - Accommodation
   - Per diems
-- Participant compensation
+- [Participant compensation](https://bcgov.github.io/user-research-guide/planning-research/compensation.html)
 - Catering (if applicable)

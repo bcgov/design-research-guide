@@ -60,6 +60,6 @@ Protocols for providing honorariums, gift giving, and elder payment when working
 
 A stipend receipt is required for compensation. You must create a record of proof that the participant received the compensation for accounting purposes.
 
+### Stipend receipt template
 Coming soon
 {: .label .label-yellow }
-Stipend receipt template

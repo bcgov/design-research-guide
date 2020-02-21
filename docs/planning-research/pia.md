@@ -13,4 +13,4 @@ Draft
 Under development and review
 {: .label .label-yellow }
 
-A Privacy Impact Assessment (PIA) is a process used to evaluate and manage privacy impacts and to ensure compliance with privacy protection rules and responsibilities.
+A [Privacy Impact Assessment](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) (PIA) is a process used to evaluate and manage privacy impacts and to ensure compliance with privacy protection rules and responsibilities.

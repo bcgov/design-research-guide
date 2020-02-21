@@ -15,7 +15,7 @@ Getting out of the office and talking to people in their day-to-day life is at t
 
 The best research location is where the participant would actually access the service. This means you might need to meet people at home, work, school, or their favourite coffee shop.
 
-Regional differences can also play an important part in understanding the needs of users and should be taken into account for your research. For example, a parent accessing child care in Vancouver will have a very different experience compared to a parent in Dawson Creek. Where someone lives can be important part of a GBA+ process.
+Regional differences can also play an important part in understanding the needs of users and should be taken into account for your research. For example, a parent accessing child care in Vancouver will have a very different experience compared to a parent in Dawson Creek. Where someone lives can be important part of a [Gender Based Analysis+](https://bcgov.github.io/user-research-guide/planning-research/#gender-based-analysis-in-research) process.
 
 ## Travel Costs
 
@@ -48,11 +48,9 @@ Two team members meeting people in their community, hosting interviews at govern
 
 Total cost approximately $0 to $50
 
-Work with your ministry finance department to understand any ministry specific travel policies
+> Work with your ministry finance department to understand any ministry specific travel policies
 
 ## Remote Research
 
-Coming soon
-{: .label .label-yellow }
-
 If travel is not an option, you can still conduct research sessions remotely using government approved online tools like Skype.
+More information coming soon.
