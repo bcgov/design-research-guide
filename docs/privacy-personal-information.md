@@ -15,7 +15,7 @@ Doing user research requires the collection of people's personal information. Re
 
 ## What is Personal Information?
 
-Simply put, personal information is any recorded information about an identifiable individual other than their business contact information. Personal information also includes information that can be used to identify an individual through association or inference. This can include, but is not limited to
+Simply put, personal information is **any recorded information about an identifiable individual other than their business contact information.** Personal information also includes information that can be used to identify an individual through association or inference. This can include, but is not limited to
 
 - Name, age, sex, weight, height
 - Home address and phone number

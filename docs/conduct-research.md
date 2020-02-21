@@ -10,7 +10,6 @@ Draft
 
 # Conduct the Research
 
-
 ## Before the Session, Mentally Prepare
 
 - The participant is the expert in their own experience. Observe and listen to them so as to understand their experience.
@@ -23,10 +22,10 @@ Draft
 
 - Introduce yourselves. Participants may want to spend some time getting to know you before they open up to you.
 - Share the purpose of the session and confirm with the participant they understand. Let them know they can ask questions if they are confused or don’t understand what you are asking
-- Review and sign the consent form together
-- Give them the stipend and fill out the stipend receipt, if applicable
+- Review and sign the [consent form](https://bcgov.github.io/user-research-guide/planning-research/consent.html#consent-forms) together
+- Give them the [stipend](https://bcgov.github.io/user-research-guide/planning-research/compensation.html#compensation--stipends) and fill out the stipend receipt, if applicable
 - Ask if they have any remaining questions before you begin.
-- Let the participant know you are starting the audio or screen capture recording, if using
+- Let the participant know you are starting the [audio or screen capture recording](https://bcgov.github.io/user-research-guide/conduct-research.html#record-the-session), if using
 - Begin the session
 
 
@@ -41,16 +40,16 @@ Draft
 ## Record the Session
 
 ### Audio
-With informed consent, you may audio record the session. Use your government issued phone or another approved device.
+With [informed consent](https://bcgov.github.io/user-research-guide/planning-research/consent.html), you may audio record the session. Use your government issued phone or another approved device.
 
 ### Laptops
-The moderator should not have a laptop in front of them for notes. This can create a barrier between yourself and the participant. Have notes printed off and make any personal notes with pen and paper.
+The [moderator](https://bcgov.github.io/user-research-guide/build-the-case.html#researcher-roles-and-responsibilities) should not have a laptop in front of them for notes. This can create a barrier between yourself and the participant. Have notes printed off and make any personal notes with pen and paper.
 
-The notetaker should use their laptop to take notes verbatim. This saves time during analysis and avoids assumptions and biases later on if you need to fill in gaps of information or speculate what the participants were saying.
+The [notetaker](https://bcgov.github.io/user-research-guide/build-the-case.html#researcher-roles-and-responsibilities) should use their laptop to take notes verbatim. This saves time during analysis and avoids assumptions and biases later on if you need to fill in gaps of information or speculate what the participants were saying.
 
 In circumstances where using a laptop is not appropriate, hand-written notes are okay.
 
-When conducting usability testing, a laptop and screen-recording software will be required.
+When conducting [usability testing](https://bcgov.github.io/user-research-guide/activities/usability-testing.html), a laptop and screen-recording software will be required.
 
 ## Photos & Videos
 You cannot record a person's face in photos or videos for user research.
@@ -74,8 +73,6 @@ For research that deals with emotionally heavy topics, debriefing after a sessio
 
 You must de-identify your notes so that the participant’s personal information is not associated with the experiences and feedback provided in the study. In simple terms, if strangers read through the notes, they should not be able to identify who the participant was.
 
-Examples Coming Soon
-
 You should use a file naming system that does not connect the participant to their de-identified responses. Doing this will decrease the risk of associating personal information to a research participant.  
 
 > For example, 02_13_ChildCareWorker.doc
@@ -86,9 +83,9 @@ Recordings (for example, audio recordings and notes) from user research sessions
 
 You must store the
 
-- Signed consent form as a record for participating in the study
+- Signed [consent form](https://bcgov.github.io/user-research-guide/planning-research/consent.html) as a record for participating in the study
   - Consent forms must be digitized before they are archived
-- Stipend receipt for auditing purposes
-- Session transcript or notes for future analysis
+- [Stipend receipt](https://bcgov.github.io/user-research-guide/planning-research/compensation.html#proof-of-compensation) for auditing purposes
+- Session transcript or notes for [future analysis](https://bcgov.github.io/user-research-guide/analysis.html)
 
 Please consult with your records manager for best practice.

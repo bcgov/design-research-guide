@@ -14,7 +14,7 @@ User research activities produce a lot of raw data, for example
 
 - Written and digital notes
 - Sketches and drawings
-- Audio and screen capture recordings
+- [Audio and screen capture recordings](https://bcgov.github.io/user-research-guide/conduct-research.html#record-the-session)
 
 Filtering and organizing this data will help you to produce meaningful insights.
 
@@ -49,7 +49,7 @@ Check if you can break large groups into smaller themes based on matching observ
 - Taking a photo at home
 - Reasons a photo might be rejected
 
-### Determine findings
+### Determine Findings
 
 The final part of the analysis process is determining what the observations mean.
 
@@ -61,7 +61,7 @@ Write findings as short statements that summarize what you’ve learned, for exa
 - "People think they can click the progress bar to navigate."
 - "Users are confused about what they need to do because so many questions are optional."
 
-### Decide actions
+### Decide Actions
 
 You can use your findings to make decisions about what to work on, change or research next. This supports the agile method of continuous planning with new facts or requirements.
 
@@ -82,9 +82,9 @@ To help with prioritizing findings, you can use
 As part of your analysis you should communicate your research visually for shared understanding.
 
 Understanding who your users are
-- Personas
-- Empathy map
+- [Personas](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/methods-and-tools/document-and-visualize/persona)
+- [Empathy map](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/methods-and-tools/document-and-visualize/empathy-map)
 
 Building better user journeys
-- Journey mapping
-- Service blueprints
+- [Journey mapping](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/methods-and-tools/document-and-visualize/journey-map)
+- [Service blueprints](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/methods-and-tools/document-and-visualize/service-blueprint)
