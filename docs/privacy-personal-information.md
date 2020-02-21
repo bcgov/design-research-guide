@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy
+title: Privacy & Personal Information
 nav_order: 9
 ---
 
