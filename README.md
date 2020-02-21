@@ -1,3 +1,4 @@
+# User Research Guide
 The BC User Research Guide provides documentation and instruction on doing user research as a BC public servant.
 
 >This guide assumes that you are doing research with participants over 19 years old who are capable of making their own decisions. If you are looking to do research with participants that do not fit with this description, please review information on complex research and see if formal approvals are required.
