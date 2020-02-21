@@ -26,8 +26,12 @@ Doing user research supports the following [digital principles](https://github.c
 - Principle 4: Continuously learn & improve
 - Principle 10: Express cultural & historical awareness & respect
 
+## Versions
+v0.01 - January 14, 2020: Proof of concept launched
+v0.1 - February 21, 2020: First draft of guide content launched
+
 ## Provide Feedback
 
-Content for the guide is hosted on Github and published using Github Pages. If you find inaccurate content, need more information, or content is missing you can [create an issue](https://github.com/bcgov/user-research-guide/issues/new/choose) in the Github repository or email <uxbc@gov.bc.ca>
+Content for the guide is hosted on Github and published using Github Pages as a way to develop content in the open. If you find inaccurate content, need more information, or content is missing you can [create an issue](https://github.com/bcgov/user-research-guide/issues/new/choose) in the Github repository or email <uxbc@gov.bc.ca>
 
 This guide is adapted from the [Ontario User Research Guide](https://www.ontario.ca/page/user-research-guide) and the [Australia Government Digital Transformation Agency](https://www.dta.gov.au/help-and-advice/build-and-improve-services/user-research) available under a [Creative Commons Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/)

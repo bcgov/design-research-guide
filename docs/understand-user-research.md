@@ -16,14 +16,14 @@ User research is a study of who the users of a service are, how they behave and 
 
 Learning about users allows you to create better government services. You will discover the user’s motivations, struggles and goals for a service. The role of a user researcher is not to consult with, audit, and/or teach users. The role of a user researcher is to actively observe and listen without bias or assumptions.
 
-User research helps us:
+User research helps us
 
-- discover the need for the products and services sooner rather than later
-- establish a good foundation to make sure you are designing the best products, services and systems
-- lower cost of projects in the long term
-- improve processes to deliver services faster and more responsively
-- reduce the number of user inquiries and complaints
-- provide value to users, leading to better user experience
+- Discover the need for the products and services sooner rather than later
+- Establish a good foundation to make sure you are designing the best products, services and systems
+- Lower cost of projects in the long term
+- Improve processes to deliver services faster and more responsively
+- Reduce the number of user inquiries and complaints
+- Provide value to users, leading to better user experience
 
 ## When to do Research
 
@@ -34,27 +34,27 @@ In the Discover phase, your focus is on generative research and discovering what
 
 **If you have not done user research, but already have a solution in mind, this is a great opportunity to challenge your assumptions.** It is in your best interest to challenge assumptions early to minimize unexpected surprises. If you discover areas of success and failure early on, it is easier to prioritize and plan for next steps sooner rather than later when more time and resources are dedicated to the project.
 
-You should:
-- Conduct interviews to discover user problems and needs
+You should
+- Conduct [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) to discover user problems and needs
 - Conduct an ethnography study (shadow someone) to observe what the user is going through
-- Usability test an existing service to better identify user challenges and points of failure when completing tasks (this could include using an existing design from the ministry or from other public service sectors as a point of reference)
+- [Usability test](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) an existing service to better identify user challenges and points of failure when completing tasks (this could include using an existing design from the ministry or from other public service sectors as a point of reference)
 
 ### Explore & Experiment
 In the Explore & Experiment phase, you should explore multiple concepts and different options to go about tackling the problems. The goal at this point is not to create a beautiful product off the bat, but to explore different paths to solve the problem and worry about polishing the details in later phases.
 
-You should:
+You should
  - Collaborate with co-creators to brainstorm and test different approaches
- - Intercept test on a few different concepts and observe the user’s reactions
+ - [Intercept test](https://bcgov.github.io/user-research-guide/activities/intercept.html) on a few different concepts and observe the user’s reactions
  - Conduct preference tests to figure out the pros and cons of multiple concepts
- - Focus on testing with low fidelity prototypes to test your hypothesis. The reason why you use low-fidelity prototypes, rather than polished high fidelity prototypes, is because you will be exploring multiple concepts that may or may not move forward. Rather than focus on details of the prototype, you are focusing on broad concepts.
+ - Focus on [testing with low fidelity prototypes](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) to test your hypothesis. The reason why you use low-fidelity prototypes, rather than polished high fidelity prototypes, is because you will be exploring multiple concepts that may or may not move forward. Rather than focus on details of the prototype, you are focusing on broad concepts.
 
 ### Build & Maintain
 At this phase, you would have already narrowed down a concept and are focused on working out the details.
 
-You should:
+You should
 - Conduct card sorting exercise to structure menu items on your web page
-- Intercept test on specific elements of the product to ensure participants understand what you are asking them to do
-- Usability test on high fidelity prototypes or working software to identify potential usability issues. The purpose is to take a product idea and iterate to make gradual improvements based on feedback.
+- [Intercept test](https://bcgov.github.io/user-research-guide/activities/intercept.html) on specific elements of the product to ensure participants understand what you are asking them to do
+- [Usability test](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) on high fidelity prototypes or working software to identify potential usability issues. The purpose is to take a product idea and iterate to make gradual improvements based on feedback.
 
 ## Qualitative vs. Quantitative
 
