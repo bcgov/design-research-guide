@@ -33,7 +33,9 @@ For government services, users can come from many places, but every service will
 
 ## Specify Target Groups
 
-Target groups are the specific groups of people you want to do research with. A great way to identify target groups would be to ask, "who will most likely use this service?" Criteria might be
+Target groups are the specific groups of people you want to do research with. A great way to identify target groups would be to ask, "who will most likely use this service?"
+
+Criteria might be
 
 - A particular demographic (for example, women under 30 years of age)
 - A specific user group (for example, small business owners or internal staff)
@@ -45,7 +47,9 @@ You will probably need to identify multiple target groups.
 
 ## Gender Based Analysis+ in Research
 
-[Gender Based Analysis+](https://cfc-swc.gc.ca/gba-acs/index-en.html) (GBA+) is an analytical process used to assess how diverse groups of women, men and non-binary people, along with other intersecting factors may experience policies, programs and services differently. Across all target groups, you should use a GBA+ to inform your recruitment so you can understand the research question from the viewpoints of a diversity of people. Always try to recruit a representative spread of
+[Gender Based Analysis+](https://cfc-swc.gc.ca/gba-acs/index-en.html) (GBA+) is an analytical process used to assess how diverse groups of women, men and non-binary people, along with other intersecting factors may experience policies, programs and services differently. Across all target groups, you should use a GBA+ to inform your recruitment so you can understand the research question from the viewpoints of a diversity of people.
+
+Always try to recruit a representative spread of
 
 - Age
 - Gender
@@ -65,8 +69,8 @@ There is no exact number of participants you need when completing user research.
 User research doesn’t have to be expensive, but there are some costs to consider like
 
 - [Travel](https://bcgov.github.io/user-research-guide/planning-research/travel.html)
-  - Type of transportation (for example, airfare)
-  - Accommodation
-  - Per diems
+  - [Type of transportation](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/travel?keyword=per&keyword=diem#1032) (for example, airfare)
+  - [Accommodation](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/travel?keyword=per&keyword=diem#10310)
+  - [Per diems](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/travel?keyword=per&keyword=diem#1037)
 - [Participant compensation](https://bcgov.github.io/user-research-guide/planning-research/compensation.html)
 - Catering (if applicable)

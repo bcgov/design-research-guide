@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ethics
+title: Ethics & Risk
 nav_order: 10
 ---
 

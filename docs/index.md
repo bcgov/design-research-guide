@@ -22,13 +22,13 @@ The BC User Research Guide provides documentation and instruction on doing user 
 Doing user research supports the following [digital principles](https://github.com/bcgov/digital-principles):
 
 - Principle 1: Prioritize delivering impact for British Columbians
-- Principle 2: Design with people & embed inclusion=
+- Principle 2: Design with people & embed inclusion
 - Principle 4: Continuously learn & improve
 - Principle 10: Express cultural & historical awareness & respect
 
 ## Versions
-v0.01 - January 14, 2020: Proof of concept launched
-v0.1 - February 21, 2020: First draft of guide content launched
+- v0.01 - January 14, 2020: Proof of concept launched
+- v0.1 - February 21, 2020: First draft of guide content launched
 
 ## Provide Feedback
 
