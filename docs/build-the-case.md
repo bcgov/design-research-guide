@@ -11,9 +11,9 @@ Draft
 # Build the Case for User Research
 
 ## Staffing and Time Requirements
-Quality research requires time, but don't let time constraints stop you from doing any user research. Some research is always better than none.
+Quality research requires time. Expect people doing user research to dedicate significant time to doing research activities and analysis, but don't let time constraints stop you from doing any user research. Some research is always better than none. While this may not be an extra expense in staffing, it could require temporarily shifting staff responsibilities.
 
-Expect members of your research team to dedicate at least 50 per cent of their workday to the project. While this may not be an extra expense, it could require temporarily shifting staff responsibilities. Of course, hiring a full-time user researcher is always an option.
+Your job title doesn't need to say "User Researcher" to do user research. This guide should give you the basic information and confidence to understanding the [logistics of research planning](https://bcgov.github.io/user-research-guide/planning-research/) and [how to do the research](https://bcgov.github.io/user-research-guide/conduct-research.html) effectively. Of course, hiring a full-time user researcher is always an option.
 
 ## Researcher Roles and Responsibilities
 You should always work in pairs when doing research. At a minimum you should assign team members to the first two roles:

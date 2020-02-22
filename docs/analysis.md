@@ -18,25 +18,30 @@ User research activities produce a lot of raw data, for example
 
 Filtering and organizing this data will help you to produce meaningful insights.
 
-## How to Extract Observations
+## How to Find Interesting and Relevant Observations
 
 Follow these steps to gather observations with your team
 
 1. Hand out sticky notes.
-2. Ask team members to review the notes taken during the research. They can then write interesting or relevant observations on the sticky notes. You can use the colour of sticky notes strategically (for example, red to note pain points, green for notes about what works well).
+2. Ask team members to review the notes taken during the research. They can then write interesting or relevant observations on the sticky notes. Look for
+  - Things that are working well
+  - Challenges people have (pain points)
+  - Opportunities for improvement
+  - Powerful quotes
+You can use the colour of sticky notes strategically (for example, red to note pain points, green for notes about what works well).
 3. If you have recordings, you can make them available. Team members can use them to confirm their observations and get verbatim quotes.
-4. Tell the group to use a single sticky note for each observation and write exactly what they saw or heard (for example, quotes or observed behaviour), not what they think it means. This way, the notes will be unbiased and represent the voice of the user.
+4. Tell the group to use a single sticky note for each observation and write exactly what they saw, heard or read (for example, quotes or observed behaviour), not what they think it means. This way, the notes will be unbiased and represent the voice of the user.
 
 ### Sort Observations
 
-Once team members have written down their observations, ask them to place their sticky notes on a wall. Start sorting them into similar themes. You can group them by
+Once team members have written down their observations, ask them to place their sticky notes on a wall. Start sorting them into similar themes. This is often called ‘affinity mapping’. You can group them by
 
 - Common topics (for example, identity, delivery, payment)
 - Stages in a user journey (for example, ‘supply photo’, ‘attend interview’, ‘pay’)
 - Individual pages or steps in a transaction
 - Types of user (for example, first time user, business user)
 
-Allow people to move notes placed by other people. The idea is to look for patterns or clusters in the data by grouping the notes until clear themes emerge. In some cases this means duplicating notes that may be relevant to more than one cluster. This is often called ‘affinity mapping’.
+Allow people to move notes placed by other people. The idea is to look for patterns or clusters in the data by grouping the notes until clear themes emerge. In some cases this means duplicating notes that may be relevant to more than one cluster.
 
 ### Name your Groups
 

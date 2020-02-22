@@ -15,7 +15,8 @@ Each person has their own perspective and experiences to share. The best way to 
 
 Compensation is good practice because
 
-- Not everyone has the luxury of donating their time to your user research project. There may be child care considerations, long commute times, or other reasons where unpaid research is not a high priority.
+- We should compensate people for the time they spend with us, recognizing the value of their thoughts and opinions.
+- There may be child care considerations, long commute times, or other reasons where unpaid research is not a high priority.
 - People who are able to participate voluntarily generally have time or sufficient income to attend and this leads to poor sampling.
 - If you conduct free user research, most people are unlikely to take time off from work to participate. A good question to ask yourself is “How likely are you to participate in a one-hour, unpaid interview, where you would have to take time off to travel to their office and provide feedback?” Usually that question will illustrate why paying participants will make their effort worthwhile.
 

@@ -14,12 +14,12 @@ User research is a study of who the users of a service are, how they behave and 
 
 ## Why is User Research Important?
 
-Learning about users allows you to create better government services. You will discover the user’s motivations, struggles and goals for a service. The role of a user researcher is not to consult with, audit, and/or teach users. The role of a user researcher is to actively observe and listen without bias or assumptions.
+Learning about users allows you to create better government services, products and content. You will discover the user’s motivations, struggles and goals when interacting with government. The role of a user researcher is not to consult with, audit, and/or teach users. The role of a user researcher is to actively observe and listen without bias or assumptions.
 
 User research helps us
 
 - Discover the need for the products and services sooner rather than later
-- Establish a good foundation to make sure you are designing the best products, services and systems
+- Establish a good foundation to make sure you are designing the best content, products, services and programs
 - Lower cost of projects in the long term
 - Improve processes to deliver services faster and more responsively
 - Reduce the number of user inquiries and complaints
@@ -27,7 +27,7 @@ User research helps us
 
 ## When to do Research
 
-User research can be used across the lifecycle of a project, from initial discovery through to build and maintenance. Where you are in the design and delivery process will determine what kind of research you do.
+User research can be done at any stage of a project, from initial discovery through to build and maintenance. Where you are in a project will determine what kind of research you do.
 
 ### Discover
 In the Discover phase, your focus is on generative research and discovering what the problems are.
