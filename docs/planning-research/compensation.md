@@ -31,7 +31,7 @@ You cannot compensate
 
 Compensation should be appropriate in type and amount. The research team is responsible for assessing the level of compensation based on budget and number of participants.
 
-All compensation should be provided fairly to all users in the same study, with equal compensation for equal participation regardless of income, age, gender, or race.
+> All compensation should be provided fairly to all users in the same study, with equal compensation for equal participation regardless of income, age, gender, or race.
 
 ### Recommended Compensation
 
@@ -43,14 +43,13 @@ All compensation should be provided fairly to all users in the same study, with 
 
 ## Forms of Compensation
 
-The easiest way to provide compensation is with a stipend. Stipends are gift cards purchased at a certain dollar value.
+The easiest way to provide compensation is with a stipend. Stipends are normally gift cards purchased at a certain dollar value. Work with your finance department to purchase gift cards.
 
 When planning which gift cards to purchase
 - Choose three to five options (for example, gas station, grocery store, restaurant)
 - Think about your research location and the services available there. The location you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. Look up what services are available in each research location.
 - Avoid using prepaid Visas or Mastercards. These cards have an activation fee which are non-recoverable. Factor the activation fees into your budget if you choose to purchase prepaid cards.
 - Let the participant select which gift card is best for them
-- Work with your finance department to purchase gift cards
 
 > At this time, we are not able to provide electronic gift cards.
 
@@ -58,7 +57,7 @@ When planning which gift cards to purchase
 
 - A stipend receipt is required for compensation.
 - You must create a record of proof that the participant received the compensation for accounting and auditing purposes.
-- Gift cards can be perceived to be for personal use so these receipts are mandatory in case of a Freedom of Information request or audit.
+- Gift cards can be perceived to be for personal use so receipts are mandatory in case of a [Freedom of Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information) request or audit.
 
 Before using the template fill in the highlighted fields with your project information.
 
