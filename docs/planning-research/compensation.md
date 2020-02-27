@@ -47,23 +47,25 @@ The easiest way to provide compensation is with a stipend. Stipends are gift car
 
 When planning which gift cards to purchase
 - Choose three to five options (for example, gas station, grocery store, restaurant)
-- Think about your location of research. The location you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. Look up what services are available in each location you are doing research.
+- Think about your research location and the services available there. The location you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. Look up what services are available in each research location.
 - Avoid using prepaid Visas or Mastercards. These cards have an activation fee which are non-recoverable. Factor the activation fees into your budget if you choose to purchase prepaid cards.
 - Let the participant select which gift card is best for them
-- Work with your finance department to purchase gift cards.
+- Work with your finance department to purchase gift cards
 
 > At this time, we are not able to provide electronic gift cards.
 
-## Honorarium & Gift giving for Indigenous Peoples
-
-Under development and review
-{: .label .label-yellow }
-Protocols for providing honorariums, gift giving, and elder payment when working with Indigenous peoples and First Nations.
-
 ## Proof of Compensation
 
-A stipend receipt is required for compensation. You must create a record of proof that the participant received the compensation for accounting and auditing purposes. Gift cards can be perceived to be for personal use so these receipts are mandatory in case of a Freedom of Information request or audit.
+- A stipend receipt is required for compensation.
+- You must create a record of proof that the participant received the compensation for accounting and auditing purposes.
+- Gift cards can be perceived to be for personal use so these receipts are mandatory in case of a Freedom of Information request or audit.
 
 Before using the template fill in the highlighted fields with your project information.
 
 [Download Receipt Template](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx){: .btn .btn-blue }
+
+## Honorarium & Gift Giving for Indigenous Peoples
+
+Under development and review
+{: .label .label-yellow }
+Protocols for providing honorariums, gift giving, and elder payment when working with Indigenous peoples and First Nations.
