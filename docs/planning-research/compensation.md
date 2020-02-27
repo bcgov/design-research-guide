@@ -43,11 +43,14 @@ All compensation should be provided fairly to all users in the same study, with 
 
 ## Forms of Compensation
 
-The easiest way to provide compensation is with a stipend gift card. You should offer three to five options and let the participant select which is best for them. The city or region you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store.
+The easiest way to provide compensation is with a stipend. Stipends are gift cards purchased at a certain dollar value.
 
-Offering a prepaid Visa or Mastercard is also an option. This option costs more, as these cards come with an activation fee. Factor the activation fees into your budget if you go this route.
-
-Work with your finance department to purchase gift cards or prepaid Visa cards.
+When planning which gift cards to purchase
+- Choose three to five options (for example, gas station, grocery store, restaurant)
+- Think about your location of research. The location you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. Look up what services are available in each location you are doing research.
+- Avoid using prepaid Visas or Mastercards. These cards have an activation fee which are non-recoverable. Factor the activation fees into your budget if you choose to purchase prepaid cards.
+- Let the participant select which gift card is best for them
+- Work with your finance department to purchase gift cards.
 
 > At this time, we are not able to provide electronic gift cards.
 
@@ -59,8 +62,10 @@ Protocols for providing honorariums, gift giving, and elder payment when working
 
 ## Proof of Compensation
 
-A stipend receipt is required for compensation. You must create a record of proof that the participant received the compensation for accounting purposes.
+A stipend receipt is required for compensation. You must create a record of proof that the participant received the compensation for accounting and auditing purposes. Gift cards can be perceived to be for personal use so these receipts are mandatory in case of a Freedom of Information request or audit.
 
 ### Stipend receipt template
 Coming soon
 {: .label .label-yellow }
+Before using the template fill in the highlighted fields for your project
+Download [Stipend Receipt Template](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx)
