@@ -24,12 +24,15 @@ If your research is relatively low risk, you should use this guide as a starting
 
 ## Participants that need special attention (vulnerable participants)
 
-All research, with any type of user, involves a power dynamic. If you are looking to gather insights from vulnerable participants, you may need assistance beyond this user research guide and will require more extensive review or expert guidance. Projects using participants that are vulnerable will receive greater scrutiny. Examples of vulnerable participants may include
+All research, with any type of user, involves a power dynamic. If you are looking to gather insights from vulnerable participants, you may need assistance beyond this user research guide and will require more extensive review or expert guidance. Review the [researcher code of conduct](https://bcgov.github.io/user-research-guide/ethics/code-of-conduct.html) and [ethical research practices](https://bcgov.github.io/user-research-guide/ethics/ethical-practices.html) to make sure you working in a safe, ethical, and cultural appropriate way. Projects using participants that are vulnerable will receive greater scrutiny. 
+
+Examples of vulnerable participants may include
 
 - Children (under 19 requires parental consent)
-- People who are from a historically racialized, marginalized or oppressed group * indigenous peoples. (for example: First Nations, Métis, and Inuit peoples)
+- People who are from a historically racialized, marginalized or oppressed group
+- Indigenous peoples (for example, First Nations, Métis, and Inuit peoples)
 - Diminished decision making capacity
-- Captive or dependent on others (for example: seniors in care homes)
+- Captive or dependent on others (for example, seniors in care homes)
 - Research projects taking place outside of Canada
 - Research with over-researched populations, such as people who are homeless, people who work in the sex industry, or people who use illegal drugs
 

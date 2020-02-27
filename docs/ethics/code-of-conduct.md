@@ -48,7 +48,7 @@ As a researcher you will:
 - Work in pairs or groups of three when conducting sessions on-site at people’s homes or public spaces
 - Check in and out with supervisors before and after research activities.
 
-##Working with Co-researchers
+## Working with Co-researchers
 - Work with co-researchers (for example, social workers and community leaders) whenever possible, to make sure that practices meet the ethical and safety requirements of their organizations in order for them to participate in the research.
 - Take steps to adjust practices where possible
 
