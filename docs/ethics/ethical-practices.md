@@ -18,21 +18,16 @@ As a researcher you will:
 - Provide the participants with a debriefing sheet that identifies contact information of local services, within their band or community, if they require support during or after the session.
 
 ## Anonymity and Privacy
-- Be committed to respecting the confidentiality of the individuals that we speak to, and any other people, or events mentioned in their stories. The anonymity and privacy of people, who share their traumas and experiences, are guaranteed and paramount to any other interests.
-- Ensure this intent translates into practice by de-identifying personal information
-- Ensure all recordings, transcripts and notes will be held, archived, and disposed of in accordance with strict government security standards and policy.
+- Respect the confidentiality of the participants that you speak to, and any other people, or events mentioned in their stories. The [anonymity](https://bcgov.github.io/user-research-guide/conduct-research.html#de-identify-your-notes) and [privacy of people](https://bcgov.github.io/user-research-guide/privacy-personal-information.html), who share their traumas and experiences, are guaranteed and paramount to any other interests.
 
 ## Setting
-- Be committed to meeting people where and when they feel most comfortable speaking with us. Due to past experiences with government, some people might not like to meet us inside a government building.
-- Meet them at a location of their convenience. For example, in their homes, offices or any location identified by the participant.
-- Recognize that some individuals may prefer or need to speak with us outside regular 9 to 5 working hours
-- Be flexible and accommodating in finding the right location for meeting
+- Meet people at a [location](https://bcgov.github.io/user-research-guide/find-participants.html#pick-a-location) where and when they feel most comfortable speaking with you. Due to past experiences with government, some people might not feel comfortable inside a government building.
 
-## Sharing insights and findings
-- Be open to sharing research insights and findings with participants where appropriate while ensuring that participants are aware of our intentions and understand how their information is being used.
+## Sharing Insights and Findings
+- Be open to sharing generalized research insights and findings with participants, where appropriate
 
 ## Representation
-- Include people with a cross-section of attributes that is representative of different geography, age, education, income, languages, sex, gender and people with varying levels of disabilities.
+- Include people in your research with a [cross-section of attributes](https://bcgov.github.io/user-research-guide/planning-research/#gender-based-analysis-in-research) as a way to understand the diverse experiences of people interacting with government services
 
 ## Recruitment
-- Recruit whenever possible by connecting through support groups or agencies to avoid recruiting vulnerable individuals, for example, those who are at risk of experiencing emotional or psychological trauma as a result of the research process. People in certain communities would have past trauma associated with government and the research might expose vulnerabilities.
+- Recruit whenever possible by connecting through support groups or agencies to avoid recruiting vulnerable individuals, for example, those who are at risk of experiencing emotional or psychological trauma as a result of the research process. People in certain communities may have past trauma associated with government and the research might expose vulnerabilities.
