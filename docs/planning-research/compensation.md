@@ -64,8 +64,6 @@ Protocols for providing honorariums, gift giving, and elder payment when working
 
 A stipend receipt is required for compensation. You must create a record of proof that the participant received the compensation for accounting and auditing purposes. Gift cards can be perceived to be for personal use so these receipts are mandatory in case of a Freedom of Information request or audit.
 
-### Stipend receipt template
-Coming soon
-{: .label .label-yellow }
-Before using the template fill in the highlighted fields for your project
-Download [Stipend Receipt Template](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx)
+Before using the template fill in the highlighted fields with your project information.
+
+[Download Receipt Template](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx){: .btn .btn-blue }
