@@ -28,7 +28,6 @@ The purpose of a consent form is for both participants and researchers of the se
 
 
 ### Consent Form Requirements
-Consent must be given in writing.
 
 A consent form must state that you will
 
@@ -37,6 +36,8 @@ A consent form must state that you will
 - [Record sessions](https://bcgov.github.io/user-research-guide/conduct-research.html#record-the-session) using screen capture and audio options only. User research is limited to participants consenting only to screen capture and audio options. Photos of people's faces or likeness is not allowed.
 - Not intentionally ask for [personal information](https://bcgov.github.io/user-research-guide/privacy-personal-information.html#what-is-personal-information) if it is not necessary. The consent form must specify that you will not be intentionally asking for personal information, but acknowledges that personal information (such as stories and experiences) may come out due to the nature of the study.
 - Store data on an encrypted government device. Any data collected should be stored in password-protected and/or encrypted government device.
+
+> Consent must be given in writing.
 
 ### Consent Form Template
 Coming soon

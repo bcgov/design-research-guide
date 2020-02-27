@@ -11,9 +11,9 @@ Draft
 # Build the Case for User Research
 
 ## Staffing and Time Requirements
-Quality research requires time. Expect people doing user research to dedicate significant time to doing research activities and analysis, but don't let time constraints stop you from doing any user research. Some research is always better than none. While this may not be an extra expense in staffing, it could require temporarily shifting staff responsibilities.
+Quality research requires time, but don't let time constraints stop you from doing any user research. Some research is always better than none.
 
-Your job title doesn't need to say "User Researcher" to do user research. This guide should give you the basic information and confidence to understanding the [logistics of research planning](https://bcgov.github.io/user-research-guide/planning-research/) and [how to do the research](https://bcgov.github.io/user-research-guide/conduct-research.html) effectively. Of course, hiring a full-time user researcher is always an option.
+Your job title doesn't need to say "User Researcher" to do user research. This guide gives you the basic information to understand the [logistics of research planning](https://bcgov.github.io/user-research-guide/planning-research/) and [how to do the research](https://bcgov.github.io/user-research-guide/conduct-research.html) effectively. Doing research may not be an extra expense in staffing, but it could require temporarily shifting staff responsibilities. Of course, hiring a full-time user researcher is always an option.
 
 ## Researcher Roles and Responsibilities
 You should always work in pairs when doing research. At a minimum you should assign team members to the first two roles:
@@ -34,7 +34,7 @@ The benefits of having your executives and team as an observer to watch at least
 - **Empathy:** You are able to relate to the user and understand why the service is not working for the user.
 
 ## Get Approval From Executives
-Approval may be required before you start research, especially if you are doing complex research. Key questions that your executives may ask include
+Approval may be required before you start research, especially if you are doing [complex research](https://bcgov.github.io/user-research-guide/ethics.html#complex-research-activities). Key questions that your executives may ask include
 
 - Do you require a [budget](https://bcgov.github.io/user-research-guide/planning-research/#create-a-budget)?
 - [Why are you talking to people?](https://bcgov.github.io/user-research-guide/understand-user-research.html#why-is-user-research-important)
@@ -59,6 +59,6 @@ A research plan outlines the goals, approach and logistics for research, and sho
   - Interview scripts and workshop outlines
   - [Recruiting screener](https://bcgov.github.io/user-research-guide/find-participants.html#screen-participants) to qualify research participants
 
-This plan is simply a guide; the team may have to adapt on the fly to accommodate unexpected changes in schedules, participants or direction of the research.
+> This plan is simply a guide; the team may have to adapt on the fly to accommodate unexpected changes in schedules, participants or direction of the research.
 
 Use the Research Plan Canvas (coming soon) to help plan your research project
