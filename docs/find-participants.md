@@ -111,7 +111,11 @@ Do not schedule more than four 1 hour sessions per day. Leave a buffer of **at l
 
 ## Pick A Location
 
-A good research location is one that is easy for the user to access and makes them feel comfortable. Whenever possible, do the research in the context that a user would use a service (for example, at home or in the office). Sometimes participants are not comfortable with a researcher coming to their home so offer multiple options and let them pick which is best for them.
+A good research location is one that is easy for the user to access and makes them feel comfortable. Whenever possible, do the research in the context that a user would use a service (for example, at home or in the office).
+
+Some participants may prefer or need to speak with you outside regular 9 to 5 working hours. Be flexible and accommodating in finding the right time and location for meeting.
+
+Some participants are not comfortable with a researcher coming to their home. Offer multiple options and let them pick which is best for them.
 
 You may consider doing research at a
 
