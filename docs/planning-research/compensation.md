@@ -55,9 +55,9 @@ When planning which gift cards to purchase
 
 ## Proof of Compensation
 
-- A stipend receipt is required for compensation.
+- A [stipend receipt](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx) is required for compensation.
 - You must create a record of proof that the participant received the compensation for accounting and auditing purposes.
-- Gift cards can be perceived to be for personal use so receipts are mandatory in case of a [Freedom of Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information) request or audit.
+- Gift cards can be perceived to be for personal use so receipts are mandatory in case a [Freedom of Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information) request or audit.
 
 Before using the template fill in the highlighted fields with your project information.
 
