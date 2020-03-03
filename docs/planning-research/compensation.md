@@ -48,18 +48,19 @@ The easiest way to provide compensation is with a stipend. Stipends are normally
 When planning which gift cards to purchase
 - Choose three to five options (for example, gas station, grocery store, restaurant)
 - Think about your research location and the services available there. The location you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. Look up what services are available in each research location.
-- Avoid using prepaid Visas or Mastercards. These cards have an activation fee which are non-recoverable. Factor the activation fees into your budget if you choose to purchase prepaid cards.
+- Avoid using prepaid Visas or Mastercards. These cards have an additional activation fee. Factor the activation fees into your budget if you choose to purchase prepaid cards.
 - Let the participant select which gift card is best for them
 
 > At this time, we are not able to provide electronic gift cards.
 
 ## Proof of Compensation
 
-- A [stipend receipt](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx) is required for compensation.
-- You must create a record of proof that the participant received the compensation for accounting and auditing purposes.
-- Gift cards can be perceived to be for personal use so receipts are mandatory in case a [Freedom of Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information) request or audit.
+- You must create a record of proof that the participant received the compensation for accounting and auditing purposes
+- Gift cards can be perceived as being for personal use so receipts are mandatory in case a [Freedom of Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information) request is made or an audit happens
+- Use a [stipend receipt](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx) to create a record of proof that the participant received the gift card
 
-Before using the template fill in the highlighted fields with your project information.
+
+Before using the template, complete the highlighted fields with your project information.
 
 [Download Receipt Template](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx){: .btn .btn-blue }
 
