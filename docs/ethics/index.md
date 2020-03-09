@@ -24,7 +24,7 @@ If your research is relatively low risk, you should use this guide as a starting
 
 ## Participants that need special attention (vulnerable participants)
 
-All research, with any type of user, involves a power dynamic. If you are looking to gather insights from vulnerable participants, you may need assistance beyond this user research guide and will require more extensive review or expert guidance. Review the [researcher code of conduct](https://bcgov.github.io/user-research-guide/ethics/code-of-conduct.html) and [ethical research practices](https://bcgov.github.io/user-research-guide/ethics/ethical-practices.html) to make sure you working in a safe, ethical, and cultural appropriate way. Projects using participants that are vulnerable will receive greater scrutiny. 
+All research, with any type of user, involves a power dynamic. If you are looking to gather insights from vulnerable participants, you may need assistance beyond this user research guide and will require more extensive review or expert guidance. Review the [researcher code of conduct](https://bcgov.github.io/user-research-guide/ethics/code-of-conduct.html) and [ethical research practices](https://bcgov.github.io/user-research-guide/ethics/ethical-practices.html) to make sure you working in a safe, ethical, and cultural appropriate way. Projects using participants that are vulnerable will receive greater scrutiny.
 
 Examples of vulnerable participants may include
 
@@ -36,7 +36,7 @@ Examples of vulnerable participants may include
 - Research projects taking place outside of Canada
 - Research with over-researched populations, such as people who are homeless, people who work in the sex industry, or people who use illegal drugs
 
-If you are unsure on how to approach your user research study, always ask for a second opinion and talk to the Service Design Team, your Ministry Privacy Officer or the Privacy and Compliance Training branch for advice.
+If you are unsure on how to approach your user research study, always ask for a second opinion and talk to the Service Design Team for advice.
 
 ## Complex Research Activities
 
