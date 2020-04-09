@@ -21,11 +21,9 @@ We hear from people in their own words, so we may gain an understanding of what 
 
 Learning about users allows you to create better government services, products and content.
 
-You will learn the user’s, motivations, struggles, and goals when interacting with government.
+You will learn the user’s motivations, struggles, and goals when interacting with government.
 
-The role of a user researcher is not to consult with, audit, or teach users.
-
-The role of a user researcher is to be an active observer and listen without bias or assumptions.
+The role of a user researcher is not to consult with, audit, or teach users. The role of a user researcher is to be an active observer and listen without bias or assumptions.
 
 User research helps to
 
@@ -49,7 +47,7 @@ It is best to challenge assumptions early to minimize unexpected surprises. When
 You should
 - Conduct [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) to discover user problems and needs
 - Shadow someone to observe what they experience
-- Run a [usability test](https://bcgov.github.io/user-research-guide/activities/usability-testing.html)on an existing service to identify challenges when completing tasks
+- Run a [usability test](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) on an existing service to identify challenges when completing tasks
 
 ### Explore & Experiment
 In the Explore & Experiment phase, you should explore multiple concepts and options to solving problems. The goal is to explore different paths to solve the problem and worry about polishing the details in later phases.
@@ -64,7 +62,7 @@ You should
 By this phase, you will have narrowed down on a concept and are working out the details.
 
 You should
-- Conduct card sorting exercise to structure menu items on your web page
+- Conduct a card sorting exercise to structure menu items on your web page
 - [Intercept test](https://bcgov.github.io/user-research-guide/activities/intercept.html) on specific elements of the product. This is to ensure participants understand what you are asking them to do
 - Run a [usability test](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) on high fidelity prototypes or working software to identify potential usability issues. The purpose is to take a product idea and iterate to make gradual improvements based on feedback
 
@@ -74,7 +72,7 @@ Qualitative and quantitative research methods will help you understand a problem
 
 ### Qualitative
 
-Qualitative research investigates the everyday life and experiences that cannot be measured by numbers, such as
+Qualitative research investigates the everyday life and experiences that cannot be measured by numbers, such as:
 - Meaning
 - Interpretations
 - Symbols
