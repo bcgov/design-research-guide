@@ -11,7 +11,9 @@ Draft
 # Define the Research Goals
 Before starting any research, you should understand
 
-- What you’re trying to achieve (do you want to understand your users’ behaviour, try out new features or both?)
+- What you’re trying to achieve
+  - Do you want to understand your users’ behaviour?
+  - Try out new features? Or both?
 - Which problems you’re trying to solve
 - Which assumptions or beliefs about your users or service you want to test
 - What you need to know now to be able to make an informed decision about what to do next
@@ -24,11 +26,17 @@ User research should have clear goals. Work with your team to agree what you wan
 
 ## Create Research Questions
 
-Your research question(s) is what you need to learn to achieve your research goal, not the questions you'll ask in a session. You can use research questions to help you plan and prioritize user research.
+Research questions should help you answer your research goal. They are not the specific questions you'll ask in a session.
 
 > Example:
 - How do new immigrants learn about the Medical Services Plan?
 - Are there external supports new immigrants use to access the enrollment application?
 - How many new immigrants use the digital form versus the paper form? Why?
 
-Your research goals and questions will help you decide if you need [qualitative and/or quantitative methods](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative), and which [research activities](https://bcgov.github.io/user-research-guide/activities/) to use. You'll use this information to start [planning your research logistics](https://bcgov.github.io/user-research-guide/planning-research/).
+Use research questions to help you plan and prioritize user research.
+
+Your research goals and questions will help you choose which
+- [Qualitative and/or quantitative methods](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative) to use
+- [Research activities](https://bcgov.github.io/user-research-guide/activities/) to use 
+
+You'll use this information to start [planning your research logistics](https://bcgov.github.io/user-research-guide/planning-research/).
