@@ -17,9 +17,9 @@ Your job title doesn't need to say "User Researcher" to do user research.
 
 This guide gives you the basic information to understand
 - The [logistics of research planning](https://bcgov.github.io/user-research-guide/planning-research/)
-- [How to do the research](https://bcgov.github.io/user-research-guide/conduct-research.html) effectively.
+- [How to do the research](https://bcgov.github.io/user-research-guide/conduct-research.html) effectively
 
-When doing research, there will need to be a shift of staff responsibilities.
+When doing research, there will need to be a shift of staff responsibilities to provide some time for research activities.
 
 If your area is unable to shift staff responsibilities, there are other options. One option would be hiring a contractor or full-time researcher.
 
@@ -27,20 +27,20 @@ If your area is unable to shift staff responsibilities, there are other options.
 ## Researcher Roles and Responsibilities
 You should always work in pairs when doing research. You should assign team members to the first two roles:
 
-- **Moderator:** As a moderator your job is to lead the research session asking questions and directing activities. You will be responsible for the safety and comfort of the user for the entirety of the session.
-- **Recorder:** As a recorder your job is to transcribes session, taking notes and photos. Having transcripts completed means you will be able to use them as reference and analysis.
+- **Moderator:** As a moderator your job is to lead the research session, asking questions and directing activities. You will be responsible for the safety and comfort of the user for the entirety of the session.
+- **Recorder:** As a recorder your job is to transcribe session, taking notes and photos. Having transcripts completed means you will be able to use them as reference and analysis.
 - **Observer** (optional): Observes the session and takes personal notes. This role will rotate with different project team members.
 
 You should not include more than one observer at a research session. Having too many people in the room can be intimating for participants.
 
 ## Involve the Whole Project Team
-Involve your project team and executive as an observer to the research. The benefits of having them watch at least one user research session include
+Involve your project team and executive as an observer to the research. The benefits of having them watch at least one user research session include:
 
 - **User-centred suggestions:** Having other members participate in the research sessions will encourage them to prioritize user needs, rather than pursue design concepts that may not meet the user’s needs.
 - **Credibility:** Your team will see that your design is based on research and not personal preference.
 - **Buy-in:** Reviewing what happened in the research sessions as a group you can determine priorities together.
-- **Memorability:** Remembering things is easier when you experience rather than reading a report after.
-- **Empathy:** They are able to relate to the user and understand why the service is not working for the user.
+- **Memorability:** Remembering things is easier when you experience them rather than reading a report after.
+- **Empathy:** They are able to relate to the user and understand why the service is not working.
 
 ## Get Approval From Executives
 You may need to get approval from your executive before starting research.
