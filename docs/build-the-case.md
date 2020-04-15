@@ -11,40 +11,53 @@ Draft
 # Build the Case for User Research
 
 ## Staffing and Time Requirements
-Quality research requires time, but don't let time constraints stop you from doing any user research. Some research is always better than none.
+Quality research requires time. But don't let time constraints stop you from doing any user research. Some research is always better than none.
 
-Your job title doesn't need to say "User Researcher" to do user research. This guide gives you the basic information to understand the [logistics of research planning](https://bcgov.github.io/user-research-guide/planning-research/) and [how to do the research](https://bcgov.github.io/user-research-guide/conduct-research.html) effectively. Doing research may not be an extra expense in staffing, but it could require temporarily shifting staff responsibilities. Of course, hiring a full-time user researcher is always an option.
+Your job title doesn't need to say "User Researcher" to do user research.
+
+This guide gives you the basic information to understand
+- The [logistics of research planning](https://bcgov.github.io/user-research-guide/planning-research/)
+- [How to do the research](https://bcgov.github.io/user-research-guide/conduct-research.html) effectively.
+
+When doing research, there will need to be a shift of staff responsibilities.
+
+If your area is unable to shift staff responsibilities, there are other options. One option would be hiring a contractor or full-time researcher.
+
 
 ## Researcher Roles and Responsibilities
-You should always work in pairs when doing research. At a minimum you should assign team members to the first two roles:
+You should always work in pairs when doing research. You should assign team members to the first two roles:
 
-- **Moderator:** As a moderator, you will lead the research session asking questions and directing activities. You will be responsible for the safety and comfort of the user for the entirety of the session.
-- **Recorder:** As a recorder your job is to transcribes session, taking notes and photos. Having transcripts completed means you will be able to use them as reference and analysis
-- **Observer** (optional): Observes watch the session and takes personal notes. This role will rotate with different project team members.
+- **Moderator:** As a moderator your job is to lead the research session asking questions and directing activities. You will be responsible for the safety and comfort of the user for the entirety of the session.
+- **Recorder:** As a recorder your job is to transcribes session, taking notes and photos. Having transcripts completed means you will be able to use them as reference and analysis.
+- **Observer** (optional): Observes the session and takes personal notes. This role will rotate with different project team members.
 
-You shouldn't include more than one observer at a research session. Having too many people in the room can be intimating for participants.
+You should not include more than one observer at a research session. Having too many people in the room can be intimating for participants.
 
 ## Involve the Whole Project Team
-The benefits of having your executives and team as an observer to watch at least one user research session include
+Involve your project team and executive as an observer to the research. The benefits of having them watch at least one user research session include
 
-- **Make suggestions that are user-centred:** Having other members participate in the research sessions will encourage them to prioritize user experience, rather than pursue design concepts that may not meet the user’s needs.
+- **User-centred suggestions:** Having other members participate in the research sessions will encourage them to prioritize user needs, rather than pursue design concepts that may not meet the user’s needs.
 - **Credibility:** Your team will see that your design is based on research and not personal preference.
-- **Buy-in:** Reviewing what happened in the research sessions as a group and determining priorities together (for example, which feature must be included, needs to be modified, could be implemented if there was more time, and should be removed) means you don’t have to spend a lot of time explaining your choices to stakeholders and convincing them that it’s the right approach.
-- **Memorability:** It is easier to remember things when you experience them first hand, rather than read about them after.
-- **Empathy:** You are able to relate to the user and understand why the service is not working for the user.
+- **Buy-in:** Reviewing what happened in the research sessions as a group you can determine priorities together.
+- **Memorability:** Remembering things is easier when you experience rather than reading a report after.
+- **Empathy:** They are able to relate to the user and understand why the service is not working for the user.
 
 ## Get Approval From Executives
-Approval may be required before you start research, especially if you are doing [complex research](https://bcgov.github.io/user-research-guide/ethics.html#complex-research-activities). Key questions that your executives may ask include
+You may need to get approval from your executive before starting research.
+
+Key questions that your executives may ask:
 
 - Do you require a [budget](https://bcgov.github.io/user-research-guide/planning-research/#create-a-budget)?
 - [Why are you talking to people?](https://bcgov.github.io/user-research-guide/understand-user-research.html#why-is-user-research-important)
 - [Who will you be talking to?](https://bcgov.github.io/user-research-guide/planning-research/#identify-the-right-participants) And how many people?
 - Have you completed a [Privacy Impact Assessment](https://bcgov.github.io/user-research-guide/planning-research/pia.html)?
 
-Creating a research plan is a good way to capture the scope and requirements for research, and can be used as a communication tool with your executive.
+A good way to capture the scope and requirements for research is to create a research plan. This plan is also a tool to communicate with your executive
+
+Before doing [complex research](https://bcgov.github.io/user-research-guide/ethics.html#complex-research-activities) you need to get approval.
 
 ## Write a Research Plan
-A research plan outlines the goals, approach and logistics for research, and should include
+A research plan outlines the goals, approach and logistics for research. The plan should include:
 
 - Research [goals and questions](https://bcgov.github.io/user-research-guide/define-goals.html)
 - Project background
@@ -59,6 +72,6 @@ A research plan outlines the goals, approach and logistics for research, and sho
   - Interview scripts and workshop outlines
   - [Recruiting screener](https://bcgov.github.io/user-research-guide/find-participants.html#screen-participants) to qualify research participants
 
-> This plan is simply a guide; the team may have to adapt on the fly to accommodate unexpected changes in schedules, participants or direction of the research.
+> The research plan is a guide. Expect the unexpected. The team may have to make changes in schedules, participants or direction of the research.
 
 Use the Research Plan Canvas (coming soon) to help plan your research project
