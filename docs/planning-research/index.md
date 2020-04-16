@@ -25,6 +25,8 @@ Depending on your research goal and questions you'll need to choose the most app
 - [Intercept testing](https://bcgov.github.io/user-research-guide/activities/intercept.html)
 - Shadowing & observations
 
+You can conduct [remote research activities](https://bcgov.github.io/user-research-guide/activities/remote-research.html) if meeting participants in person is not an option.
+
 ## Identify the Right Participants
 
 Doing user research with real users of your service is the best way to get meaningful information. Asking for feedback from people in your office won't give you insight into how effective your service is at meeting user needs.
@@ -74,3 +76,4 @@ User research doesn’t have to be expensive, but there are some costs to consid
   - [Per diems](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/travel?keyword=per&keyword=diem#1037)
 - [Participant compensation](https://bcgov.github.io/user-research-guide/planning-research/compensation.html)
 - Catering (if applicable)
+- Software for [remote research]((https://bcgov.github.io/user-research-guide/activities/remote-research.html) (if applicable)
