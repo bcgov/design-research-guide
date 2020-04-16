@@ -26,9 +26,9 @@ The purpose of a consent form is for both participants and researchers of the se
 - How the information is going to be used
 - Who to contact if there are any questions
 
-A consent form creates a record of consent to participate in the research.
+A consent form also creates a record that the participant consented to be part of the research.
 
-Participant's must be given the option to receive a copy of the dated and signed consent form.
+Participant's **must** be given the option to receive a copy of the dated and signed consent form.
 
 ### Consent Form Requirements
 
@@ -40,14 +40,17 @@ A consent form must state that you will
 - Not intentionally ask for [personal information](https://bcgov.github.io/user-research-guide/privacy-personal-information.html#what-is-personal-information) if it is not necessary. The consent form must specify that you will not be intentionally asking for personal information, but acknowledges that personal information (such as stories and experiences) may come out due to the nature of the study.
 - Store data on an encrypted government device. Any data collected should be stored in password-protected and/or encrypted government device.
 
-### Electronic Consent forms
-You can create a record of consent using an online consent form.
-
-You should capture
+The form should include:
 - The participant's full name
-- Date of the research session
-- The participant's acknowledgment of consenting
+- Participant signature and date
+- Researcher signature and date
 
+### Online Consent Forms
+For remote user research, you can use an online consent form.
+
+In addition to the information above, you should capture the participant's acknowledgment of consent through a checkbox or some other action.
+
+If you are using an online consent form, you **must be able to save a record** of the completed form.
 
 ### Consent Form Template
 Coming soon
