@@ -51,11 +51,18 @@ The portability of devices could play a useful role in connecting with participa
 
 Combine tools and activities going back and forth between online and offline activities can help to create richer insights and achieve higher engagement from participants.  
 
-Whatever software tools you choose, make sure
-- To check with your Ministry Privacy Officer
-- The tool is easy to use without prior knowledge  
+### Protecting Privacy
 
-## Planning remote research activities
+You must always be aware of privacy considerations, both for yourself and your research participants.  
+
+- Do not record a person's face during remote user research activities
+- Avoid disclosing your personal information to participants when you’re conducting research from home. When setting up your laptop or camera, be aware of anything in the background that you would not want to share
+- If participants will share their screen, warn them in advance to close any browsers or documents that have sensitive information
+- If you are sharing your screen, make sure no sensitive information is visible
+
+Whatever software tools you choose, make sure to check with your Ministry Privacy Officer.
+
+## Planning Remote Research Activities
 
 Think about more than the software tools when planning remote research activities. Consider other factors that will allow the session to run smoothly.
 
