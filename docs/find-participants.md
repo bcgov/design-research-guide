@@ -90,15 +90,15 @@ Sample screener criteria:
 - Age
 - Job or profession
 - Date and time availability
+- Confidence with technology
+- Access to high-speed internet, if doing remote user research
 
-Participants for online research activities will need access to a high-speed internet connection and a reasonable level of comfort working on a computer, tablet or smartphone.
-
-You should make sure participants are willing to download specific software onto their home computer if needed for session. For example, downloading Skype for video calls.  
+If you are doing research remotely, you should make sure participants are willing to download specific software onto their home computer, if needed. For example, downloading Skype for video calls.  
 
 
 ## Schedule Sessions
 
-Once participants have been screened and selected, it is important to keep them informed about their participation in the research process. When scheduling a session, be flexible, but firm when picking a date, time and location to meet.
+Once participants have been screened and selected, keep them informed about their participation in the research process. When scheduling a session, be flexible, but firm when picking a date, time and location to meet.
 
 For example
 
@@ -113,14 +113,16 @@ When conducting remote research, make sure to ask the participant to download an
 
 If you are planning to use a software tool participants have never used before, or you are concerned about the participant's comfort level with technology, it's a good idea to have a comfort call before the session. This will allow you to walk them through the tool and answer any questions they might have.
 
+### Sessions Per Day
+
+Do not schedule more than four 1-hour sessions per day. Leave a buffer of **at least** 45 minutes between sessions.
+
 While it’s tempting to schedule as many sessions as possible in one day, experience tells us this isn’t good for anyone.
 
 - **Research is tiring.** Interviewing, active listening, observing, and note-taking require a high degree of focus.
 - **Research can be emotionally taxing.** Depending on your research topic, users may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important.
 
 Conducting research remotely amplifies these effects, as it often results in hours of screen time for researchers and working in isolation. Resist the temptation to squeeze more remote sessions into a day, just because there is less travel.
-
-Do not schedule more than four 1 hour sessions per day. Leave a buffer of **at least** 45 minutes between sessions.
 
 ## Pick A Location
 
@@ -137,5 +139,7 @@ You may consider doing research at a
 - Government office or meeting room
 - Local coffee shop
 - Community organization
+
+If meeting in person for the research is not possible, you can do [research activities remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html).
 
 No matter where the research takes place, think about the safety of both the participant and yourselves as researchers. Try to create a comfortable, and quiet space where the participant can speak honestly about the subject.
