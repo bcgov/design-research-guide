@@ -47,7 +47,9 @@ There are an overwhelming number of purpose-built software tools available for c
 
 Get creative with familiar tools like video conferencing, phone, and email.
 
-Combine tools and activities to accomplish your research goals. Going back and forth between online and offline activities can help to create richer insights and achieve higher engagement from participants.  
+The portability of devices could play a useful role in connecting with participants at locations and times that best illustrate key experiences or interactions with services. Think about how they can use photo or video to show you the context of their lives or show specific situations.
+
+Combine tools and activities going back and forth between online and offline activities can help to create richer insights and achieve higher engagement from participants.  
 
 Whatever software tools you choose, make sure
 - To check with your Ministry Privacy Officer
