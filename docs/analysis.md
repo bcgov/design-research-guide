@@ -13,8 +13,9 @@ Draft
 User research activities produce a lot of raw data, for example
 
 - Written and digital notes
-- Sketches and drawings
 - [Audio and screen capture recordings](https://bcgov.github.io/user-research-guide/conduct-research.html#record-the-session)
+- Photos and videos
+- Sketches and drawings
 
 Filtering and organizing this data will help you to produce meaningful insights.
 
@@ -93,3 +94,13 @@ Understanding who your users are
 Building better user journeys
 - [Journey mapping](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/methods-and-tools/document-and-visualize/journey-map)
 - [Service blueprints](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/methods-and-tools/document-and-visualize/service-blueprint)
+
+## Analyzing Research Remotely
+
+Analysis activities are best done with all members of the team in the same room, allowing for fluid brainstorming and rapid rearranging of ideas. If meeting in person is not an option there are online collaboration tools that can be combined to accomplish these same tasks:  
+- Video conferencing platforms such as Skype, where team members can share their screens if necessary to communicate ideas.
+- A shared digital working space where team members can collaboratively record and organize observations in real time. Software like Miro, Skype Whiteboard, and Excel Online (via Sharepoint) can replace sticky-notes and whiteboards.  
+
+Check with your Ministry Privacy Officer before using a software tool for your project analysis to make sure it complies with the Province's privacy rules and regulation.  
+ 
+When analyzing research online, consider splitting up the 5 steps into several shorter group work sessions separated by breaks or periods of individual work.  
