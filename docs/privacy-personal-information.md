@@ -18,7 +18,7 @@ Doing user research requires the collection of people's personal information. Re
 Simply put, personal information is **any recorded information about an identifiable individual other than their business contact information.** Personal information also includes information that can be used to identify an individual through association or inference. This can include, but is not limited to
 
 - Name, age, sex, weight, height
-- Home address and phone number
+- Home address, phone number, email
 - Race, ethnic origin, gender, sexual orientation
 - Medical information
 - Health care history, including physical or mental disability
@@ -37,3 +37,6 @@ Simply put, personal information is **any recorded information about an identifi
 Follow the [Ten Privacy Principles](
 https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/training/principles?keyword=privacy&keyword=principles
 ) when doing user research. Information on how the principles apply specifically to user research are coming soon.
+
+## Consent and Privacy
+Review information about [consent](https://bcgov.github.io/user-research-guide/planning-research/consent.html) and keeping personal information private.
