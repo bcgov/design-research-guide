@@ -17,8 +17,8 @@ Remote user research is any research conducted without being in the same locatio
 
 Remote user research should be considered when
 - In person sessions aren't logistically possible because you need to
-  - cover a wide geographic area
-  - collect data from a large sample size
+  - Cover a wide geographic area
+  - Collect data from a large sample size
 - Research will cover difficult topics that might be harder to talk about in person
 - There is not enough budget to travel or you are restricted from traveling
 - Activities are more effective online
@@ -68,7 +68,7 @@ Whatever software tools you choose, make sure to check with your Ministry Privac
 
 ## Planning Remote Research Activities
 
-Think about more than the software tools when planning remote research activities. Consider other factors that will allow the session to run smoothly.
+Think about more than the software tools when planning remote research activities. Consider other factors that will allow the session be effective and run smoothly.
 
 - Practice inclusive recruitment
 - Make activities as accessible as possible
