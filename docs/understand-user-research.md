@@ -100,10 +100,10 @@ If your project only uses qualitative data, think about how you can use numerica
 ## Conducting User Research Remotely or Online
 It is preferable to conduct user research in-person. Face-to-face interactions allow you to build trust and to observe what people are thinking, feeling and doing. However, sometimes it is not possible to be in the same place as participants.  
 
-Conducting user research remotely can open up opportunities, such as:
+Conducting [user research remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html) can open up opportunities, such as:
 - Collaborate with more users
 - Cover a wider geographical area of participate
 - Discuss difficult topics that might be hard to talk about face-to-face
 - Reduce project costs with less travel
 
-Each stage of a project has unique challenges with using a remote approach. These will be covered throughout this guide, and in the 'research activities' section for more detailed guidance. 
+Each stage of a project has unique challenges with using a remote approach. These will be covered throughout this guide.
