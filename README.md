@@ -13,8 +13,13 @@ Doing user research supports the following [digital principles](https://github.c
 - Principle 10: Express cultural & historical awareness & respect
 
 ## Versions
-- v0.01 - January 14, 2020: Proof of concept launched
-- v0.1 - February 21, 2020: First draft of guide content launched
+- v0.0.1 Proof of concept launched (01/14/2020)
+- v0.1.0 First draft of guide content launched (02/21/2020)
+- v0.1.1 Included
+  - [stipend receipt template](https://bcgov.github.io/user-research-guide/planning-research/compensation.html#proof-of-compensation)
+  - [ethical practices](https://bcgov.github.io/user-research-guide/ethics/ethical-practices.html) and [code of conduct](https://bcgov.github.io/user-research-guide/ethics/code-of-conduct.html) (Needs review) (02/27/2020)
+- v0.1.2 Updated information on allowing the use of [electronic gift cards](https://bcgov.github.io/user-research-guide/planning-research/compensation.html#electronic-gift-cards) for stipends (04/15/2020)
+- v0.2.1 **Major update**: Including remote user research practices throughout guide and [new page for remote research](https://bcgov.github.io/user-research-guide/activities/remote-research.html) (04/16/2020)
 
 ## Provide Feedback
 
