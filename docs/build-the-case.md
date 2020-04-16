@@ -21,11 +21,10 @@ This guide gives you the basic information to understand
 
 When doing research, there will need to be a shift of staff responsibilities to provide some time for research activities.
 
-If your area is unable to shift staff responsibilities, there are other options. One option would be hiring a contractor or full-time researcher.
-
+If your team is unable to shift staff responsibilities, you can be hire a contractor or full-time researcher.
 
 ## Researcher Roles and Responsibilities
-You should always work in pairs when doing research. You should assign team members to the first two roles:
+You should always work in pairs when doing research. At a minimum, you should assign team members to the first two roles:
 
 - **Moderator:** As a moderator your job is to lead the research session, asking questions and directing activities. You will be responsible for the safety and comfort of the user for the entirety of the session.
 - **Recorder:** As a recorder your job is to transcribe session, taking notes and photos. Having transcripts completed means you will be able to use them as reference and analysis.
@@ -63,7 +62,7 @@ A research plan outlines the goals, approach and logistics for research. The pla
 - Research [goals and questions](https://bcgov.github.io/user-research-guide/define-goals.html)
 - Project background
 - What [kind of participants](https://bcgov.github.io/user-research-guide/planning-research/#identify-the-right-participants) need to be involved, and [how to recruit them](https://bcgov.github.io/user-research-guide/find-participants.html)
-- The research approach including remote or in person [activities for research](https://bcgov.github.io/user-research-guide/activities/) and [analysis](https://bcgov.github.io/user-research-guide/analysis.html)
+- The research approach including [remote](https://bcgov.github.io/user-research-guide/activities/remote-research.html) or in person [activities for research](https://bcgov.github.io/user-research-guide/activities/) and [analysis](https://bcgov.github.io/user-research-guide/analysis.html)
 - Research reporting plans
 - Resources required, including team, time and budget including:
   - [Travel requirements](https://bcgov.github.io/user-research-guide/planning-research/travel.html)
