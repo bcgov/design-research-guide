@@ -31,9 +31,13 @@ When well planned, remote user research activities can be very effective at gett
 Video conferencing and other online collaboration tools are often top-of-mind when thinking about remote user research, but there are other ways to connect with participants:
 - Offline options like phone calls and mail
 - Communication that doesn't happen in real time, such as email or text messaging
-- Unmoderated activities where the participant completes a task, such as a survey, without a researcher present
+- Unmoderated activities where the participant completes a task, such as a card sort, without a researcher present
 
-There are an overwhelming number of purpose-built software tools available for conducting user research activities online. Select the appropriate tools for remote user research by starting with your [research goals and questions](https://bcgov.github.io/user-research-guide/define-goals.html). Think about what information you need and the most effective way to get it remotely.
+There are an overwhelming number of purpose-built software tools available for conducting research activities online.
+
+Select the appropriate tools for remote research by starting with your [research goals and questions](https://bcgov.github.io/user-research-guide/define-goals.html). Think about what information you need and the most effective way to get the information.
+
+### Activities
 
 - [Behavioural interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html): Will an interview over the phone work or do you need video to share things visually and observe participant expressions? Tools may include:
   - Phone
@@ -43,13 +47,13 @@ There are an overwhelming number of purpose-built software tools available for c
     - Specialized usability testing software  
     - Video conferencing and screen sharing. For example, Skype.
     - Email or mail to share prototypes, visuals, or other activities in physical formats
-- Collaborative Activities: How can you use real-time collaborative software like Excel online, Skype Whiteboard, or Miro to conduct interactive activities with participants? For example, card sorting.
+- Collaborative Activities: How can you use real-time collaborative software like Excel online, Skype Whiteboard, or Miro to conduct interactive activities with participants?
 
 Get creative with familiar tools like video conferencing, phone, and email.
 
 The portability of devices could play a useful role in connecting with participants at locations and times that best illustrate key experiences or interactions with services. Think about how they can use photo or video to show you the context of their lives or show specific situations.
 
-Combine tools and activities going back and forth between online and offline activities can help to create richer insights and achieve higher engagement from participants.  
+Combine different tools and activities. Going back and forth between online and offline activities can help to create richer insights and achieve higher engagement from participants.  
 
 ### Protecting Privacy
 
