@@ -30,8 +30,9 @@ You should always work in pairs when doing research. You should assign team memb
 - **Moderator:** As a moderator your job is to lead the research session, asking questions and directing activities. You will be responsible for the safety and comfort of the user for the entirety of the session.
 - **Recorder:** As a recorder your job is to transcribe session, taking notes and photos. Having transcripts completed means you will be able to use them as reference and analysis.
 - **Observer** (optional): Observes the session and takes personal notes. This role will rotate with different project team members.
+  - You should not include more than one observer at an in person research session. Having too many people in the room can be intimating for participants.
+- **Technical assistant** (optional): As a technical assistant your job is to troubleshoot technical difficulties when running or recording a remote research session. This role is helpful when you are doing online research with a group of participants. You may not want to interrupt the whole group if one participant is having issues.
 
-You should not include more than one observer at a research session. Having too many people in the room can be intimating for participants.
 
 ## Involve the Whole Project Team
 Involve your project team and executive as an observer to the research. The benefits of having them watch at least one user research session include:
@@ -62,15 +63,17 @@ A research plan outlines the goals, approach and logistics for research. The pla
 - Research [goals and questions](https://bcgov.github.io/user-research-guide/define-goals.html)
 - Project background
 - What [kind of participants](https://bcgov.github.io/user-research-guide/planning-research/#identify-the-right-participants) need to be involved, and [how to recruit them](https://bcgov.github.io/user-research-guide/find-participants.html)
-- The research approach including [activities for research](https://bcgov.github.io/user-research-guide/activities/) and [analysis](https://bcgov.github.io/user-research-guide/analysis.html)
+- The research approach including remote or in person [activities for research](https://bcgov.github.io/user-research-guide/activities/) and [analysis](https://bcgov.github.io/user-research-guide/analysis.html)
 - Research reporting plans
 - Resources required, including team, time and budget including:
   - [Travel requirements](https://bcgov.github.io/user-research-guide/planning-research/travel.html)
   - [Compensation](https://bcgov.github.io/user-research-guide/planning-research/compensation.html)
+  - Software you may need to purchase
 - A schedule for research activities and [locations](https://bcgov.github.io/user-research-guide/planning-research/travel.html)
 - Support materials (if ready at this point in time) such as:
   - Interview scripts and workshop outlines
   - [Recruiting screener](https://bcgov.github.io/user-research-guide/find-participants.html#screen-participants) to qualify research participants
+  - [Consent form](https://bcgov.github.io/user-research-guide/planning-research/consent.html)
 
 > The research plan is a guide. Expect the unexpected. The team may have to make changes in schedules, participants or direction of the research.
 
