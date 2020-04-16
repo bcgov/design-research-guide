@@ -25,7 +25,7 @@ Depending on your research goal and questions you'll need to choose the most app
 - [Intercept testing](https://bcgov.github.io/user-research-guide/activities/intercept.html)
 - Shadowing & observations
 
-You can conduct [remote research activities](https://bcgov.github.io/user-research-guide/activities/remote-research.html) if meeting participants in person is not an option.
+You can conduct [research activities remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html) if meeting participants in person is not an option.
 
 ## Identify the Right Participants
 
