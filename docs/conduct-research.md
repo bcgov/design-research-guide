@@ -69,7 +69,7 @@ When conducting [usability testing](https://bcgov.github.io/user-research-guide/
 ## Photos & Videos
 If you have photo and video consent, you can record objects, environments or situations.
 
-You cannot record a person's face in photos or videos for user research without explicit consent to record their face.
+You cannot record a person's face in photos or videos for user research.
 
 ## Ending the Session
 
