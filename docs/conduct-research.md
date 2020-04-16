@@ -15,12 +15,12 @@ Draft
 Make sure you are well prepared for each session.
 
 Remember to bring the:
-- Consent form
-- Stipend
-- Stipend receipt
+- [Consent form](https://bcgov.github.io/user-research-guide/planning-research/consent.html)
+- [Stipend](https://bcgov.github.io/user-research-guide/planning-research/compensation.html)
+- [Stipend receipt](https://bcgov.github.io/user-research-guide/planning-research/compensation.html#proof-of-compensation)
 - Information sheet
 
-Test any technology (video, microphone, internet connection) and recording devices
+Test any technology (video, microphone, internet connection) and recording devices.
 
 You should also be mentally prepared before each session.
 
