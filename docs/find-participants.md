@@ -79,16 +79,22 @@ If you have further questions, feel free to give us a call, and please let us kn
 
 ## Screen Participants
 
-A screener is a list of criteria used to check whether or not your potential participant would match with the characteristics of your target group.
+A screener is a list of criteria used to check whether or not a potential participant would match with the characteristics of your target group.
 
 Don't feel like you need to include every respondent in the research if the individual is not a strong match for the research. Not doing the sessions saves you and the individual time. Thank them for their interest in the project, and ask if they are open to you contacting them in the future for other research projects.
 
-Sample screener criteria
+Sample screener criteria:
 
 - Location or community
 - Demographics
+- Age
 - Job or profession
 - Date and time availability
+
+Participants for online research activities will need access to a high-speed internet connection and a reasonable level of comfort working on a computer, tablet or smartphone.
+
+You should make sure participants are willing to download specific software onto their home computer if needed for session. For example, downloading Skype for video calls.  
+
 
 ## Schedule Sessions
 
@@ -99,13 +105,20 @@ For example
 - “We are scheduling interviews in Victoria on Monday, January 13 and Tuesday, January 14 between 8am and 6pm.”
 - “We will be in your community next Friday and have availability to meet at 1:30pm or 4pm.”
 - “We are happy to host you at our meeting space downtown. If you prefer, we could also meet at your home or office.”
+- "We can meet online by video chat or the phone on the following days (list days) between the following hours (list hours)."  
 
 Whenever possible, use a participant’s preferred method of communication (for example, phone call, email, or text) to contact them when the session date is set. It’s also good practice to give them a courtesy reminder a day in advance of the session.
+
+When conducting remote research, make sure to ask the participant to download and test any software and technology (for example, internet connection, camera, microphone, application) before the session.  
+
+If you are planning to use a software tool participants have never used before, or you are concerned about the participant's comfort level with technology, it's a good idea to have a comfort call before the session. This will allow you to walk them through the tool and answer any questions they might have.
 
 While it’s tempting to schedule as many sessions as possible in one day, experience tells us this isn’t good for anyone.
 
 - **Research is tiring.** Interviewing, active listening, observing, and note-taking require a high degree of focus.
 - **Research can be emotionally taxing.** Depending on your research topic, users may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important.
+
+Conducting research remotely amplifies these effects, as it often results in hours of screen time for researchers and working in isolation. Resist the temptation to squeeze more remote sessions into a day, just because there is less travel.
 
 Do not schedule more than four 1 hour sessions per day. Leave a buffer of **at least** 45 minutes between sessions.
 
