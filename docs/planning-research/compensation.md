@@ -47,18 +47,27 @@ The easiest way to provide compensation is with a stipend. Stipends are normally
 
 When planning which gift cards to purchase
 - Choose three to five options (for example, gas station, grocery store, restaurant)
-- Think about your research location and the services available there. The location you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. Look up what services are available in each research location.
-- Avoid using prepaid Visas or Mastercards. These cards have an additional activation fee. Factor the activation fees into your budget if you choose to purchase prepaid cards.
+- Think about your research location and the services available there.
+  - The location you are in will dictate which gift cards you offer. For example, not every city has an Esso or Save-on-Foods, but every region will have a gas station and grocery store. Look up what services are available in each research location
+- Avoid using prepaid Visas or Mastercards. These cards have an additional activation fee. Factor the activation fees into your budget if you choose to purchase prepaid cards
 - Let the participant select which gift card is best for them
 
-> At this time, we are not able to provide electronic gift cards.
+### Electronic Gift Cards
+
+You can purchase electronic gift cards (eGift Cards) as stipends. You must follow core policy for [online purchases](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/purchase-card-manual/making-purchases#internet) when buying electronic gift cards.
+
 
 ## Proof of Compensation
 
 - You must create a record of proof that the participant received the compensation for accounting and auditing purposes
-- Gift cards can be perceived as being for personal use so receipts are mandatory in case a [Freedom of Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information) request is made or an audit happens
-- Use a [stipend receipt](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx) to create a record of proof that the participant received the gift card
+- Gift cards can be perceived as being for personal use so receipts are mandatory in case a [Freedom of Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information) request is made, or an audit happens
+- For in person research, use a [stipend receipt](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx) to create a record of proof that the participant received the gift card
+- For remote research, you can ask the participant to
+  - Acknowledge they received the stipend on the consent form
+  - Respond by email that they received the stipend
+  - Sign and scan a printed stipend receipt
 
+> Talk to your finance department for how they would prefer to create records of compensation.
 
 Before using the template, complete the highlighted fields with your project information.
 
