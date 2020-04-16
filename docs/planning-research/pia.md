@@ -19,4 +19,6 @@ You must complete a PIA for user research if
 - Your ministry doesn't already have a PIA for user research
 - Your initiative hasn't included user research in their PIA
 
+You may need to complete a PIA for remote research software.
+
 Work is being done to create a corporate PIA for user research.
