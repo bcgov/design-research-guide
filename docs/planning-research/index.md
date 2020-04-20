@@ -12,11 +12,11 @@ Draft
 
 # Plan the Research
 
-## 1.Start with Research Goals and Questions
+## 1. Start with Research Goals and Questions
 
 Before planning the research, make sure to define your [research goal and questions](https://bcgov.github.io/user-research-guide/define-goals.html) with your team.
 
-## 2.Choose Research Activities
+## 2. Choose Research Activities
 
 Based on your research goal and questions, choose the most relevant research activities. Common qualitative research activities are
 
@@ -27,14 +27,14 @@ Based on your research goal and questions, choose the most relevant research act
 
 You can conduct [research activities remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html) if meeting participants in person is not an option.
 
-## 3.Identify the Right Participants
+## 3. Identify the Right Participants
 
 User research with real participants of your service is the best way to get meaningful information.
 Asking people in your office for feedback will not give insight into how effective your service is at meeting user needs.
 
 For government services, users can come from many places, and every service will have different types of users. There is no such thing as an “average user” or “average British Columbian”.
 
-## 4.Specify Target Groups
+## 4. Specify Target Groups
 
 Target groups are the specific groups of people you want to do research with. A great way to identify target groups would be to ask, "who will most likely use this service?"
 
@@ -65,13 +65,13 @@ When you’ve defined your target groups, decide which groups you will include i
 
 You should keep of record of these missing groups to show gaps in your research to make a case for more research.
 
-## 5.Decide on Number of Participants
+## 5. Decide on Number of Participants
 
 There is no exact number of participants you need when completing user research. For each round of [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) with **each [target group](https://bcgov.github.io/user-research-guide/planning-research/#specify-target-groups)**, you should have between 4 and 8 participants. After 5 sessions you should see patterns in answers and themes emerging.
 
 You don't need a huge sample size in [qualitative research](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative) to get value insights.
 
-## 6.Create a Budget
+## 6. Create a Budget
 
 User research doesn’t have to be expensive, but there are some costs to consider like
 
