@@ -12,13 +12,13 @@ Draft
 
 # Plan the Research
 
-## Start with Research Goals and Questions
+## 1.Start with Research Goals and Questions
 
-Make sure you have defined your [research goal and questions](https://bcgov.github.io/user-research-guide/define-goals.html) with your team before planning the research.
+Before planning the research, make sure to define your [research goal and questions](https://bcgov.github.io/user-research-guide/define-goals.html) with your team.
 
-## Choose Research Activities
+## 2.Choose Research Activities
 
-Depending on your research goal and questions you'll need to choose the most appropriate research activities. Common qualitative research activities are
+Based on your research goal and questions, choose the most relevant research activities. Common qualitative research activities are
 
 - [Behavioural interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html)
 - [Usability testing](https://bcgov.github.io/user-research-guide/activities/usability-testing.html)
@@ -27,13 +27,14 @@ Depending on your research goal and questions you'll need to choose the most app
 
 You can conduct [research activities remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html) if meeting participants in person is not an option.
 
-## Identify the Right Participants
+## 3.Identify the Right Participants
 
-Doing user research with real users of your service is the best way to get meaningful information. Asking for feedback from people in your office won't give you insight into how effective your service is at meeting user needs.
+User research with real participants of your service is the best way to get meaningful information.
+Asking people in your office for feedback will not give insight into how effective your service is at meeting user needs.
 
-For government services, users can come from many places, but every service will have different types of users. There is no such thing as an "average user" or "average British Columbian".
+For government services, users can come from many places, and every service will have different types of users. There is no such thing as an “average user” or “average British Columbian”.
 
-## Specify Target Groups
+## 4.Specify Target Groups
 
 Target groups are the specific groups of people you want to do research with. A great way to identify target groups would be to ask, "who will most likely use this service?"
 
@@ -45,11 +46,11 @@ Criteria might be
 - Specific access needs (for example, people who use assistive technology)
 - A specific level of digital skill (for example, users who have basic online skills)
 
-You will probably need to identify multiple target groups.
+> You will probably need to identify multiple target groups.
 
-## Gender Based Analysis+ in Research
+### Gender Based Analysis+ (GBA+) in Research
 
-[Gender Based Analysis+](https://cfc-swc.gc.ca/gba-acs/index-en.html) (GBA+) is an analytical process used to assess how diverse groups of women, men and non-binary people, along with other intersecting factors may experience policies, programs and services differently. Across all target groups, you should use a GBA+ to inform your recruitment so you can understand the research question from the viewpoints of a diversity of people.
+[GBA+](https://cfc-swc.gc.ca/gba-acs/index-en.html) is an analytical process used to assess how women, men and non-binary people, along with other intersecting factors may experience policies, programs and services differently. Across all target groups, you should use a GBA+ process to inform your recruitment so you can understand the research question from the viewpoints of a diversity of people.
 
 Always try to recruit a representative spread of
 
@@ -60,13 +61,17 @@ Always try to recruit a representative spread of
 - Geographic location
 - Education level
 
-When you’ve defined your target groups, decide which groups you will include in each round of research. You might not be able to do research with every group identified in your first round of research. You should keep of record of these missing groups to show gaps in your research to make a case for further research.
+When you’ve defined your target groups, decide which groups you will include in each round of research. You might not be able to do research with every group identified in your first round of research.
 
-## Number of Participants
+You should keep of record of these missing groups to show gaps in your research to make a case for more research.
 
-There is no exact number of participants you need when completing user research. However, you would typically have between 4 and 8 participants for a round of [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) with each [target group](https://bcgov.github.io/user-research-guide/planning-research/#specify-target-groups). After 5 sessions you should see patterns in answers and themes emerging. You don't need a huge sample size in [qualitative research](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative) to get value insights.
+## 5.Decide on Number of Participants
 
-## Create a Budget
+There is no exact number of participants you need when completing user research. For each round of [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) with **each [target group](https://bcgov.github.io/user-research-guide/planning-research/#specify-target-groups)**, you should have between 4 and 8 participants. After 5 sessions you should see patterns in answers and themes emerging.
+
+You don't need a huge sample size in [qualitative research](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative) to get value insights.
+
+## 6.Create a Budget
 
 User research doesn’t have to be expensive, but there are some costs to consider like
 
