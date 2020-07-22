@@ -16,7 +16,7 @@ Depending on your [research goal and questions](https://bcgov.github.io/user-res
 - [Usability testing](https://bcgov.github.io/user-research-guide/activities/usability-testing.html)
 - [Intercept testing](https://bcgov.github.io/user-research-guide/activities/intercept.html)
 
-It's usually preferable to conduct user research in person. Face-to-face interactions allow you to quickly build trust with participants, encouraging them to tell rich stories while you can observe subtleties in what they are thinking, feeling and doing.
+It's usually preferable to conduct design research in person. Face-to-face interactions allow you to quickly build trust with participants, encouraging them to tell rich stories while you can observe subtleties in what they are thinking, feeling and doing.
 
 ## Remote Research
-If you can't meet participants in person or it would be less effective, you can conduct [user research remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html). 
+If you can't meet participants in person or it would be less effective, you can conduct [design research remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html).

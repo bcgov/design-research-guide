@@ -29,7 +29,7 @@ You can conduct [research activities remotely](https://bcgov.github.io/user-rese
 
 ## 3. Identify the Right Participants
 
-User research with real participants of your service is the best way to get meaningful information.
+Design research with real participants of your service is the best way to get meaningful information.
 Asking people in your office for feedback will not give insight into how effective your service is at meeting user needs.
 
 For government services, users can come from many places, and every service will have different types of users. There is no such thing as an “average user” or “average British Columbian”.
@@ -41,7 +41,7 @@ Target groups are the specific groups of people you want to do research with. A 
 Criteria might be
 
 - A particular demographic (for example, women under 30 years of age)
-- A specific user group (for example, small business owners or internal staff)
+- A specific audience (for example, small business owners or internal staff)
 - Specific life events (for example, users who have recently moved or are looking for a job)
 - Specific access needs (for example, people who use assistive technology)
 - A specific level of digital skill (for example, users who have basic online skills)
@@ -67,13 +67,13 @@ You should keep of record of these missing groups to show gaps in your research 
 
 ## 5. Decide on Number of Participants
 
-There is no exact number of participants you need when completing user research. For each round of [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) with **each [target group](https://bcgov.github.io/user-research-guide/planning-research/#specify-target-groups)**, you should have between 4 and 8 participants. After 5 sessions you should see patterns in answers and themes emerging.
+There is no exact number of participants you need when completing design research. For each round of [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) with **each [target group](https://bcgov.github.io/user-research-guide/planning-research/#specify-target-groups)**, you should have between 4 and 8 participants. After 5 sessions you should see patterns in answers and themes emerging.
 
 You don't need a huge sample size in [qualitative research](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative) to get value insights.
 
 ## 6. Create a Budget
 
-User research doesn’t have to be expensive, but there are some costs to consider like
+Design research doesn’t have to be expensive, but there are some costs to consider like
 
 - [Travel](https://bcgov.github.io/user-research-guide/planning-research/travel.html)
   - [Type of transportation](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/travel?keyword=per&keyword=diem#1032) (for example, airfare)

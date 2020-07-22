@@ -11,7 +11,7 @@ Draft
 # Privacy & Personal Information
 Under development and review
 {: .label .label-yellow }
-Doing user research requires the collection of people's personal information. Researchers must make sure they collect, use, disclose, and store this information properly to protect participant's confidentiality and follow the privacy laws of British Columbia.
+Doing design research requires the collection of people's personal information. Researchers must make sure they collect, use, disclose, and store this information properly to protect participant's confidentiality and follow the privacy laws of British Columbia.
 
 ## What is Personal Information?
 
@@ -33,10 +33,10 @@ Simply put, personal information is **any recorded information about an identifi
 - Employment information
 - Personal views or opinions
 
-## Privacy Principles for User Research
+## Privacy Principles for Design Research
 Follow the [Ten Privacy Principles](
 https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/training/principles?keyword=privacy&keyword=principles
-) when doing user research. Information on how the principles apply specifically to user research are coming soon.
+) when doing design research. Information on how the principles apply specifically to design research are coming soon.
 
 ## Consent and Privacy
 Review information about [consent](https://bcgov.github.io/user-research-guide/planning-research/consent.html) and keeping personal information private.

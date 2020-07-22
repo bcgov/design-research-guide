@@ -8,12 +8,12 @@ Draft
 {: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
 
-# Build the Case for User Research
+# Build the Case for Design Research
 
 ## Staffing and Time Requirements
-Quality research requires time. But don't let time constraints stop you from doing any user research. Some research is always better than none.
+Quality research requires time. But don't let time constraints stop you from doing any design research. Some research is always better than none.
 
-Your job title doesn't need to say "User Researcher" to do user research.
+Your job title doesn't need to say "Design Researcher" to do design research.
 
 This guide gives you the basic information to understand
 - The [logistics of research planning](https://bcgov.github.io/user-research-guide/planning-research/)
@@ -26,7 +26,7 @@ If your team is unable to shift staff responsibilities, you can be hire a contra
 ## Researcher Roles and Responsibilities
 You should always work in pairs when doing research. At a minimum, you should assign team members to the first two roles:
 
-- **Moderator:** As a moderator your job is to lead the research session, asking questions and directing activities. You will be responsible for the safety and comfort of the user for the entirety of the session.
+- **Moderator:** As a moderator your job is to lead the research session, asking questions and directing activities. You will be responsible for the safety and comfort of the participant for the entirety of the session.
 - **Recorder:** As a recorder your job is to transcribe session, taking notes and photos. Having transcripts completed means you will be able to use them as reference and analysis.
 - **Observer** (optional): Observes the session and takes personal notes. This role will rotate with different project team members.
   - You should not include more than one observer at an in person research session. Having too many people in the room can be intimating for participants.
@@ -34,9 +34,9 @@ You should always work in pairs when doing research. At a minimum, you should as
 
 
 ## Involve the Whole Project Team
-Involve your project team and executive as an observer to the research. The benefits of having them watch at least one user research session include:
+Involve your project team and executive as an observer to the research. The benefits of having them watch at least one design research session include:
 
-- **User-centred suggestions:** Having other members participate in the research sessions will encourage them to prioritize user needs, rather than pursue design concepts that may not meet the user’s needs.
+- **Human-centred suggestions:** Having other members participate in the research sessions will encourage them to prioritize user needs, rather than pursue design concepts that may not meet the user’s needs.
 - **Credibility:** Your team will see that your design is based on research and not personal preference.
 - **Buy-in:** Reviewing what happened in the research sessions as a group you can determine priorities together.
 - **Memorability:** Remembering things is easier when you experience them rather than reading a report after.

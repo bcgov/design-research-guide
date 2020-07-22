@@ -20,7 +20,7 @@ Before starting any research, you should understand
 
 ## Create Research Goals
 
-User research should have clear goals. Work with your team to agree what you want to learn from your research. Keep your goals actionable and to the point.
+Design research should have clear goals. Work with your team to agree what you want to learn from your research. Keep your goals actionable and to the point.
 
 >Example: Identify the challenges of enrolling in the B.C. Medical Services Plan as a new immigrant
 
@@ -33,10 +33,10 @@ Research questions should help you answer your research goal. They are not the s
 - Are there external supports new immigrants use to access the enrollment application?
 - How many new immigrants use the digital form versus the paper form? Why?
 
-Use research questions to help you plan and prioritize user research.
+Use research questions to help you plan and prioritize design research.
 
 Your research goals and questions will help you choose which
 - [Qualitative and/or quantitative methods](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative) to use
-- [Research activities](https://bcgov.github.io/user-research-guide/activities/) to use 
+- [Research activities](https://bcgov.github.io/user-research-guide/activities/) to use
 
 You'll use this information to start [planning your research logistics](https://bcgov.github.io/user-research-guide/planning-research/).

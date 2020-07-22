@@ -15,10 +15,10 @@ Under development and review
 
 A [Privacy Impact Assessment](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) (PIA) is a process used to evaluate and manage privacy impacts, and to ensure compliance with privacy protection rules and responsibilities.
 
-You must complete a PIA for user research if
-- Your ministry doesn't already have a PIA for user research
-- Your initiative hasn't included user research in their PIA
+You must complete a PIA for design research if
+- Your ministry doesn't already have a PIA for design research
+- Your initiative hasn't included design research in their PIA
 
 You may need to complete a PIA for remote research software.
 
-Work is being done to create a corporate PIA for user research.
+Work is being done to create a corporate PIA for design research.

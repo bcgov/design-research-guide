@@ -49,7 +49,7 @@ You should also be mentally prepared before each session.
 - Always be mindful of the participant's comfort level  
 - Pull back when necessary and go in deeper when possible
 - Remember, smile and make eye contact
-- For remote user research, time spent in front of a screen can be more tiring for participants than in person sessions. Plan breaks and/or shorter sessions to improve participant engagement
+- For remote design research, time spent in front of a screen can be more tiring for participants than in person sessions. Plan breaks and/or shorter sessions to improve participant engagement
 
 
 ## Record the Session
@@ -69,7 +69,7 @@ When conducting [usability testing](https://bcgov.github.io/user-research-guide/
 ## Photos & Videos
 If you have photo and video consent, you can record objects, environments or situations.
 
-You cannot record a person's face in photos or videos for user research.
+You cannot record a person's face in photos or videos for design research.
 
 ## Ending the Session
 
@@ -96,7 +96,7 @@ You should use a file naming system that does not connect the participant to the
 
 ## Store the Information
 
-Recordings (for example, audio recordings and notes) from user research sessions are considered records and should be handled like other ministry records.  
+Recordings (for example, audio recordings and notes) from design research sessions are considered records and should be handled like other ministry records.  
 
 You must store the
 

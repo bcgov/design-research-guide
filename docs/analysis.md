@@ -10,7 +10,7 @@ Draft
 
 # Analyze the Research
 
-User research activities produce a lot of raw data, for example
+Design research activities produce a lot of raw data, for example
 
 - Written and digital notes
 - [Audio and screen capture recordings](https://bcgov.github.io/user-research-guide/conduct-research.html#record-the-session)
@@ -31,7 +31,7 @@ Follow these steps to gather observations with your team
   - Powerful quotes
 You can use the colour of sticky notes strategically (for example, red to note pain points, green for notes about what works well).
 3. If you have recordings, you can make them available. Team members can use them to confirm their observations and get verbatim quotes.
-4. Tell the group to use a single sticky note for each observation and write exactly what they saw, heard or read (for example, quotes or observed behaviour), not what they think it means. This way, the notes will be unbiased and represent the voice of the user.
+4. Tell the group to use a single sticky note for each observation and write exactly what they saw, heard or read (for example, quotes or observed behaviour), not what they think it means. This way, the notes will be unbiased and represent the voice of the participant.
 
 ### Sort Observations
 
@@ -40,7 +40,7 @@ Once team members have written down their observations, ask them to place their 
 - Common topics (for example, identity, delivery, payment)
 - Stages in a user journey (for example, ‘supply photo’, ‘attend interview’, ‘pay’)
 - Individual pages or steps in a transaction
-- Types of user (for example, first time user, business user)
+- Audience type (for example, first time user, business person)
 
 Allow people to move notes placed by other people. The idea is to look for patterns or clusters in the data by grouping the notes until clear themes emerge. In some cases this means duplicating notes that may be relevant to more than one cluster.
 
@@ -65,7 +65,7 @@ Write findings as short statements that summarize what you’ve learned, for exa
 
 - "The legal declaration is threatening and difficult to understand."
 - "People think they can click the progress bar to navigate."
-- "Users are confused about what they need to do because so many questions are optional."
+- "People are confused about what they need to do because so many questions are optional."
 
 ### Decide Actions
 
@@ -74,7 +74,7 @@ You can use your findings to make decisions about what to work on, change or res
 As a group, discuss if there are any actions you want to take. Write these on sticky notes in another colour. Add them to the relevant group on your affinity map. Actions might include
 
 - New design ideas to work on
-- New questions to include in user research
+- New questions to include in design research
 - Things you want to change in a prototype and test in another research session
 - New user stories to add to the product backlog
 - New details you need to add to an existing user story
@@ -99,7 +99,7 @@ Building better user journeys
 
 Analysis activities are best done with all members of the team in the same room, allowing for fluid brainstorming and rapid rearranging of ideas. If meeting in person is not an option there are online collaboration tools that can be combined to accomplish these same tasks:  
 - Video conferencing platforms such as Skype, where team members can share their screens if necessary to communicate ideas
-- A shared digital working space where team members can collaboratively record and organize observations in real time. Software like Miro, Skype Whiteboard, and Excel Online (via Sharepoint) can replace sticky-notes and whiteboards 
+- A shared digital working space where team members can collaboratively record and organize observations in real time. Software like Miro, Skype Whiteboard, and Excel Online (via Sharepoint) can replace sticky-notes and whiteboards
 
 When analyzing research online, consider splitting up the 5 steps into several shorter group work sessions separated by breaks or periods of individual work.
 

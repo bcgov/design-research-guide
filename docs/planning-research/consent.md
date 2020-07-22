@@ -36,7 +36,7 @@ A consent form must state that you will
 
 - Only share information with the people working on this project. The information expressed in the session should only be shared with the team working on this project. If you wish to share information outside of people working on the project, you must inform the participant and they must consent to that request before you can share anything.
 - De-identify your notes so that the participant’s [personal information](https://bcgov.github.io/user-research-guide/privacy-personal-information.html#what-is-personal-information) is not associated with the experiences and feedback provided in the study. In simple terms, if strangers read through the notes, they should not be able to identify who the participant was.
-- [Record sessions](https://bcgov.github.io/user-research-guide/conduct-research.html#record-the-session) using screen capture and audio options only. User research is limited to participants consenting only to screen capture and audio options. Photos of people's faces or likeness is not allowed.
+- [Record sessions](https://bcgov.github.io/user-research-guide/conduct-research.html#record-the-session) using screen capture and audio options only. Design research is limited to participants consenting only to screen capture and audio options. Photos of people's faces or likeness is not allowed.
 - Not intentionally ask for [personal information](https://bcgov.github.io/user-research-guide/privacy-personal-information.html#what-is-personal-information) if it is not necessary. The consent form must specify that you will not be intentionally asking for personal information, but acknowledges that personal information (such as stories and experiences) may come out due to the nature of the study.
 - Store data on an encrypted government device. Any data collected should be stored in password-protected and/or encrypted government device.
 
@@ -46,7 +46,7 @@ The form should include:
 - Researcher signature and date
 
 ### Online Consent Forms
-For remote user research, you can use an online consent form.
+For remote design research, you can use an online consent form.
 
 In addition to the information above, you should capture the participant's acknowledgment of consent through a checkbox or some other action.
 

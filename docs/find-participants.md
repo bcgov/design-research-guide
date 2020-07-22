@@ -10,7 +10,7 @@ Draft
 
 # Find Participants
 
-The goal and questions of your research determines who and how many people you recruit. Recruitment takes time and is a key step in user research. Don’t rush this process!
+The goal and questions of your research determines who and how many people you recruit. Recruitment takes time and is a key step in design research. Don’t rush this process!
 
 ## Finding Participants
 
@@ -37,14 +37,14 @@ If you are doing intercept testing you may intercept people in
 
 A recruitment message is an easy way to quickly describe your research project to potential participants. Depending on where and how the message will be sent out, the length and level of detail will vary.
 
-If you ask stakeholders or service partners to help you contact users, give a clear picture of the kinds of participants you are looking for. For example, if your research topic is focused on student loans, you might say "we are recruiting participants who are applying for BC student loans."
+If you ask stakeholders or service partners to help you contact participants, give a clear picture of the kinds of participants you are looking for. For example, if your research topic is focused on student loans, you might say "we are recruiting participants who are applying for BC student loans."
 
-Asking stakeholders or community groups to send out your recruitment messaging through their established communication channels is a great way to connect with users who may not typically engage with government. Channels like email newsletters and Facebook pages often yield a large number of responses.
+Asking stakeholders or community groups to send out your recruitment messaging through their established communication channels is a great way to connect with participants who may not typically engage with government. Channels like email newsletters and Facebook pages often yield a large number of responses.
 
 Your messaging should include a
 
 - Brief overview of what the project is about
-- Qualifying user statement or question
+- Qualifying participant statement or question
 - Estimated length of research session
 - Researcher contact information
 - Date range when session will be scheduled
@@ -91,7 +91,7 @@ Sample screener criteria:
 - Job or profession
 - Date and time availability
 - Confidence with technology
-- Access to high-speed internet, if doing remote user research
+- Access to high-speed internet, if doing remote design research
 
 If you are doing research remotely, you should make sure participants are willing to download specific software onto their home computer, if needed. For example, downloading Skype for video calls.  
 
@@ -120,13 +120,13 @@ Do not schedule more than four 1-hour sessions per day. Leave a buffer of **at l
 While it’s tempting to schedule as many sessions as possible in one day, experience tells us this isn’t good for anyone.
 
 - **Research is tiring.** Interviewing, active listening, observing, and note-taking require a high degree of focus.
-- **Research can be emotionally taxing.** Depending on your research topic, users may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important.
+- **Research can be emotionally taxing.** Depending on your research topic, participants may share highly sensitive and emotional stories. Giving yourself enough time to process and recover is very important.
 
 Conducting research remotely amplifies these effects, as it often results in hours of screen time for researchers and working in isolation. Resist the temptation to squeeze more remote sessions into a day, just because there is less travel.
 
 ## Pick A Location
 
-A good research location is one that is easy for the user to access and makes them feel comfortable. Whenever possible, do the research in the context that a user would use a service (for example, at home or in the office).
+A good research location is one that is easy for the participant to access and makes them feel comfortable. Whenever possible, do the research in the context that a participant would use a service (for example, at home or in the office).
 
 Some participants may prefer or need to speak with you outside regular 9 to 5 working hours. Be flexible and accommodating in finding the right time and location for meeting.
 

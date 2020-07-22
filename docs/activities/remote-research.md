@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Remote User Research
+title: Remote Design Research
 nav_order: 4
 parent: Research Activities
 ---
 Draft
 {: .label .label-blue}
 [Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
-# Remote User Research
+# Remote Design Research
 
 ## What is it?
 
-Remote user research is any research conducted without being in the same location as your participant(s). Sessions can happen in real time, or happen over many days, weeks, and months.
+Remote design research is any research conducted without being in the same location as your participant(s). Sessions can happen in real time, or happen over many days, weeks, and months.
 
-## Purpose of Remote User Research
+## Purpose of Remote Design Research
 
-Remote user research should be considered when
+Remote design research should be considered when
 - In person sessions aren't logistically possible because you need to
   - Cover a wide geographic area
   - Collect data from a large sample size
@@ -23,12 +23,12 @@ Remote user research should be considered when
 - There is not enough budget to travel or you are restricted from traveling
 - Activities are more effective online
 
-When well planned, remote user research activities can be very effective at getting participants beyond merely answering questions and into the ‘sense making space’, where they attribute meaning and value to their experience.
+When well planned, remote design research activities can be very effective at getting participants beyond merely answering questions and into the ‘sense making space’, where they attribute meaning and value to their experience.
 
 
 ## Activities & Tools
 
-Video conferencing and other online collaboration tools are often top-of-mind when thinking about remote user research, but there are other ways to connect with participants:
+Video conferencing and other online collaboration tools are often top-of-mind when thinking about remote design research, but there are other ways to connect with participants:
 - Offline options like phone calls and mail
 - Communication that doesn't happen in real time, such as email or text messaging
 - Unmoderated activities where the participant completes a task, such as a card sort, without a researcher present
@@ -59,7 +59,7 @@ Combine different tools and activities. Going back and forth between online and 
 
 You must always be aware of privacy considerations, both for yourself and your research participants.  
 
-- Do not record a person's face during remote user research activities
+- Do not record a person's face during remote design research activities
 - Avoid disclosing your personal information to participants when you’re conducting research from home. When setting up your laptop or camera, be aware of anything in the background that you would not want to share
 - If participants will share their screen, warn them in advance to close any browsers or documents that have sensitive information
 - If you are sharing your screen, make sure no sensitive information is visible

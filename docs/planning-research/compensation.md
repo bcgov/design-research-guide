@@ -18,7 +18,7 @@ Compensation is good practice because
 - We should compensate people for the time they spend with us, recognizing the value of their thoughts and opinions.
 - There may be child care considerations, long commute times, or other reasons where unpaid research is not a high priority.
 - People who are able to participate voluntarily generally have time or sufficient income to attend and this leads to poor sampling.
-- If you conduct free user research, most people are unlikely to take time off from work to participate. A good question to ask yourself is “How likely are you to participate in a one-hour, unpaid interview, where you would have to take time off to travel to their office and provide feedback?” Usually that question will illustrate why paying participants will make their effort worthwhile.
+- If you conduct free design research, most people are unlikely to take time off from work to participate. A good question to ask yourself is “How likely are you to participate in a one-hour, unpaid interview, where you would have to take time off to travel to their office and provide feedback?” Usually that question will illustrate why paying participants will make their effort worthwhile.
 
 You cannot compensate
 
@@ -31,7 +31,7 @@ You cannot compensate
 
 Compensation should be appropriate in type and amount. The research team is responsible for assessing the level of compensation based on budget and number of participants.
 
-> All compensation should be provided fairly to all users in the same study, with equal compensation for equal participation regardless of income, age, gender, or race.
+> All compensation should be provided fairly to all designs in the same study, with equal compensation for equal participation regardless of income, age, gender, or race.
 
 ### Recommended Compensation
 

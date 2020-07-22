@@ -15,7 +15,7 @@ Intercept testing is a form of usability testing that can be conducted almost an
 
 ## Purpose of Intercept Testing
 
-Intercept testing is about understanding challenges, thoughts, insights that users experience when using service just like usability testing, but at a cheaper and much faster pace.
+Intercept testing is about understanding challenges, thoughts, insights that people experience when using service just like usability testing, but at a cheaper and much faster pace.
 
 ## Planning your tests
 
@@ -24,7 +24,7 @@ To conduct intercept tests, you will need
 - A prototype or live service
 - To have backups. If your prototype requires services such as the internet, power, and/or specific software to function, always have a backup because malfunctions do happen.
 - User goals and tasks. Prepare a handful of simple tasks the way you would in formal usability tests. Be mindful of the length, as intercept testing is intended to be quick.
-- choose the right venue. Although participants aren’t recruited formally, you can still find a specific type of users by choosing the right venue. For example, if you’re looking for feedback from students and teachers, university campuses would be a good option. Consider going to more than one location to get a more diverse selection of people (for example, rural and urban locations).
+- To choose the right venue. Although participants aren’t recruited formally, you can still find a specific type of audience by choosing the right venue. For example, if you’re looking for feedback from students and teachers, university campuses would be a good option. Consider going to more than one location to get a more diverse selection of people (for example, rural and urban locations).
 
 ## Conducting Intercept Tests
 

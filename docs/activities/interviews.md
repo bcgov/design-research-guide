@@ -11,17 +11,17 @@ Draft
 
 ## What is it?
 
-A behavioural interview involves a moderator asking questions and a notetaker recording responses from participants. They are largely used to examine the user motivations, thoughts, and their point of view. When conducting interviews, you will also be able to read body language and ask for further clarification when needed.
+A behavioural interview involves a moderator asking questions and a notetaker recording responses from participants. They are largely used to examine the participant's motivations, thoughts, and their point of view. When conducting interviews, you will also be able to read body language and ask for further clarification when needed.
 
 ## Purpose of Behavioural Interviews
 
 Behavioural interviews are a great way to capture your participant’s thoughts, perceptions, experiences, and motivations based on what they say. When taking notes you will want to identify
 
-- What was memorable to the user
+- What was memorable to the participant
 - Motivations
 - Triggers that led to the decisions that were made
-- Senses: what the user thought, heard, felt, saw, smelt, said
-- What the user struggled with (pain points)
+- Senses: what the participant thought, heard, felt, saw, smelt, said
+- What the participant struggled with (pain points)
 - Successes
 - Themes and patterns
 - Quotes and anecdotal stories
@@ -31,7 +31,7 @@ Behavioural interviews are a great way to capture your participant’s thoughts,
 
 You will need to prepare a script with the different questions you want to ask and estimate how long you think the interview will last. When writing your interview script, here are some helpful tips:
 
-- Have clear roles and responsibilities for everyone. Each member participating in user research will have specific roles and responsibilities.
+- Have clear roles and responsibilities for everyone. Each member participating in design research will have specific roles and responsibilities.
 - Explain why you are doing the interview. Introduce yourself and the team prior to starting the interview, explain the purpose of the interview, and what you plan to do with the insights that are collected.
 - Ask unbiased questions. Avoid leading questions. A good interviewer will focus on what the participant wants to express rather than leading, imposing or implying certain views onto the interviewee.
 - Use the script as a guide. Having a script should only be used to help guide the conversation when necessary. A guide can help you cover all the areas necessary within the limited amount of time you have with the participant.
@@ -44,10 +44,10 @@ When designing questions to ask, think what information you need to learn to ans
 
 There are several types of questions that can be asked during behavioural interviews, it entirely depends on the situation and what you are seeking to get out of the interviews.
 
-Here’s some pointers on how to ask good questions during user interviews
+Here’s some pointers on how to ask good questions during design interviews
 
-- **Ask for Stories:** Your questions should act as storytelling prompts to surface richer and chronological accounts of a user’s experience. For example, “Tell me about a time when... , Walk me through a day in the life of...”
-- **Use Curious Commands:** Frame questions as an invitation to hear more about a user’s experience or interaction. For example, “Describe a time when..., I’d love to hear more about..."
+- **Ask for Stories:** Your questions should act as storytelling prompts to surface richer and chronological accounts of a participant’s experience. For example, “Tell me about a time when... , Walk me through a day in the life of...”
+- **Use Curious Commands:** Frame questions as an invitation to hear more about a participant’s experience or interaction. For example, “Describe a time when..., I’d love to hear more about..."
 - **Follow-Up & Dive Deeper:** Ask follow-up questions for more details. For example, “Could you elaborate on that further? What did you mean by...?”
 - **Ask Neutral and Open-Ended Questions:** Avoid double-barrelled, leading, and yes/no questions – make sure your questions are only asking for one answer and leave room for further exploration
 
