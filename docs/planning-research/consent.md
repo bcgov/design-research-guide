@@ -12,7 +12,7 @@ Draft
 
 All participants **must be** willing to participate and have the ability to give consent. All potential participants have the right to refuse participation and withdraw their consent without the need for an explanation. You must respect their decision.
 
-This guide assumes that you are getting consent from participants over 19 years old who are capable of making their own decisions. If you are looking to get consent from participants that do not fit with this description, please review the information on [complex research and vulnerable populations](https://bcgov.github.io/design-research-guide/ethics.html#complex-research-activities) to see if formal approvals are needed or extra assistance is required.
+This guide assumes that you are getting consent from participants over 19 years old who are capable of making their own decisions. If you are looking to get consent from participants that do not fit with this description, please review the information on [complex research](https://bcgov.github.io/design-research-guide/ethics.html#complex-research-activities) to see if formal approvals are needed or extra assistance is required.
 
 ## Consent Forms
 Under development and review

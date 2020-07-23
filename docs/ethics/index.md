@@ -24,9 +24,9 @@ If your research is relatively low risk, you should use this guide as a starting
 
 ## Participants that need special attention
 
-All research, with any type of person, involves a power dynamic. If you are looking to gather insights from vulnerable participants, you may need assistance beyond this design research guide and will require more extensive review or expert guidance. Review the [researcher code of conduct](https://bcgov.github.io/design-research-guide/ethics/code-of-conduct.html) and [ethical research practices](https://bcgov.github.io/design-research-guide/ethics/ethical-practices.html) to make sure you working in a safe, ethical, and cultural appropriate way. Projects using participants that are vulnerable will receive greater scrutiny.
+All research, with any type of person, involves a power dynamic. If you are looking to gather insights from people where there is a large power imbalance, you may need assistance beyond this guide and will require more extensive review or expert guidance. Review the [researcher code of conduct](https://bcgov.github.io/design-research-guide/ethics/code-of-conduct.html) and [ethical research practices](https://bcgov.github.io/design-research-guide/ethics/ethical-practices.html) to make sure you working in a safe, ethical, and cultural appropriate way.
 
-Examples of vulnerable participants may include
+Examples of participants where the power dynamic should be carefully considered may include
 
 - Children (under 19 requires parental consent)
 - People who are from a historically racialized, marginalized or oppressed group
@@ -42,7 +42,7 @@ If you are unsure on how to approach your design research study, always ask for 
 
 Formal approvals from your executives may be required for complex design research activities. Complex design research activities may look like
 
-- Research with [vulnerable participants](https://bcgov.github.io/design-research-guide/ethics.html#participants-that-need-special-attention-vulnerable-participants) where they may not be able to [provide consent](https://bcgov.github.io/design-research-guide/planning-research/consent.html), or may be able to provide consent but not fully acknowledge the repercussions
+- Research with [participants in vulnerable situations](https://bcgov.github.io/design-research-guide/ethics.html#participants-that-need-special-attention) where they may not be able to [provide consent](https://bcgov.github.io/design-research-guide/planning-research/consent.html), or may be able to provide consent but not fully acknowledge the repercussions
 - Participants with higher risks involving physical, social, psychological/emotional, and repercussions for or for not participating
 - Data with special arrangements on who can access, how it is shared, security protocols, and storage
 - Collecting [personal information](https://bcgov.github.io/design-research-guide/privacy-personal-information.html) that will be identifiable to the participant
