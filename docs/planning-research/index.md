@@ -34,23 +34,23 @@ Asking people in your office for feedback will not give insight into how effecti
 
 For government services, users can come from many places, and every service will have different types of users. There is no such thing as an “average user” or “average British Columbian”.
 
-## 4. Specify Target Groups
+## 4. Specify the Audience Groups
 
-Target groups are the specific groups of people you want to do research with. A great way to identify target groups would be to ask, "who will most likely use this service?"
+The audience groups are the specific groups of people you want to do research with. A great way to identify your audience would be to ask, "who will most likely use this service?"
 
 Criteria might be
 
 - A particular demographic (for example, women under 30 years of age)
-- A specific audience (for example, small business owners or internal staff)
+- A specific group (for example, small business owners or internal staff)
 - Specific life events (for example, users who have recently moved or are looking for a job)
 - Specific access needs (for example, people who use assistive technology)
 - A specific level of digital skill (for example, users who have basic online skills)
 
-> You will probably need to identify multiple target groups.
+> You will probably need to identify multiple audience groups.
 
 ### Gender Based Analysis+ (GBA+) in Research
 
-[GBA+](https://cfc-swc.gc.ca/gba-acs/index-en.html) is an analytical process used to assess how women, men and non-binary people, along with other intersecting factors may experience policies, programs and services differently. Across all target groups, you should use a GBA+ process to inform your recruitment so you can understand the research question from the viewpoints of a diversity of people.
+[GBA+](https://cfc-swc.gc.ca/gba-acs/index-en.html) is an analytical process used to assess how women, men and non-binary people, along with other intersecting factors may experience policies, programs and services differently. Across all audiences, you should use a GBA+ process to inform your recruitment so you can understand the research question from the viewpoints of a diversity of people.
 
 Always try to recruit a representative spread of
 
@@ -61,13 +61,13 @@ Always try to recruit a representative spread of
 - Geographic location
 - Education level
 
-When you’ve defined your target groups, decide which groups you will include in each round of research. You might not be able to do research with every group identified in your first round of research.
+When you’ve defined your audiences, decide which groups you will include in each round of research. You might not be able to do research with every group identified in your first round of research.
 
 You should keep of record of these missing groups to show gaps in your research to make a case for more research.
 
 ## 5. Decide on Number of Participants
 
-There is no exact number of participants you need when completing design research. For each round of [interviews](https://bcgov.github.io/design-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/design-research-guide/activities/usability-testing.html) with **each [target group](https://bcgov.github.io/design-research-guide/planning-research/#specify-target-groups)**, you should have between 4 and 8 participants. After 5 sessions you should see patterns in answers and themes emerging.
+There is no exact number of participants you need when completing design research. For each round of [interviews](https://bcgov.github.io/design-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/design-research-guide/activities/usability-testing.html) with **each [audience group](https://bcgov.github.io/design-research-guide/planning-research/#4-specify-the-audience-groups)**, you should have between 4 and 8 participants. After 5 sessions you should see patterns in answers and themes emerging.
 
 You don't need a huge sample size in [qualitative research](https://bcgov.github.io/design-research-guide/understand-user-research.html#qualitative-vs-quantitative) to get value insights.
 

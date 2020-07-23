@@ -14,7 +14,7 @@ The goal and questions of your research determines who and how many people you r
 
 ## Finding Participants
 
-Depending on who your target groups are, there will be multiple ways to find and recruit participants. Consider what is most suitable and relevant for your project. Think about what channels will best reach the target group.
+Depending on who your audience is, there will be multiple ways to find and recruit participants. Consider what is most suitable and relevant for your project. Think about what channels will best reach the intended audience.
 
 You may recruit people through
 
@@ -79,7 +79,7 @@ If you have further questions, feel free to give us a call, and please let us kn
 
 ## Screen Participants
 
-A screener is a list of criteria used to check whether or not a potential participant would match with the characteristics of your target group.
+A screener is a list of criteria used to check whether or not a potential participant would match with the characteristics of your audience group.
 
 Don't feel like you need to include every respondent in the research if the individual is not a strong match for the research. Not doing the sessions saves you and the individual time. Thank them for their interest in the project, and ask if they are open to you contacting them in the future for other research projects.
 
