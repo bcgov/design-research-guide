@@ -34,7 +34,7 @@ Doing design research supports the following [digital principles](https://github
   - [ethical practices](https://bcgov.github.io/user-research-guide/ethics/ethical-practices.html) and [code of conduct](https://bcgov.github.io/user-research-guide/ethics/code-of-conduct.html) (Needs review) (02/27/2020)
 - v0.1.2 Updated information on allowing the use of [electronic gift cards](https://bcgov.github.io/user-research-guide/planning-research/compensation.html#electronic-gift-cards) for stipends (04/15/2020)
 - v0.2.1 Major update: Including remote user research practices throughout guide and [new page for remote research](https://bcgov.github.io/user-research-guide/activities/remote-research.html) (04/16/2020)
-- v0.3.0 Major update: Changed name from User Research Guide to Design Research Guide along with updated language throughout the guide.
+- v0.3.0 Major update: Changed name from User Research Guide to Design Research Guide along with updated language throughout the guide. (07/23/20)
 
 ## Provide Feedback
 
