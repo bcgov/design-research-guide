@@ -6,7 +6,7 @@ nav_order: 6
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Find Participants
 
@@ -140,6 +140,6 @@ You may consider doing research at a
 - Local coffee shop
 - Community organization
 
-If meeting in person for the research is not possible, you can do [research activities remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html).
+If meeting in person for the research is not possible, you can do [research activities remotely](https://bcgov.github.io/design-research-guide/activities/remote-research.html).
 
 No matter where the research takes place, think about the safety of both the participant and yourselves as researchers. Try to create a comfortable, and quiet space where the participant can speak honestly about the subject.

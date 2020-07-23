@@ -6,7 +6,7 @@ nav_order: 12
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Appendix
 

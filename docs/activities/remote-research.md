@@ -6,7 +6,7 @@ parent: Research Activities
 ---
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 # Remote Design Research
 
 ## What is it?
@@ -35,15 +35,15 @@ Video conferencing and other online collaboration tools are often top-of-mind wh
 
 There are an overwhelming number of purpose-built software tools available for conducting research activities online.
 
-Select the appropriate tools for remote research by starting with your [research goals and questions](https://bcgov.github.io/user-research-guide/define-goals.html). Think about what information you need and the most effective way to get the information.
+Select the appropriate tools for remote research by starting with your [research goals and questions](https://bcgov.github.io/design-research-guide/define-goals.html). Think about what information you need and the most effective way to get the information.
 
 ### Activities
 
-- [Behavioural interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html): Will an interview over the phone work or do you need video to share things visually and observe participant expressions? Tools may include:
+- [Behavioural interviews](https://bcgov.github.io/design-research-guide/activities/interviews.html): Will an interview over the phone work or do you need video to share things visually and observe participant expressions? Tools may include:
   - Phone
   - Video conferencing or screen share. For example, Skype
   - Email to share visuals between you and the participant
-- [Usability testing](https://bcgov.github.io/user-research-guide/activities/usability-testing.html): How will you you watch the participant interact with your service or prototype? How will you record their thoughts and actions? Tools may include:
+- [Usability testing](https://bcgov.github.io/design-research-guide/activities/usability-testing.html): How will you you watch the participant interact with your service or prototype? How will you record their thoughts and actions? Tools may include:
     - Specialized usability testing software  
     - Video conferencing and screen sharing. For example, Skype.
     - Email or mail to share prototypes, visuals, or other activities in physical formats
@@ -74,7 +74,7 @@ Think about more than the software tools when planning remote research activitie
 - Make activities as accessible as possible
 - Plan extra time to test tools and activities
 - Make sure participants are set up and comfortable with the tools before the session begins. Conduct walk throughs or demos if necessary
-- Have [extra facilitators](https://bcgov.github.io/user-research-guide/build-the-case.html#researcher-roles-and-responsibilities) to handle any technology issues and make sure everything is being captured or recorded
+- Have [extra facilitators](https://bcgov.github.io/design-research-guide/build-the-case.html#researcher-roles-and-responsibilities) to handle any technology issues and make sure everything is being captured or recorded
 - Plan more time at the beginning to introduce the activities, tools, and ground rules for remote engagement. Regular social cues might be harder to pick up on. For example, when is it someone's turn to talk?
 - Take more time for breaks during the session. It’s more tiring to be on a 2 hour video call than doing in person activities for 2 hours
 - Keep sessions as short as possible. Break them into multiple shorter sessions to reduce screen fatigue

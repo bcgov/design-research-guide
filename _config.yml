@@ -4,6 +4,6 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
   "Edit on Github":
-    - "//github.com/bcgov/user-research-guide"
+    - "//github.com/bcgov/design-research-guide"
   "Email your comments":
-    - "//github.com/dlevineBC/user-research-guide-alpha"
+    - "//github.com/dlevineBC/design-research-guide-alpha"

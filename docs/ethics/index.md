@@ -8,7 +8,7 @@ has_toc: false
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Ethics & Risk
 Every design research activity presents some type of risk to the participant. Types of risks may include
@@ -20,11 +20,11 @@ Every design research activity presents some type of risk to the participant. Ty
 
 Design researchers are responsible for participant’s confidentiality and reducing the risks of conducting research. A good question to ask yourself is "is the level of risk greater than what the participant would encounter in their everyday lives?" If the answer is a maybe or yes, please consult with your ministry Privacy Officer.
 
-If your research is relatively low risk, you should use this guide as a starting point. Basic information on [consent](https://bcgov.github.io/user-research-guide/planning-research/consent.html), [recruitment](https://bcgov.github.io/user-research-guide/find-participants.html), [retention of information](https://bcgov.github.io/user-research-guide/conduct-research.html#store-the-information) and [compensation](https://bcgov.github.io/user-research-guide/planning-research/compensation.html) are found in this guide.
+If your research is relatively low risk, you should use this guide as a starting point. Basic information on [consent](https://bcgov.github.io/design-research-guide/planning-research/consent.html), [recruitment](https://bcgov.github.io/design-research-guide/find-participants.html), [retention of information](https://bcgov.github.io/design-research-guide/conduct-research.html#store-the-information) and [compensation](https://bcgov.github.io/design-research-guide/planning-research/compensation.html) are found in this guide.
 
 ## Participants that need special attention
 
-All research, with any type of person, involves a power dynamic. If you are looking to gather insights from vulnerable participants, you may need assistance beyond this design research guide and will require more extensive review or expert guidance. Review the [researcher code of conduct](https://bcgov.github.io/user-research-guide/ethics/code-of-conduct.html) and [ethical research practices](https://bcgov.github.io/user-research-guide/ethics/ethical-practices.html) to make sure you working in a safe, ethical, and cultural appropriate way. Projects using participants that are vulnerable will receive greater scrutiny.
+All research, with any type of person, involves a power dynamic. If you are looking to gather insights from vulnerable participants, you may need assistance beyond this design research guide and will require more extensive review or expert guidance. Review the [researcher code of conduct](https://bcgov.github.io/design-research-guide/ethics/code-of-conduct.html) and [ethical research practices](https://bcgov.github.io/design-research-guide/ethics/ethical-practices.html) to make sure you working in a safe, ethical, and cultural appropriate way. Projects using participants that are vulnerable will receive greater scrutiny.
 
 Examples of vulnerable participants may include
 
@@ -42,8 +42,8 @@ If you are unsure on how to approach your design research study, always ask for 
 
 Formal approvals from your executives may be required for complex design research activities. Complex design research activities may look like
 
-- Research with [vulnerable participants](https://bcgov.github.io/user-research-guide/ethics.html#participants-that-need-special-attention-vulnerable-participants) where they may not be able to [provide consent](https://bcgov.github.io/user-research-guide/planning-research/consent.html), or may be able to provide consent but not fully acknowledge the repercussions
+- Research with [vulnerable participants](https://bcgov.github.io/design-research-guide/ethics.html#participants-that-need-special-attention-vulnerable-participants) where they may not be able to [provide consent](https://bcgov.github.io/design-research-guide/planning-research/consent.html), or may be able to provide consent but not fully acknowledge the repercussions
 - Participants with higher risks involving physical, social, psychological/emotional, and repercussions for or for not participating
 - Data with special arrangements on who can access, how it is shared, security protocols, and storage
-- Collecting [personal information](https://bcgov.github.io/user-research-guide/privacy-personal-information.html) that will be identifiable to the participant
+- Collecting [personal information](https://bcgov.github.io/design-research-guide/privacy-personal-information.html) that will be identifiable to the participant
 - Research done outside of Canada

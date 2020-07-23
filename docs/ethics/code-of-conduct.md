@@ -7,7 +7,7 @@ parent: Ethics & Risk
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Researcher Code of Conduct
 
@@ -28,11 +28,11 @@ As a researcher you will:
 
 ## Informed Consent
 - Be direct in communicating the intention and use of the information collected
-- Receive [informed consent](https://bcgov.github.io/user-research-guide/planning-research/consent.html) before starting a session
+- Receive [informed consent](https://bcgov.github.io/design-research-guide/planning-research/consent.html) before starting a session
 
 ## Compensation
-- Be respectful of people’s time and show appreciation through [compensation](https://bcgov.github.io/user-research-guide/planning-research/compensation.html). Individuals who have travelled for workshops and interviews for the purpose of the research should be compensated in a manner that is considered respectful for their time and effort. When handing over the gift card, the researcher should provide the context of why they are being given a gift card. Certain communities have some sensitivity around gift cards. Explain to those participating in the research the compensation process and how it is a common research practice.
-- Develop an understanding of [appropriate protocols and behaviours towards compensating](https://bcgov.github.io/user-research-guide/planning-research/compensation.html#honorarium--gift-giving-for-indigenous-peoples) those participating in the research.
+- Be respectful of people’s time and show appreciation through [compensation](https://bcgov.github.io/design-research-guide/planning-research/compensation.html). Individuals who have travelled for workshops and interviews for the purpose of the research should be compensated in a manner that is considered respectful for their time and effort. When handing over the gift card, the researcher should provide the context of why they are being given a gift card. Certain communities have some sensitivity around gift cards. Explain to those participating in the research the compensation process and how it is a common research practice.
+- Develop an understanding of [appropriate protocols and behaviours towards compensating](https://bcgov.github.io/design-research-guide/planning-research/compensation.html#honorarium--gift-giving-for-indigenous-peoples) those participating in the research.
 
 ## Cultural Awareness
 - Identify appropriate cultural practices and protocols when interacting or engaging with people from different communities and cultural backgrounds.

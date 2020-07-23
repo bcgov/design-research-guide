@@ -6,14 +6,14 @@ nav_order: 8
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Analyze the Research
 
 Design research activities produce a lot of raw data, for example
 
 - Written and digital notes
-- [Audio and screen capture recordings](https://bcgov.github.io/user-research-guide/conduct-research.html#record-the-session)
+- [Audio and screen capture recordings](https://bcgov.github.io/design-research-guide/conduct-research.html#record-the-session)
 - Photos and videos
 - Sketches and drawings
 

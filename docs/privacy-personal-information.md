@@ -6,7 +6,7 @@ nav_order: 9
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Privacy & Personal Information
 Under development and review
@@ -39,4 +39,4 @@ https://www2.gov.bc.ca/gov/content/governments/services-for-government/informati
 ) when doing design research. Information on how the principles apply specifically to design research are coming soon.
 
 ## Consent and Privacy
-Review information about [consent](https://bcgov.github.io/user-research-guide/planning-research/consent.html) and keeping personal information private.
+Review information about [consent](https://bcgov.github.io/design-research-guide/planning-research/consent.html) and keeping personal information private.

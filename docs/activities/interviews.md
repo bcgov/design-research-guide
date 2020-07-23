@@ -6,7 +6,7 @@ parent: Research Activities
 ---
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 # Behavioural Interviews
 
 ## What is it?

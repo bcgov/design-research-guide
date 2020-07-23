@@ -6,7 +6,7 @@ nav_order: 4
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Define the Research Goals
 Before starting any research, you should understand
@@ -36,7 +36,7 @@ Research questions should help you answer your research goal. They are not the s
 Use research questions to help you plan and prioritize design research.
 
 Your research goals and questions will help you choose which
-- [Qualitative and/or quantitative methods](https://bcgov.github.io/user-research-guide/understand-user-research.html#qualitative-vs-quantitative) to use
-- [Research activities](https://bcgov.github.io/user-research-guide/activities/) to use
+- [Qualitative and/or quantitative methods](https://bcgov.github.io/design-research-guide/understand-user-research.html#qualitative-vs-quantitative) to use
+- [Research activities](https://bcgov.github.io/design-research-guide/activities/) to use
 
-You'll use this information to start [planning your research logistics](https://bcgov.github.io/user-research-guide/planning-research/).
+You'll use this information to start [planning your research logistics](https://bcgov.github.io/design-research-guide/planning-research/).

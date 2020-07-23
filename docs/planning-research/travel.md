@@ -7,7 +7,7 @@ parent: Plan the Research
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Travel for Research
 
@@ -15,7 +15,7 @@ Getting out of the office and talking to people in their day-to-day life is at t
 
 The best research location is where the participant would actually access the service. This means you might need to meet people at home, work, school, or their favourite coffee shop.
 
-Regional differences can play an important part in understanding the needs of people. Where someone lives should be part of your [Gender Based Analysis+](https://bcgov.github.io/user-research-guide/planning-research/#gender-based-analysis-in-research) process.
+Regional differences can play an important part in understanding the needs of people. Where someone lives should be part of your [Gender Based Analysis+](https://bcgov.github.io/design-research-guide/planning-research/#gender-based-analysis-in-research) process.
 
 > For example, a parent accessing child care in Metro Vancouver will have a very different experience compared to a parent in Dawson Creek.
 
@@ -56,4 +56,4 @@ Total cost approximately $0 to $50
 
 ## Remote Research
 
-If travel is not an option, you can still conduct [remote research sessions](https://bcgov.github.io/user-research-guide/activities/remote-research.html) using government approved online tools like Skype.
+If travel is not an option, you can still conduct [remote research sessions](https://bcgov.github.io/design-research-guide/activities/remote-research.html) using government approved online tools like Skype.

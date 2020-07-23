@@ -7,7 +7,7 @@ parent: Plan the Research
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Compensation & Stipends
 
@@ -61,7 +61,7 @@ You can purchase electronic gift cards (eGift Cards) as stipends. You must follo
 
 - You must create a record of proof that the participant received the compensation for accounting and auditing purposes
 - Gift cards can be perceived as being for personal use so receipts are mandatory in case a [Freedom of Information](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/open-government/open-information/freedom-of-information) request is made, or an audit happens
-- For in person research, use a [stipend receipt](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx) to create a record of proof that the participant received the gift card
+- For in person research, use a [stipend receipt](https://github.com/bcgov/design-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx) to create a record of proof that the participant received the gift card
 - For remote research, you can ask the participant to
   - Acknowledge they received the stipend on the consent form
   - Respond by email that they received the stipend
@@ -71,7 +71,7 @@ You can purchase electronic gift cards (eGift Cards) as stipends. You must follo
 
 Before using the template, complete the highlighted fields with your project information.
 
-[Download Receipt Template](https://github.com/bcgov/user-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx){: .btn .btn-blue }
+[Download Receipt Template](https://github.com/bcgov/design-research-guide/raw/master/docs/templates/Stipend_Receipt_Template.docx){: .btn .btn-blue }
 
 ## Honorarium & Gift Giving for Indigenous Peoples
 

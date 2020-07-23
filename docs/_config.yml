@@ -1,7 +1,7 @@
-title: User Research Guide
-description: Working document for people to collaborate on the user research guide
+title: Design Research Guide
+description: Working document for people to collaborate on the design research guide
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
   "Edit on Github":
-    - "//github.com/bcgov/user-research-guide"
+    - "//github.com/bcgov/design-research-guide"

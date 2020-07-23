@@ -6,7 +6,7 @@ nav_order: 3
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # Build the Case for Design Research
 
@@ -16,8 +16,8 @@ Quality research requires time. But don't let time constraints stop you from doi
 Your job title doesn't need to say "Design Researcher" to do design research.
 
 This guide gives you the basic information to understand
-- The [logistics of research planning](https://bcgov.github.io/user-research-guide/planning-research/)
-- [How to do the research](https://bcgov.github.io/user-research-guide/conduct-research.html) effectively
+- The [logistics of research planning](https://bcgov.github.io/design-research-guide/planning-research/)
+- [How to do the research](https://bcgov.github.io/design-research-guide/conduct-research.html) effectively
 
 When doing research, there will need to be a shift of staff responsibilities to provide some time for research activities.
 
@@ -47,32 +47,32 @@ You may need to get approval from your executive before starting research.
 
 Key questions that your executives may ask:
 
-- Do you require a [budget](https://bcgov.github.io/user-research-guide/planning-research/#create-a-budget)?
-- [Why are you talking to people?](https://bcgov.github.io/user-research-guide/understand-user-research.html#why-is-user-research-important)
-- [Who will you be talking to?](https://bcgov.github.io/user-research-guide/planning-research/#identify-the-right-participants) And how many people?
-- Have you completed a [Privacy Impact Assessment](https://bcgov.github.io/user-research-guide/planning-research/pia.html)?
+- Do you require a [budget](https://bcgov.github.io/design-research-guide/planning-research/#create-a-budget)?
+- [Why are you talking to people?](https://bcgov.github.io/design-research-guide/understand-user-research.html#why-is-user-research-important)
+- [Who will you be talking to?](https://bcgov.github.io/design-research-guide/planning-research/#identify-the-right-participants) And how many people?
+- Have you completed a [Privacy Impact Assessment](https://bcgov.github.io/design-research-guide/planning-research/pia.html)?
 
 A good way to capture the scope and requirements for research is to create a research plan. This plan is also a tool to communicate with your executive
 
-Before doing [complex research](https://bcgov.github.io/user-research-guide/ethics.html#complex-research-activities) you need to get approval.
+Before doing [complex research](https://bcgov.github.io/design-research-guide/ethics.html#complex-research-activities) you need to get approval.
 
 ## Write a Research Plan
 A research plan outlines the goals, approach and logistics for research. The plan should include:
 
-- Research [goals and questions](https://bcgov.github.io/user-research-guide/define-goals.html)
+- Research [goals and questions](https://bcgov.github.io/design-research-guide/define-goals.html)
 - Project background
-- What [kind of participants](https://bcgov.github.io/user-research-guide/planning-research/#identify-the-right-participants) need to be involved, and [how to recruit them](https://bcgov.github.io/user-research-guide/find-participants.html)
-- The research approach including [remote](https://bcgov.github.io/user-research-guide/activities/remote-research.html) or in person [activities for research](https://bcgov.github.io/user-research-guide/activities/) and [analysis](https://bcgov.github.io/user-research-guide/analysis.html)
+- What [kind of participants](https://bcgov.github.io/design-research-guide/planning-research/#identify-the-right-participants) need to be involved, and [how to recruit them](https://bcgov.github.io/design-research-guide/find-participants.html)
+- The research approach including [remote](https://bcgov.github.io/design-research-guide/activities/remote-research.html) or in person [activities for research](https://bcgov.github.io/design-research-guide/activities/) and [analysis](https://bcgov.github.io/design-research-guide/analysis.html)
 - Research reporting plans
 - Resources required, including team, time and budget including:
-  - [Travel requirements](https://bcgov.github.io/user-research-guide/planning-research/travel.html)
-  - [Compensation](https://bcgov.github.io/user-research-guide/planning-research/compensation.html)
+  - [Travel requirements](https://bcgov.github.io/design-research-guide/planning-research/travel.html)
+  - [Compensation](https://bcgov.github.io/design-research-guide/planning-research/compensation.html)
   - Software you may need to purchase
-- A schedule for research activities and [locations](https://bcgov.github.io/user-research-guide/planning-research/travel.html)
+- A schedule for research activities and [locations](https://bcgov.github.io/design-research-guide/planning-research/travel.html)
 - Support materials (if ready at this point in time) such as:
   - Interview scripts and workshop outlines
-  - [Recruiting screener](https://bcgov.github.io/user-research-guide/find-participants.html#screen-participants) to qualify research participants
-  - [Consent form](https://bcgov.github.io/user-research-guide/planning-research/consent.html)
+  - [Recruiting screener](https://bcgov.github.io/design-research-guide/find-participants.html#screen-participants) to qualify research participants
+  - [Consent form](https://bcgov.github.io/design-research-guide/planning-research/consent.html)
 
 > The research plan is a guide. Expect the unexpected. The team may have to make changes in schedules, participants or direction of the research.
 

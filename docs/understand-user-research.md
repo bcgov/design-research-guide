@@ -6,7 +6,7 @@ nav_order: 2
 
 Draft
 {: .label .label-blue}
-[Edit or Request New Content](https://github.com/bcgov/user-research-guide/issues/new/choose)
+[Edit or Request New Content](https://github.com/bcgov/design-research-guide/issues/new/choose)
 
 # What is Design Research?
 
@@ -42,26 +42,26 @@ Your focus in the Discover phase is on generative research and finding out what 
 It is best to challenge assumptions early to minimize unexpected surprises. When you discover areas of success and failure early, it is easier to plan what to do before lots of time has been committed to a solution.
 
 You should
-- Conduct [interviews](https://bcgov.github.io/user-research-guide/activities/interviews.html) to discover user problems and needs
+- Conduct [interviews](https://bcgov.github.io/design-research-guide/activities/interviews.html) to discover user problems and needs
 - Shadow someone to observe what they experience
-- Run a [usability test](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) on an existing service to identify challenges when completing tasks
+- Run a [usability test](https://bcgov.github.io/design-research-guide/activities/usability-testing.html) on an existing service to identify challenges when completing tasks
 
 ### Explore & Experiment
 In the Explore & Experiment phase, you should explore multiple concepts and options to solving problems. The goal is to explore different paths to solve the problem and worry about polishing the details in later phases.
 
 You should
  - Collaborate with co-creators to brainstorm and test different approaches
- - Conduct [intercept testing](https://bcgov.github.io/user-research-guide/activities/intercept.html) with a few different concepts and observe the participant’s reactions
+ - Conduct [intercept testing](https://bcgov.github.io/design-research-guide/activities/intercept.html) with a few different concepts and observe the participant’s reactions
  - Conduct preference tests to figure out the pros and cons of several concepts
- - Focus on [testing with low fidelity prototypes](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) to test your hypothesis
+ - Focus on [testing with low fidelity prototypes](https://bcgov.github.io/design-research-guide/activities/usability-testing.html) to test your hypothesis
 
 ### Build & Maintain
 By this phase, you will have narrowed down on a concept and are working out the details.
 
 You should
 - Conduct a card sorting exercise to structure menu items on your web page
-- [Intercept test](https://bcgov.github.io/user-research-guide/activities/intercept.html) on specific elements of the product. This is to ensure participants understand what you are asking them to do
-- Run a [usability test](https://bcgov.github.io/user-research-guide/activities/usability-testing.html) on high fidelity prototypes or working software to identify potential usability issues. The purpose is to take a product idea and iterate to make gradual improvements based on feedback
+- [Intercept test](https://bcgov.github.io/design-research-guide/activities/intercept.html) on specific elements of the product. This is to ensure participants understand what you are asking them to do
+- Run a [usability test](https://bcgov.github.io/design-research-guide/activities/usability-testing.html) on high fidelity prototypes or working software to identify potential usability issues. The purpose is to take a product idea and iterate to make gradual improvements based on feedback
 
 ## Qualitative & Quantitative Research
 
@@ -97,7 +97,7 @@ If your project only uses qualitative data, think about how you can use numerica
 ## Conducting Design Research Remotely or Online
 It is preferable to conduct design research in-person. Face-to-face interactions allow you to build trust and to observe what people are thinking, feeling and doing. However, sometimes it is not possible to be in the same place as participants.  
 
-Conducting [design research remotely](https://bcgov.github.io/user-research-guide/activities/remote-research.html) can open up opportunities, such as:
+Conducting [design research remotely](https://bcgov.github.io/design-research-guide/activities/remote-research.html) can open up opportunities, such as:
 - Collaborate with more participants
 - Cover a wider geographical area of participate
 - Discuss difficult topics that might be hard to talk about face-to-face
