@@ -69,7 +69,7 @@ You should keep of record of these missing groups to show gaps in your research 
 
 There is no exact number of participants you need when completing design research. For each round of [interviews](https://bcgov.github.io/design-research-guide/activities/interviews.html) or [usability tests](https://bcgov.github.io/design-research-guide/activities/usability-testing.html) with **each [audience group](https://bcgov.github.io/design-research-guide/planning-research/#4-specify-the-audience-groups)**, you should have between 4 and 8 participants. After 5 sessions you should see patterns in answers and themes emerging.
 
-You don't need a huge sample size in [qualitative research](https://bcgov.github.io/design-research-guide/understand-user-research.html#qualitative-vs-quantitative) to get value insights.
+You don't need a huge sample size in [qualitative research](https://bcgov.github.io/design-research-guide/understand-design-research.html#qualitative-vs-quantitative) to get value insights.
 
 ## 6. Create a Budget
 

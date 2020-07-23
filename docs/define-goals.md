@@ -36,7 +36,7 @@ Research questions should help you answer your research goal. They are not the s
 Use research questions to help you plan and prioritize design research.
 
 Your research goals and questions will help you choose which
-- [Qualitative and/or quantitative methods](https://bcgov.github.io/design-research-guide/understand-user-research.html#qualitative-vs-quantitative) to use
+- [Qualitative and/or quantitative methods](https://bcgov.github.io/design-research-guide/understand-design-research.html#qualitative-vs-quantitative) to use
 - [Research activities](https://bcgov.github.io/design-research-guide/activities/) to use
 
 You'll use this information to start [planning your research logistics](https://bcgov.github.io/design-research-guide/planning-research/).

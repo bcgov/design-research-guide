@@ -48,7 +48,7 @@ You may need to get approval from your executive before starting research.
 Key questions that your executives may ask:
 
 - Do you require a [budget](https://bcgov.github.io/design-research-guide/planning-research/#create-a-budget)?
-- [Why are you talking to people?](https://bcgov.github.io/design-research-guide/understand-user-research.html#why-is-user-research-important)
+- [Why are you talking to people?](https://bcgov.github.io/design-research-guide/understand-design-research.html#why-is-user-research-important)
 - [Who will you be talking to?](https://bcgov.github.io/design-research-guide/planning-research/#identify-the-right-participants) And how many people?
 - Have you completed a [Privacy Impact Assessment](https://bcgov.github.io/design-research-guide/planning-research/pia.html)?
 
