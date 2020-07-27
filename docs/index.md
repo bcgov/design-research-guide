@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-Draft - v0.2.1
+Draft - v0.3.0
 {: .label }
 # Design Research Guide
 
