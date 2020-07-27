@@ -10,7 +10,7 @@ Draft
 
 # What is Design Research?
 
-Design research (sometimes called user research) is a study of who the users of a service are, how they behave, and what their motivations for using the service are.
+Design research (sometimes called user research) is a study of the people who use your service, how they behave, and what their motivations are for using the service.
 
 We hear from people in their own words, so we may gain an understanding of what they want and need from government.
 
